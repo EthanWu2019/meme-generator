@@ -439,29 +439,33 @@ export class MemePlugin extends plugin {
     const userName = pick?.name || ""
 
     // ---- 组装图片 ----
+    //
+    // 顺序严格对齐 earth-k (apps/emoticon.js 70-97 行):
+    //   需要 2 图时,第一张永远是【发送者自己】,第二张才是【被艾特的人】。
+    //   「撅」「摸头」这类互动表情就是靠这个顺序区分攻守的,
+    //   两张都填被艾特者的头像会让图看起来完全不对。
+    //
+    //   earth-k 细节:
+    //     - 先无条件 append 发送者头像(仅当 min_images == 2)
+    //     - 再对 min_images != 0 追加一张:回复图 > 自己发的图 > 被艾特者头像
     const images = []
+    const targetAv =
+      (await this.getAvatarUrl(e, pick, atId)) ||
+      `http://q2.qlogo.cn/headimg_dl?dst_uin=${atId}&spec=5`
 
-    // 1) 回复消息里的图优先
-    const replied = await this.getRepliedImage(e)
-    if (replied) images.push(replied)
-
-    // 2) 自己发的图
-    if (images.length < need && e.img?.[0]) {
-      const buf = await fetchImage(e.img[0])
+    // 1) 互动表情:发送者自己在前
+    if (need >= 2) {
+      const selfUrl = await this.getSelfAvatarUrl(e)
+      const buf = selfUrl ? await fetchImage(selfUrl) : null
       if (buf) images.push(buf)
     }
 
-    // 3) 被艾特的人的头像(earth-k 同款 qlogo 兜底)
-    while (images.length < need) {
-      const url =
-        (await this.getAvatarUrl(e, pick, atId)) ||
-        `http://q2.qlogo.cn/headimg_dl?dst_uin=${atId}&spec=5`
-      const buf = await fetchImage(url)
-      if (buf) {
-        images.push(buf)
-        continue
-      }
-      break
+    // 2) 目标图:回复里的图 > 本条消息附带的图 > 被艾特者头像
+    if (need >= 1) {
+      let buf = (await this.getRepliedImage(e)) || null
+      if (!buf && e.img?.[0]) buf = await fetchImage(e.img[0])
+      if (!buf) buf = await fetchImage(targetAv)
+      if (buf) images.push(buf)
     }
 
     if (images.length < need) {
@@ -512,17 +516,18 @@ export class MemePlugin extends plugin {
       )
     }
 
+    const eng = memeEngine.get(item.key) || "rust"
+    logger.mark?.(`[${PLUGIN_NAME}] ${match} -> ${item.key} (${eng}, ${images.length}张图, ${texts.length}个文字)`)
+    const t0 = Date.now()
     try {
       const buf = await renderService({
-        key: item.key,
-        engine: memeEngine.get(item.key) || "rust",
-        images,
-        texts,
+        key: item.key, engine: eng, images, texts,
         args: Object.keys(args).length ? args : null
       })
+      logger.mark?.(`[${PLUGIN_NAME}] ${match} -> ${item.key} OK ${buf.length}B in ${Date.now()-t0}ms`)
       return e.reply(segment.image(buf))
     } catch (err) {
-      logger.error(`[${PLUGIN_NAME}] 渲染 ${item.key} 失败: ${err.message}`)
+      logger.error?.(`[${PLUGIN_NAME}] ${match} -> ${item.key} FAIL (${eng}): ${err.message}`)
       return e.reply(`表情生成失败：${err.message}`, true)
     }
   }
@@ -547,6 +552,21 @@ export class MemePlugin extends plugin {
       if (url) return url
     } catch { /* 退回 qlogo */ }
     return null
+  }
+
+  /**
+   * 取【发送者自己】的头像。
+   * earth-k 的两图表情(撅/摸头等)第一张必须是发送者,否则攻守颠倒。
+   * 群聊走 e.member,私聊走 e.friend,都拿不到就用 qlogo 兜底。
+   */
+  async getSelfAvatarUrl(e) {
+    try {
+      const url =
+        (await e.member?.getAvatarUrl?.()) || (await e.friend?.getAvatarUrl?.())
+      if (url) return url
+    } catch { /* 退回 qlogo */ }
+    const uid = e.user_id || e.self_id
+    return uid ? `http://q2.qlogo.cn/headimg_dl?dst_uin=${uid}&spec=5` : null
   }
 
   /** 取被回复消息里的第一张图 */
