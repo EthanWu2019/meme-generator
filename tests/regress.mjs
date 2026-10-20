@@ -2,6 +2,7 @@
 import http from "node:http"
 import zlib from "node:zlib"
 import { createRequire } from "node:module"
+import { createHash } from "node:crypto"
 const require = createRequire(import.meta.url)
 
 const errors = []
@@ -73,12 +74,13 @@ const cases = [
   ["爬 5",                  "image", "crawl number 数值"],
   // earth-k 独占表情 -> 走 Python 引擎(8767)
   ["撅",                    "image", "do (python 引擎)"],
-  ["狠撅",                  "image", "狠撅=do 别名"],
+  ["狠撅",                  "image", "狠撅=hendo 独立模板(60ms)"],
   ["龟龟撅",                "image", "turtle_jue (python)"],
   ["大撅",                  "image", "big_do (python)"],
-  ["猛撅",                  "image", "猛撅=do 别名"],
+  ["猛撅",                  "none",  "mengjue 待主人确认素材"],
   ["安安举牌 你好",          "image", "acacia_anan_holdsign (文字类)"],
   ["狠撅@222222",            "image", "狠撅+@"],
+  ["狠狠撅",                "image", "hendo 第二关键词"],
   ["为什么艾特我",           "image", "petpet 独有模板"],
   ["阿尼亚",                 "image", "petpet 别名->rust 模板"],
   ["想什么",                 "image", "petpet 别名->rust 模板"],
@@ -114,7 +116,6 @@ for (const [cmd, fn, arg] of [["表情包状态","onStatus",null],["表情包搜
 
 // ---- 参数是否真的改变了输出(hash 比对)----
 console.log("\n=== 参数生效性(不同参数应产出不同图片) ===")
-import { createHash } from "node:crypto"
 async function renderRaw(key, args) {
   const B = "----r" + Math.random().toString(36).slice(2)
   const chunks = []
@@ -145,6 +146,23 @@ for (const [key, a, b, label] of [
   const distinct = h1 !== h2
   distinct ? pass++ : fail++
   console.log(`${distinct ? "PASS" : "FAIL"}  ${label.padEnd(34)} ${h1} vs ${h2}`)
+}
+
+// 狠撅(hendo)必须和撅(do)输出不同的图：同一个素材、更快的播放速度。
+// 如果哪天又被合并成别名，这里会 FAIL。
+{
+  const md5 = (b) => createHash("md5").update(b).digest("hex")
+  const grab = async (msg) => {
+    const e = ev(msg); await inst.accept(e)
+    const r = e.replies[0]
+    if (e.replies.length === 0) return null
+    return r?.type === "image" ? md5(r.buffer) : "text"
+  }
+  const a = await grab("撅")
+  const b = await grab("狠撅")
+  const distinct = a && b && a !== b
+  distinct ? pass++ : fail++
+  console.log(`${distinct ? "PASS" : "FAIL"}  hendo vs do 输出必须不同   do=${a} hendo=${b}`)
 }
 
 srv.close()

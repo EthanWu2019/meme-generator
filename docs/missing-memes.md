@@ -153,3 +153,16 @@ fbi
 鲁鲁骑猪
 黑丝
 ```
+
+## do 家族缺失模板（earth-k 私有，无开源实现）
+
+| key | 关键词 | 图数 | 状态 |
+|---|---|---|---|
+| `hendo` | 狠撅 / 狠狠撅 | 2 | **已本地实现** —— 复用 `do` 素材，`save_gif` 时长 0.02s（do 是 0.05s），输出 MD5 与 do 不同，回归有守卫断言 |
+| `mengjue` | 猛撅 / 速撅 / 狗狗撅 | 2 | 待确认素材（主人 2026-10-20 决定先跳过） |
+| `nantongjue` | 男同撅 / 猥琐撅 | 2 | 待确认素材 |
+| `nvtongjue` | 女同撅 / 姐妹撅 | 2 | 待确认素材 |
+
+这 4 个在 `MemeCrafters/meme-generator`(主仓 282)、
+`nonebot-plugin-petpet`、`nonebot-plugin-memes` 里都没有源码，GitHub 全站 code search 也搜不到。
+只有 earth-k 后端 `h.winterqkl.cn` 有（已下线），元数据保留在 earth-k 的 `resources/bq.json`。
