@@ -20,5 +20,17 @@ D:\TRSSYUNZAI\MemeService\.venv\Scripts\python.exe tests\smoke.py
 type C:\Users\34018\smoke.txt
 ```
 
-统计成功率 / GIF 与 PNG 分布 / 平均耗时，失败项列在末尾。
-300 个约需 1-3 分钟。
+统计成功率 / GIF 与 PNG 分布 / 平均耗时，300 个约需 1-3 分钟。
+
+期望结尾：
+
+```
+  OK   : 298
+  FAIL : 0
+  known-broken upstream (已从词表剔除): 2 -> little_angel, loading
+=== no regressions: 所有未列入 EXPECTED_BROKEN 的表情全部渲染成功 ===
+```
+
+`FAIL` 只统计**真实回归**。`little_angel` / `loading` 是上游 0.2.3 自身损坏
+（见主 README「已知问题」），脚本里用 `EXPECTED_BROKEN` 单独归类，
+上游修复后从该集合移除即可。
