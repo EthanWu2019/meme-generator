@@ -1,0 +1,4072 @@
+[
+ {
+  "key": "5000choyen",
+  "keywords": [
+   "5000兆"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "æå»",
+   "æ´å¤©ä¾"
+  ],
+  "options": []
+ },
+ {
+  "key": "abstinence",
+  "keywords": [
+   "戒导"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "time"
+  ]
+ },
+ {
+  "key": "ace_attorney_dialog",
+  "keywords": [
+   "逆转裁判气泡"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "è¡¨æåå¶ä½"
+  ],
+  "options": []
+ },
+ {
+  "key": "acg_entrance",
+  "keywords": [
+   "二次元入口"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "èµ°ï¼è·æå»äºæ¬¡åå§"
+  ],
+  "options": []
+ },
+ {
+  "key": "add_chaos",
+  "keywords": [
+   "添乱",
+   "给社会添乱"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "addiction",
+  "keywords": [
+   "上瘾",
+   "毒瘾发作"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "alike",
+  "keywords": [
+   "一样"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "alipay",
+  "keywords": [
+   "支付宝支付"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "message"
+  ]
+ },
+ {
+  "key": "always",
+  "keywords": [
+   "一直"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "mode",
+   "circle",
+   "loop"
+  ]
+ },
+ {
+  "key": "always_like",
+  "keywords": [
+   "我永远喜欢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "anan_say",
+  "keywords": [
+   "å®å®è¯´"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¾è¾å¾å¼å¿"
+  ],
+  "options": [
+   "expression"
+  ]
+ },
+ {
+  "key": "anti_kidnap",
+  "keywords": [
+   "防诱拐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "anya_suki",
+  "keywords": [
+   "阿尼亚喜欢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [
+   "é¿å°¼äºåæ¬¢è¿ä¸ª"
+  ],
+  "options": []
+ },
+ {
+  "key": "applaud",
+  "keywords": [
+   "鼓掌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "arona_throw",
+  "keywords": [
+   "阿罗娜扔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ascension",
+  "keywords": [
+   "升天"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å­¦çæ¯æºæ¢°"
+  ],
+  "options": []
+ },
+ {
+  "key": "ask",
+  "keywords": [
+   "问问"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "gender"
+  ]
+ },
+ {
+  "key": "atri_pillow",
+  "keywords": [
+   "亚托莉枕头"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ATRI"
+  ],
+  "options": [
+   "mode",
+   "yes",
+   "no"
+  ]
+ },
+ {
+  "key": "ayachi_holdsign",
+  "keywords": [
+   "宁宁举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ææ§å¶ä¸ä½èªå·±å"
+  ],
+  "options": []
+ },
+ {
+  "key": "ba_say",
+  "keywords": [
+   "ba说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "é£æé®ä½ "
+  ],
+  "options": [
+   "character",
+   "position",
+   "left",
+   "right"
+  ]
+ },
+ {
+  "key": "back_to_work",
+  "keywords": [
+   "继续干活",
+   "打工人"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "backflip",
+  "keywords": [
+   "后空翻"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "bad_news",
+  "keywords": [
+   "悲报"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "åæ¥"
+  ],
+  "options": []
+ },
+ {
+  "key": "batitle",
+  "keywords": [
+   "èèæ¡£æ¡æ é¢",
+   "batitle"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "Blue",
+   "Archive"
+  ],
+  "options": []
+ },
+ {
+  "key": "beat_head",
+  "keywords": [
+   "拍头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æä¹è¯´è¯çä½ "
+  ],
+  "options": []
+ },
+ {
+  "key": "beat_up",
+  "keywords": [
+   "揍"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "blamed_mahiro",
+  "keywords": [
+   "真寻挨骂"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å»é¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "blood_pressure",
+  "keywords": [
+   "高血压"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "bocchi_draft",
+  "keywords": [
+   "波奇手稿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "bronya_holdsign",
+  "keywords": [
+   "布洛妮娅举牌",
+   "大鸭鸭举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "Væ50"
+  ],
+  "options": []
+ },
+ {
+  "key": "bubble_tea",
+  "keywords": [
+   "奶茶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "position",
+   "left",
+   "right",
+   "both"
+  ]
+ },
+ {
+  "key": "call_110",
+  "keywords": [
+   "遇到困难请拨打"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_draw",
+  "keywords": [
+   "咖波画"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_point",
+  "keywords": [
+   "咖波指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_rip",
+  "keywords": [
+   "咖波撕"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_rub",
+  "keywords": [
+   "咖波蹭",
+   "咖波贴"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_say",
+  "keywords": [
+   "咖波说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 10,
+  "default_texts": [
+   "å¯"
+  ],
+  "options": []
+ },
+ {
+  "key": "capoo_stew",
+  "keywords": [
+   "咖波炖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_strike",
+  "keywords": [
+   "咖波撞",
+   "咖波头槌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "captain",
+  "keywords": [
+   "舰长"
+  ],
+  "min_images": 2,
+  "max_images": 5,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "caused_by_this",
+  "keywords": [
+   "这个引起的"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "å¿èç é«è¡å å¿å¾ä¸é½ å¿èæ¢å¡ å¤±ç  è±å å¼å¸å°é¾ è¸é·æ°ç­ ç¼ºæ°§ èºé ç¦è èä¾è¡ä¸è¶³ å¿æå¿æ¸ å¿èè¡ç®¡ç¸è£"
+  ],
+  "options": []
+ },
+ {
+  "key": "certificate",
+  "keywords": [
+   "奖状",
+   "证书"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 3,
+  "max_texts": 4,
+  "default_texts": [
+   "å°ç",
+   "ä¼ç§å­¦ç",
+   "ä¸å¹´ä¸ç­"
+  ],
+  "options": [
+   "time"
+  ]
+ },
+ {
+  "key": "chanshenzi",
+  "keywords": [
+   "馋身子"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 3,
+  "max_texts": 3,
+  "default_texts": [
+   "ä½ é£å«åæ¬¢åï¼",
+   "ä½ é£æ¯é¦å¥¹èº«å­",
+   "ä½ ä¸è´±ï¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "charpic",
+  "keywords": [
+   "字符画"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chase_train",
+  "keywords": [
+   "追列车",
+   "追火车"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "china_flag",
+  "keywords": [
+   "国旗"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chino_throw",
+  "keywords": [
+   "智乃扔",
+   "智乃抛"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "clauvio_twist",
+  "keywords": [
+   "鼠鼠搓"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "clown",
+  "keywords": [
+   "小丑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "person"
+  ]
+ },
+ {
+  "key": "clown_mask",
+  "keywords": [
+   "小丑面具"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "mode",
+   "front",
+   "behind"
+  ]
+ },
+ {
+  "key": "confuse",
+  "keywords": [
+   "迷惑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "coupon",
+  "keywords": [
+   "兑换券"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "cover_face",
+  "keywords": [
+   "捂脸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "crawl",
+  "keywords": [
+   "爬"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "cyan",
+  "keywords": [
+   "群青"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "daynight",
+  "keywords": [
+   "白天黑夜",
+   "白天晚上"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "decent_kiss",
+  "keywords": [
+   "像样的亲亲"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dianzhongdian",
+  "keywords": [
+   "入典",
+   "典中典",
+   "黑白草图"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 2,
+  "default_texts": [
+   "æå½å"
+  ],
+  "options": []
+ },
+ {
+  "key": "dinosaur",
+  "keywords": [
+   "恐龙",
+   "小恐龙"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "distracted",
+  "keywords": [
+   "注意力涣散"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "divorce",
+  "keywords": [
+   "离婚协议",
+   "离婚申请"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dog_dislike",
+  "keywords": [
+   "狗都不玩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "circle"
+  ]
+ },
+ {
+  "key": "dog_of_vtb",
+  "keywords": [
+   "管人痴"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dont_go_near",
+  "keywords": [
+   "不要靠近"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dont_press",
+  "keywords": [
+   "不要按"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä¸çæ¯ç­"
+  ],
+  "options": []
+ },
+ {
+  "key": "dont_touch",
+  "keywords": [
+   "别碰"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doraemon_say",
+  "keywords": [
+   "åå¦Aæ¢¦è¯´"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¼é¶è¶´ä¸åææ¯å§"
+  ],
+  "options": []
+ },
+ {
+  "key": "douyin",
+  "keywords": [
+   "douyin"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "douyin"
+  ],
+  "options": []
+ },
+ {
+  "key": "eat",
+  "keywords": [
+   "吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "elysia_holdsign",
+  "keywords": [
+   "ç±èä¸¾ç"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "è¦å¥½å¥½ç±èå¦~"
+  ],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "emperor_dragon",
+  "keywords": [
+   "皇帝龙图"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¬ä¸æï¼éæ"
+  ],
+  "options": []
+ },
+ {
+  "key": "erised_mirror",
+  "keywords": [
+   "意若思镜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fade_away",
+  "keywords": [
+   "灰飞烟灭"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fanatic",
+  "keywords": [
+   "狂爱",
+   "狂粉"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æ´å¤©ä¾"
+  ],
+  "options": []
+ },
+ {
+  "key": "father_work",
+  "keywords": [
+   "闭嘴",
+   "我爸爸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fencing",
+  "keywords": [
+   "击剑",
+   "🤺"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fight_with_sunuo",
+  "keywords": [
+   "我打宿傩",
+   "我打宿傩吗"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fill_head",
+  "keywords": [
+   "满脑子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "find_chips",
+  "keywords": [
+   "整点薯条"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "æä»¬è¦é£åä½æ¹",
+   "ææç®å¾ä¼å»ç å¤´æ´ç¹è¯æ¡",
+   "æè¯´çæ¯å½æ ¹ç»åºï¼æ´»çæ¯ä¸ºäºä»ä¹",
+   "ä¸ºäºå¾ä¼å»ç å¤´æ´ç¹è¯æ¡"
+  ],
+  "options": []
+ },
+ {
+  "key": "firefly_holdsign",
+  "keywords": [
+   "流萤举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æè¶ç±ä½ "
+  ],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "flash_blind",
+  "keywords": [
+   "闪瞎"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "flick",
+  "keywords": [
+   "弹",
+   "脑瓜崩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "flush",
+  "keywords": [
+   "红温"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fogging",
+  "keywords": [
+   "回南天",
+   "水雾"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "åå¼ï¼ååäº"
+  ],
+  "options": []
+ },
+ {
+  "key": "follow",
+  "keywords": [
+   "关注"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "gender"
+  ]
+ },
+ {
+  "key": "forbid",
+  "keywords": [
+   "禁止",
+   "禁"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "frieren_take",
+  "keywords": [
+   "芙莉莲拿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æè°çç·äººåï¼åªè¦éä»ä»¬è¿ç§ä¸è¥¿å°±ä¼å¾å¼å¿"
+  ],
+  "options": []
+ },
+ {
+  "key": "funny_mirror",
+  "keywords": [
+   "哈哈镜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "garbage",
+  "keywords": [
+   "垃圾",
+   "垃圾桶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "genshin_eat",
+  "keywords": [
+   "原神吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "character"
+  ]
+ },
+ {
+  "key": "genshin_start",
+  "keywords": [
+   "原神启动"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "åç¥ï¼å¯å¨ï¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "good_news",
+  "keywords": [
+   "喜报"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æ²æ¥"
+  ],
+  "options": []
+ },
+ {
+  "key": "google",
+  "keywords": [
+   "google"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "Google"
+  ],
+  "options": []
+ },
+ {
+  "key": "google_captcha",
+  "keywords": [
+   "谷歌验证码"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "gorilla_throw",
+  "keywords": [
+   "猩猩扔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "grab",
+  "keywords": [
+   "抓"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "grab_both_hands",
+  "keywords": [
+   "åææ"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "guichu",
+  "keywords": [
+   "鬼畜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "direction",
+   "left",
+   "right",
+   "top",
+   "bottom"
+  ]
+ },
+ {
+  "key": "gun",
+  "keywords": [
+   "手枪"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "position",
+   "left",
+   "right",
+   "both"
+  ]
+ },
+ {
+  "key": "hammer",
+  "keywords": [
+   "锤"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "haruhi_raise",
+  "keywords": [
+   "凉宫春日举"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "head_butt",
+  "keywords": [
+   "é¡¶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "high_eq",
+  "keywords": [
+   "é«ä½æå",
+   "ä½é«æå"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "é«æå",
+   "ä½æå"
+  ],
+  "options": []
+ },
+ {
+  "key": "hit_screen",
+  "keywords": [
+   "打穿",
+   "打穿屏幕"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "hold_grudge",
+  "keywords": [
+   "记仇"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ç¾¤åä¸åæ¶©å¾"
+  ],
+  "options": [
+   "time"
+  ]
+ },
+ {
+  "key": "hold_tight",
+  "keywords": [
+   "抱紧"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "hug",
+  "keywords": [
+   "抱",
+   "抱抱"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "hug_leg",
+  "keywords": [
+   "抱大腿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "hutao_bite",
+  "keywords": [
+   "胡桃啃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "imprison",
+  "keywords": [
+   "坐牢"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æåæ¶©å¾è¢«æèµ·æ¥äº"
+  ],
+  "options": []
+ },
+ {
+  "key": "incivilization",
+  "keywords": [
+   "不文明"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ åæè¯´çè¯ä¸æ¯å¾ç¤¼è²ï¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "intel_inside",
+  "keywords": [
+   "inside"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "intel"
+  ],
+  "options": []
+ },
+ {
+  "key": "interview",
+  "keywords": [
+   "采访"
+  ],
+  "min_images": 1,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "éè®¿å¤§ä½¬ç»éª"
+  ],
+  "options": []
+ },
+ {
+  "key": "jerry_stare",
+  "keywords": [
+   "杰瑞盯"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jiamianqishi",
+  "keywords": [
+   "假面骑士"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "å¦ï½",
+   "ï¼é£æï¼",
+   "ä¸ç´æ³çä½ è¿å¹è¡¨æ",
+   "è¿å¹å«å¦æçè¡¨æ"
+  ],
+  "options": []
+ },
+ {
+  "key": "jiji_king",
+  "keywords": [
+   "急急国王"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ææ¯æ¥æ¥å½ç"
+  ],
+  "options": [
+   "block_text"
+  ]
+ },
+ {
+  "key": "jinhsi",
+  "keywords": [
+   "汐汐",
+   "今汐"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æ±æ±"
+  ],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "jiubingfufa",
+  "keywords": [
+   "旧病复发"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æ­¤ä¹æ§çå¤åä¹"
+  ],
+  "options": []
+ },
+ {
+  "key": "jiujiu",
+  "keywords": [
+   "啾啾"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jump",
+  "keywords": [
+   "跳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kaleidoscope",
+  "keywords": [
+   "万花筒",
+   "万花镜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "circle"
+  ]
+ },
+ {
+  "key": "karyl_point",
+  "keywords": [
+   "凯露指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "keep_away",
+  "keywords": [
+   "远离"
+  ],
+  "min_images": 1,
+  "max_images": 8,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "å¦ä½æé«ç¤¾äº¤è´¨é : \nè¿ç¦»ä»¥ä¸å¤´åçäºº"
+  ],
+  "options": []
+ },
+ {
+  "key": "keep_your_money",
+  "keywords": [
+   "压岁钱不要交给"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "character"
+  ]
+ },
+ {
+  "key": "kick_ball",
+  "keywords": [
+   "踢球"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kirby_hammer",
+  "keywords": [
+   "卡比锤",
+   "卡比重锤"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "circle"
+  ]
+ },
+ {
+  "key": "kiss",
+  "keywords": [
+   "亲",
+   "亲亲"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "klee_eat",
+  "keywords": [
+   "可莉吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "knock",
+  "keywords": [
+   "敲"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kokona_seal",
+  "keywords": [
+   "心奈印章"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æ»¡å"
+  ],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "konata_watch",
+  "keywords": [
+   "泉此方看"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "learn",
+  "keywords": [
+   "偷学"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "å·å­¦ç¾¤åæ°çåºç¡"
+  ],
+  "options": []
+ },
+ {
+  "key": "left_right_jump",
+  "keywords": [
+   "左右横跳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "direction",
+   "left_right",
+   "right_left"
+  ]
+ },
+ {
+  "key": "let_me_in",
+  "keywords": [
+   "让我进去"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "lick_candy",
+  "keywords": [
+   "舔糖",
+   "舔棒棒糖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "lim_x_0",
+  "keywords": [
+   "等价无穷小"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "listen_music",
+  "keywords": [
+   "听音乐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "little_angel",
+  "keywords": [
+   "小天使"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "gender"
+  ]
+ },
+ {
+  "key": "loading",
+  "keywords": [
+   "加载中"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "look_flat",
+  "keywords": [
+   "看扁"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "å¯æ¶...è¢«äººçæäº"
+  ],
+  "options": [
+   "ratio"
+  ]
+ },
+ {
+  "key": "look_this_icon",
+  "keywords": [
+   "看图标"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æå\nåççè¿ä¸ªå¾æ åè¯´è¯"
+  ],
+  "options": []
+ },
+ {
+  "key": "loop",
+  "keywords": [
+   "循环"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "direction",
+   "left",
+   "right",
+   "top",
+   "bottom"
+  ]
+ },
+ {
+  "key": "lost_dog",
+  "keywords": [
+   "寻狗启事"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "love_you",
+  "keywords": [
+   "永远爱你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "luotianyi_need",
+  "keywords": [
+   "洛天依要",
+   "天依要"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "luotianyi_say",
+  "keywords": [
+   "洛天依说",
+   "天依说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¥½æ³å»æµ·è¾¹åï½"
+  ],
+  "options": []
+ },
+ {
+  "key": "luoyonghao_say",
+  "keywords": [
+   "罗永浩说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "åä¸æ¯ä¸è½ç¨"
+  ],
+  "options": []
+ },
+ {
+  "key": "luxun_say",
+  "keywords": [
+   "鲁迅说",
+   "鲁迅说过"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ææ²¡æè¯´è¿è¿å¥è¯"
+  ],
+  "options": []
+ },
+ {
+  "key": "mahiro_readbook",
+  "keywords": [
+   "真寻看书"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "maikease",
+  "keywords": [
+   "麦克阿瑟说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "ç¾å½åäºæä¸å°éº¦åé¿ç",
+   "æ¾è¿æ ·è¯ä»·é",
+   "å¦æè®©æå»é»æ­¢xxx",
+   "é£ä¹æå®æ¿å»é»æ­¢ä¸å¸"
+  ],
+  "options": []
+ },
+ {
+  "key": "maimai_awaken",
+  "keywords": [
+   "旅行伙伴觉醒"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "maimai_join",
+  "keywords": [
+   "旅行伙伴加入"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "make_friend",
+  "keywords": [
+   "交个朋友"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "marriage",
+  "keywords": [
+   "结婚申请",
+   "结婚登记"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "meteor",
+  "keywords": [
+   "流星"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æè¦å¯¹è±¡"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo",
+  "keywords": [
+   "米哈游"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mourning",
+  "keywords": [
+   "上香"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "gray"
+  ]
+ },
+ {
+  "key": "murmur",
+  "keywords": [
+   "低语"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ çåæä½é¢ä¸è¶³"
+  ],
+  "options": []
+ },
+ {
+  "key": "my_friend_say",
+  "keywords": [
+   "ææåè¯´"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 10,
+  "default_texts": [
+   "è®©æåº·åº·"
+  ],
+  "options": []
+ },
+ {
+  "key": "my_opinion",
+  "keywords": [
+   "我的意见如下",
+   "我的意见是"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "my_wife",
+  "keywords": [
+   "我老婆",
+   "这是我老婆"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "pronoun",
+   "name"
+  ]
+ },
+ {
+  "key": "nahida_bite",
+  "keywords": [
+   "纳西妲啃",
+   "草神啃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "name_generator",
+  "keywords": [
+   "亚文化取名机",
+   "亚名"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "need",
+  "keywords": [
+   "需要",
+   "你可能需要"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nekoha_holdsign",
+  "keywords": [
+   "猫羽雫举牌",
+   "猫猫举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "Væ50"
+  ],
+  "options": []
+ },
+ {
+  "key": "nihaosaoa",
+  "keywords": [
+   "你好骚啊"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 3,
+  "max_texts": 3,
+  "default_texts": [
+   "æ¢ç¶è¿½æ±åºæ¿",
+   "å°±è´¯å½»å°åºäº",
+   "ä½ å¥½éªå"
+  ],
+  "options": []
+ },
+ {
+  "key": "nijika_holdsign",
+  "keywords": [
+   "伊地知虹夏举牌",
+   "虹夏举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ å¯å°çç¹äºæ¬¡åå§"
+  ],
+  "options": []
+ },
+ {
+  "key": "no_response",
+  "keywords": [
+   "无响应"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nokia",
+  "keywords": [
+   "诺基亚",
+   "有内鬼"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æ åé¬¼ï¼ç»§ç»­äº¤æ"
+  ],
+  "options": []
+ },
+ {
+  "key": "note_for_leave",
+  "keywords": [
+   "请假条"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æ³ç©åç¥"
+  ],
+  "options": [
+   "time"
+  ]
+ },
+ {
+  "key": "operator_generator",
+  "keywords": [
+   "合成大干员"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "oshi_no_ko",
+  "keywords": [
+   "我推的网友"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "name"
+  ]
+ },
+ {
+  "key": "osu",
+  "keywords": [
+   "osu"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "hso!"
+  ],
+  "options": []
+ },
+ {
+  "key": "out",
+  "keywords": [
+   "out"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "overtime",
+  "keywords": [
+   "加班"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "p5letter",
+  "keywords": [
+   "女神异闻录5预告信",
+   "P5预告信"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "TAKEYOURHEART"
+  ],
+  "options": []
+ },
+ {
+  "key": "paint",
+  "keywords": [
+   "这像画吗"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "painter",
+  "keywords": [
+   "小画家"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "panda_dragon_figure",
+  "keywords": [
+   "熊猫龙图"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æè¦ç©åç¥"
+  ],
+  "options": [
+   "name"
+  ]
+ },
+ {
+  "key": "pass_the_buck",
+  "keywords": [
+   "推锅",
+   "甩锅"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ å!"
+  ],
+  "options": []
+ },
+ {
+  "key": "pat",
+  "keywords": [
+   "拍"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pepe_raise",
+  "keywords": [
+   "佩佩举"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "perfect",
+  "keywords": [
+   "完美"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "petpet",
+  "keywords": [
+   "摸",
+   "摸摸",
+   "摸头",
+   "rua"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "circle"
+  ]
+ },
+ {
+  "key": "pinch",
+  "keywords": [
+   "捏",
+   "捏脸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pixelate",
+  "keywords": [
+   "像素化"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "number"
+  ]
+ },
+ {
+  "key": "pjsk",
+  "keywords": [
+   "pjsk",
+   "世界计划"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": [
+   "character",
+   "number",
+   "size",
+   "rotate",
+   "x_offset",
+   "y_offset"
+  ]
+ },
+ {
+  "key": "plana_eat",
+  "keywords": [
+   "普拉娜吃",
+   "普拉娜舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "play_baseball",
+  "keywords": [
+   "打棒球"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "play_basketball",
+  "keywords": [
+   "打篮球",
+   "火柴人打篮球"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "play_game",
+  "keywords": [
+   "玩游戏"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æ¥ç©ä¼é²æ¸¸æå"
+  ],
+  "options": []
+ },
+ {
+  "key": "play_together",
+  "keywords": [
+   "一起玩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "police",
+  "keywords": [
+   "出警"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "å¹³å®åãã¿ã"
+  ],
+  "options": []
+ },
+ {
+  "key": "policeman",
+  "keywords": [
+   "è­¦å¯"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pornhub",
+  "keywords": [
+   "ph",
+   "pornhub"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "You",
+   "Tube"
+  ],
+  "options": []
+ },
+ {
+  "key": "potato",
+  "keywords": [
+   "土豆"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pound",
+  "keywords": [
+   "捣"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "praise",
+  "keywords": [
+   "è¡¨æ¬"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¥½ï¼ä¸æ§æ¯é¡¶å°è¿è¥"
+  ],
+  "options": []
+ },
+ {
+  "key": "printing",
+  "keywords": [
+   "打印"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "prpr",
+  "keywords": [
+   "舔",
+   "舔屏",
+   "prpr"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "psyduck",
+  "keywords": [
+   "可达鸭"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "æ¥ä»½",
+   "æ¶©å¾"
+  ],
+  "options": []
+ },
+ {
+  "key": "punch",
+  "keywords": [
+   "打拳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pyramid",
+  "keywords": [
+   "四棱锥",
+   "金字塔"
+  ],
+  "min_images": 1,
+  "max_images": 4,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "qiegewala",
+  "keywords": [
+   "切格瓦拉"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 6,
+  "max_texts": 6,
+  "default_texts": [
+   "æ²¡æé±å è¯å®è¦åçå",
+   "ä¸åçè¯æ²¡æé±ç¨",
+   "é£ä½ ä¸ä¼å»æå·¥å",
+   "æææèç",
+   "æå·¥æ¯ä¸å¯è½æå·¥ç",
+   "è¿è¾å­ä¸å¯è½æå·¥ç"
+  ],
+  "options": []
+ },
+ {
+  "key": "raise_image",
+  "keywords": [
+   "举"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "raise_sign",
+  "keywords": [
+   "举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¤§ä½¬å¸¦å¸¦æ"
+  ],
+  "options": []
+ },
+ {
+  "key": "read_book",
+  "keywords": [
+   "看书"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ã¨ã­æ¬"
+  ],
+  "options": []
+ },
+ {
+  "key": "remote_control",
+  "keywords": [
+   "遥控",
+   "控制"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "repeat",
+  "keywords": [
+   "复读"
+  ],
+  "min_images": 1,
+  "max_images": 5,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æå½å"
+  ],
+  "options": []
+ },
+ {
+  "key": "rip",
+  "keywords": [
+   "撕"
+  ],
+  "min_images": 1,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rip_angrily",
+  "keywords": [
+   "怒撕"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rip_clothes",
+  "keywords": [
+   "撕衣服"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rise_dead",
+  "keywords": [
+   "诈尸",
+   "秽土转生"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "roll",
+  "keywords": [
+   "滚"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rotate_3d",
+  "keywords": [
+   "三维旋转"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rub",
+  "keywords": [
+   "贴",
+   "贴贴",
+   "蹭",
+   "蹭蹭"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "run",
+  "keywords": [
+   "快跑"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¿«è·"
+  ],
+  "options": []
+ },
+ {
+  "key": "run_away",
+  "keywords": [
+   "快逃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "safe_sense",
+  "keywords": [
+   "安全感"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [
+   "ä½ ç»æçå®å¨æ\nè¿ä¸åä»çä¸åä¹ä¸"
+  ],
+  "options": []
+ },
+ {
+  "key": "saimin_app",
+  "keywords": [
+   "催眠app"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "scratch_head",
+  "keywords": [
+   "挠头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "scratchcard",
+  "keywords": [
+   "刮刮乐"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "è°¢è°¢åä¸"
+  ],
+  "options": []
+ },
+ {
+  "key": "scroll",
+  "keywords": [
+   "滚屏"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ ä»¬è¯´è¯å"
+  ],
+  "options": []
+ },
+ {
+  "key": "seal",
+  "keywords": [
+   "源石封印"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sekaiichi_kawaii",
+  "keywords": [
+   "世界第一可爱"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shake_head",
+  "keywords": [
+   "晃脑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shiroko_pero",
+  "keywords": [
+   "白子舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shishilani",
+  "keywords": [
+   "食屎啦你"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "ç©¿è¥¿è£æé¢å¸¦",
+   "æ¿å¤§å¥å¤§æä»ä¹ç¨",
+   "è·çè¿æ ·çå¤§å¥",
+   "é£å±å¦ä½ "
+  ],
+  "options": []
+ },
+ {
+  "key": "shock",
+  "keywords": [
+   "震惊"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shuifandui",
+  "keywords": [
+   "谁反对"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "æè¯è¯´å®äº",
+   "è°èµæ",
+   "è°åå¯¹",
+   "æåå¯¹"
+  ],
+  "options": []
+ },
+ {
+  "key": "shutup",
+  "keywords": [
+   "别说了"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ ä¸è¦åè¯´äº"
+  ],
+  "options": []
+ },
+ {
+  "key": "sit_still",
+  "keywords": [
+   "坐得住",
+   "坐的住"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "slap",
+  "keywords": [
+   "一巴掌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "ä½ ä¸è¦åè¯´äº"
+  ],
+  "options": []
+ },
+ {
+  "key": "slogan",
+  "keywords": [
+   "口号"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 6,
+  "max_texts": 6,
+  "default_texts": [
+   "æä»¬æ¯è°ï¼",
+   "æµå¤§äººï¼",
+   "å°æµå¤§æ¥åä»ä¹ï¼",
+   "æ··ï¼",
+   "å°æ¥æ¯ä¸åè¦åä»ä¹æ ·çäººï¼",
+   "æ··æ··ï¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "smash",
+  "keywords": [
+   "砸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sold_out",
+  "keywords": [
+   "卖掉了"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "speechless",
+  "keywords": [
+   "无语"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sphere_rotate",
+  "keywords": [
+   "球面旋转"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "spider",
+  "keywords": [
+   "蜘蛛",
+   "蜘蛛爬"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "stare_at_you",
+  "keywords": [
+   "盯着你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "steam_message",
+  "keywords": [
+   "steam消息"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "é»ç¥è¯ï¼æç©º"
+  ],
+  "options": []
+ },
+ {
+  "key": "step_on",
+  "keywords": [
+   "踩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "stew",
+  "keywords": [
+   "炖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "stickman_dancing",
+  "keywords": [
+   "跳舞",
+   "火柴人跳舞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "subject3",
+  "keywords": [
+   "科目三"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "suck",
+  "keywords": [
+   "吸",
+   "嗦"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "support",
+  "keywords": [
+   "精神支柱"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "swirl_turn",
+  "keywords": [
+   "回旋转",
+   "旋风转"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "symmetric",
+  "keywords": [
+   "对称"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "direction",
+   "left",
+   "right",
+   "top",
+   "bottom"
+  ]
+ },
+ {
+  "key": "tankuku_raisesign",
+  "keywords": [
+   "唐可可举牌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "taunt",
+  "keywords": [
+   "嘲讽"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "teach",
+  "keywords": [
+   "讲课",
+   "敲黑板"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æèå©"
+  ],
+  "options": []
+ },
+ {
+  "key": "tease",
+  "keywords": [
+   "拿捏",
+   "戏弄"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "telescope",
+  "keywords": [
+   "望远镜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "thermometer_gun",
+  "keywords": [
+   "体温枪"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ç¬¨è"
+  ],
+  "options": []
+ },
+ {
+  "key": "think_what",
+  "keywords": [
+   "想什么"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "this_chicken",
+  "keywords": [
+   "这是鸡",
+   "🐔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "è¿æ¯åäºçèä¸­çé¸¡"
+  ],
+  "options": []
+ },
+ {
+  "key": "throw",
+  "keywords": [
+   "丢",
+   "扔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "throw_gif",
+  "keywords": [
+   "抛",
+   "掷"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "thump",
+  "keywords": [
+   "捶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "thump_wildly",
+  "keywords": [
+   "捶爆",
+   "爆捶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "tightly",
+  "keywords": [
+   "紧贴",
+   "紧紧贴着"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "time_to_go",
+  "keywords": [
+   "该走了"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "è¯´å®äºåï¼è¯¥èµ°äº"
+  ],
+  "options": []
+ },
+ {
+  "key": "together",
+  "keywords": [
+   "一起"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "tom_tease",
+  "keywords": [
+   "汤姆嘲笑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "tomb_yeah",
+  "keywords": [
+   "上坟",
+   "坟前比耶"
+  ],
+  "min_images": 1,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "trance",
+  "keywords": [
+   "恍惚"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "trolley",
+  "keywords": [
+   "推车"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "turn",
+  "keywords": [
+   "转"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "twist",
+  "keywords": [
+   "搓"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "universal",
+  "keywords": [
+   "万能表情",
+   "空白表情"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": [
+   "size",
+   "font",
+   "color",
+   "position",
+   "bold",
+   "italic",
+   "rotate",
+   "align",
+   "stroke_width",
+   "stroke_color",
+   "x_offset",
+   "y_offset"
+  ]
+ },
+ {
+  "key": "upside_down",
+  "keywords": [
+   "反了"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "æçä½ ä»¬æ¯åäºï¼"
+  ],
+  "options": []
+ },
+ {
+  "key": "vibrate",
+  "keywords": [
+   "震动"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wakeup",
+  "keywords": [
+   "好起来了"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "å¥½"
+  ],
+  "options": []
+ },
+ {
+  "key": "wallpaper",
+  "keywords": [
+   "墙纸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "walnut_pad",
+  "keywords": [
+   "胡桃平板"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "walnut_zoom",
+  "keywords": [
+   "胡桃放大"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wangjingze",
+  "keywords": [
+   "王境泽"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "æå°±æ¯é¥¿æ­»",
+   "æ­»å¤è¾¹ ä»è¿éè·³ä¸å»",
+   "ä¸ä¼åä½ ä»¬ä¸ç¹ä¸è¥¿",
+   "çé¦"
+  ],
+  "options": []
+ },
+ {
+  "key": "washer",
+  "keywords": [
+   "洗衣机"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wave",
+  "keywords": [
+   "波纹"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wechat_pay",
+  "keywords": [
+   "微信支付"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "message"
+  ]
+ },
+ {
+  "key": "weisuoyuwei",
+  "keywords": [
+   "为所欲为"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 9,
+  "max_texts": 9,
+  "default_texts": [
+   "å¥½å",
+   "å«è¯´ææ¯ä¸ç­è¯æ°",
+   "å°±ç®ä½ ä»¬ççæ³è¦è¯¬åæ",
+   "ææçæ¯é±è¯·å¾å¸å¸®ææå®å¸",
+   "ææ³ææ ¹æ¬ä¸ç¨åç¢",
+   "æé±äºä¸èµ·å",
+   "Sorryï¼æé±ççäºä¸èµ·",
+   "ä¸è¿ææ³ä½ ä¸ä¼æç½è¿ç§æè§",
+   "ä¸æç½ï¼ä¸æç½"
+  ],
+  "options": []
+ },
+ {
+  "key": "what_he_wants",
+  "keywords": [
+   "最想要的东西"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "ä»å¹´520"
+  ],
+  "options": []
+ },
+ {
+  "key": "what_i_want_to_do",
+  "keywords": [
+   "ææ³ä¸ç"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "why_at_me",
+  "keywords": [
+   "为什么@我"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "why_have_hands",
+  "keywords": [
+   "为什么要有手"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "windmill_turn",
+  "keywords": [
+   "风车转"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wish_fail",
+  "keywords": [
+   "许愿失败"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "æè¦å¯¹è±¡"
+  ],
+  "options": []
+ },
+ {
+  "key": "wooden_fish",
+  "keywords": [
+   "木鱼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "worship",
+  "keywords": [
+   "膜",
+   "膜拜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wujing",
+  "keywords": [
+   "吴京中国"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 4,
+  "default_texts": [
+   "ä¸ä¹°åä¸ºä¸æ¯",
+   "äºº"
+  ],
+  "options": []
+ },
+ {
+  "key": "wunian",
+  "keywords": [
+   "五年怎么过的"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "äºå¹´",
+   "ä½ ç¥éæè¿äºå¹´æ¯æä¹è¿çå",
+   "ææ¯å¤©èº²å¨å®¶éç©è´ªç©èæ",
+   "ä½ ç¥éæå¤å¥½ç©å"
+  ],
+  "options": []
+ },
+ {
+  "key": "wuyage",
+  "keywords": [
+   "乌鸦哥"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 3,
+  "max_texts": 3,
+  "default_texts": [
+   "å äºå´½æºå¨äºº",
+   "ä»å¤©æçº¿äºæ²¡",
+   "æ¥ç»ä»å¼¹ä¸ªçæ¬è¿ä½"
+  ],
+  "options": []
+ },
+ {
+  "key": "yalidaye",
+  "keywords": [
+   "压力大爷"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 3,
+  "max_texts": 3,
+  "default_texts": [
+   "å¤çé½è¯´æä»¬ååå¤§",
+   "æè§å¾å§ååä¹æ²¡æé£ä¹å¤§",
+   "ä¸»è¦æ¯28å²äºè¿æ²¡åª³å¦å¿"
+  ],
+  "options": []
+ },
+ {
+  "key": "yeshu",
+  "keywords": [
+   "椰树椰汁"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 8,
+  "max_texts": 8,
+  "default_texts": [
+   "æ¤°å­ç¹äº§å¨æµ·å",
+   "æ­£å®",
+   "æ¤°æ ",
+   "29å¹´",
+   "åæå¨æµ·åå²",
+   "ç¨æ°é²æ¤°å­è",
+   "é²æ¦¨",
+   "ä¸ç¨æ¤°æµ\nä¸å é¦ç²¾å½çæ¦¨"
+  ],
+  "options": []
+ },
+ {
+  "key": "you_dont_get",
+  "keywords": [
+   "你不懂啦"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "you_should_call",
+  "keywords": [
+   "致电",
+   "你应该致电"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "your_new_years_eve",
+  "keywords": [
+   "你的跨年"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "youtube",
+  "keywords": [
+   "yt",
+   "youtube"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "Porn",
+   "Hub"
+  ],
+  "options": []
+ },
+ {
+  "key": "zengxiaoxian",
+  "keywords": [
+   "曾小贤"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 4,
+  "max_texts": 4,
+  "default_texts": [
+   "å¹³æ¶ä½ æçµå­æ¸¸æå",
+   "å¶å°",
+   "æéè¿æ¯é­å½",
+   "è¿è¿ç"
+  ],
+  "options": []
+ }
+]

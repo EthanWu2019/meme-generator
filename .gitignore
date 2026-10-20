@@ -1,0 +1,7 @@
+# 素材目录(约 400MB,由 fetch_resources.py 生成,不进仓库)
+service/resources/
+service/*.log
+service/*.err
+__pycache__/
+*.pyc
+*.part

@@ -1,0 +1,18 @@
+{
+  "name": "meme-plugin",
+  "version": "1.0.0",
+  "description": "自建表情包 — 本地渲染,不依赖第三方接口",
+  "main": "index.js",
+  "type": "module",
+  "author": "EthanWu2019",
+  "license": "MIT",
+  "keywords": [
+    "Yunzai-Bot",
+    "meme",
+    "表情包"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EthanWu2019/meme-generator.git"
+  }
+}
