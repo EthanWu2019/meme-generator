@@ -34,6 +34,9 @@ app = FastAPI(title="Meme Service", version="1.0.0")
 
 _engine: dict[str, Any] = {}
 
+# 表情 key -> {option 名: 类型},在 engine() 首次加载时填充
+OPTION_TYPES: dict[str, dict[str, str]] = {}
+
 
 def engine():
     """首次调用时导入 meme_generator,并做一次资源完整性自检。"""
@@ -47,6 +50,16 @@ def engine():
     _engine["mg"] = mg
     _engine["keys"] = list(mg.get_meme_keys())
     _engine["info"] = {k: _describe(mg.get_meme(k).info) for k in _engine["keys"]}
+
+    # option 名 -> 类型,供 _sanitize_args 校验用。
+    # Rust 的 Meme 对象不暴露 .options,只能从 info 里建索引。
+    global OPTION_TYPES
+    OPTION_TYPES = {
+        k: {o["name"]: o["type"] for o in v["options"]}
+        for k, v in _engine["info"].items()
+        if v["options"]
+    }
+
     _engine["loaded"] = True
     return _engine
 
@@ -112,14 +125,53 @@ def _explain(err) -> str:
     return f"{name}: {err}"
 
 
+def _sanitize_args(key: str, options: dict) -> dict:
+    """按 /memes 声明的 option 类型过滤并转换参数。
+
+    注意: Rust 的 Meme 对象只有 generate/info/key,没有 .options 属性,
+    元数据只能从本地缓存的 /memes 数据里取(get_meme_info 已在 engine 里建好索引)。
+
+    未知 option 名会让 Rust 侧抛 DeserializeError(而不是忽略),所以必须先裁剪,
+    避免旧客户端或参数拼写错误把服务打挂。
+    """
+    if not options:
+        return {}
+    allowed = OPTION_TYPES.get(key)
+    if not allowed:
+        return {}
+
+    clean = {}
+    for name, value in options.items():
+        t = allowed.get(name)
+        if t is None:
+            continue
+        try:
+            if t == "boolean":
+                clean[name] = (
+                    value.strip().lower() in ("1", "true", "yes", "on")
+                    if isinstance(value, str)
+                    else bool(value)
+                )
+            elif t == "integer":
+                clean[name] = int(value)
+            elif t == "float":
+                clean[name] = float(value)
+            else:
+                clean[name] = str(value)
+        except (TypeError, ValueError):
+            continue
+    return clean
+
+
 def _render(mg, key: str, images: list[bytes], texts: list[str], options: dict):
     """同步渲染,返回 (bytes, content_type) 或抛 HTTPException。"""
     meme = mg.get_meme(key)
     if meme is None:
         raise HTTPException(404, f"未知表情: {key}")
 
+    options = _sanitize_args(key, options)
     img_objs = [mg.Image(f"user_{i}.png", data) for i, data in enumerate(images)]
-    result = meme.generate(img_objs, texts, options or {})
+    result = meme.generate(img_objs, texts, options)
 
     if isinstance(result, (bytes, bytearray)):
         data = bytes(result)

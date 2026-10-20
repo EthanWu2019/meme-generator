@@ -9,10 +9,11 @@
   "min_texts": 2,
   "max_texts": 2,
   "default_texts": [
-   "æå»",
-   "æ´å¤©ä¾"
+   "我去",
+   "洛天依"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "abstinence",
@@ -26,7 +27,10 @@
   "default_texts": [],
   "options": [
    "time"
-  ]
+  ],
+  "option_types": {
+   "time": "string"
+  }
  },
  {
   "key": "ace_attorney_dialog",
@@ -38,9 +42,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "è¡¨æåå¶ä½"
+   "表情包制作"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "acg_entrance",
@@ -52,9 +57,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "èµ°ï¼è·æå»äºæ¬¡åå§"
+   "走，跟我去二次元吧"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "add_chaos",
@@ -67,7 +73,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "addiction",
@@ -80,7 +87,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "alike",
@@ -92,7 +100,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "alipay",
@@ -106,7 +115,10 @@
   "default_texts": [],
   "options": [
    "message"
-  ]
+  ],
+  "option_types": {
+   "message": "string"
+  }
  },
  {
   "key": "always",
@@ -122,7 +134,12 @@
    "mode",
    "circle",
    "loop"
-  ]
+  ],
+  "option_types": {
+   "mode": "string",
+   "circle": "boolean",
+   "loop": "boolean"
+  }
  },
  {
   "key": "always_like",
@@ -134,23 +151,27 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "anan_say",
   "keywords": [
-   "å®å®è¯´"
+   "安安说"
   ],
   "min_images": 0,
   "max_images": 0,
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¾è¾å¾å¼å¿"
+   "吾辈很开心"
   ],
   "options": [
    "expression"
-  ]
+  ],
+  "option_types": {
+   "expression": "string"
+  }
  },
  {
   "key": "anti_kidnap",
@@ -162,7 +183,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "anya_suki",
@@ -174,9 +196,10 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [
-   "é¿å°¼äºåæ¬¢è¿ä¸ª"
+   "阿尼亚喜欢这个"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "applaud",
@@ -188,7 +211,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "arona_throw",
@@ -200,7 +224,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "ascension",
@@ -212,9 +237,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å­¦çæ¯æºæ¢°"
+   "学的是机械"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "ask",
@@ -228,7 +254,10 @@
   "default_texts": [],
   "options": [
    "gender"
-  ]
+  ],
+  "option_types": {
+   "gender": "string"
+  }
  },
  {
   "key": "atri_pillow",
@@ -246,7 +275,12 @@
    "mode",
    "yes",
    "no"
-  ]
+  ],
+  "option_types": {
+   "mode": "string",
+   "yes": "boolean",
+   "no": "boolean"
+  }
  },
  {
   "key": "ayachi_holdsign",
@@ -258,9 +292,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ææ§å¶ä¸ä½èªå·±å"
+   "我控制不住自己啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "ba_say",
@@ -272,14 +307,20 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "é£æé®ä½ "
+   "那我问你"
   ],
   "options": [
    "character",
    "position",
    "left",
    "right"
-  ]
+  ],
+  "option_types": {
+   "character": "string",
+   "position": "string",
+   "left": "boolean",
+   "right": "boolean"
+  }
  },
  {
   "key": "back_to_work",
@@ -292,7 +333,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "backflip",
@@ -304,7 +346,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "bad_news",
@@ -316,14 +359,15 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "åæ¥"
+   "喜报"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "batitle",
   "keywords": [
-   "èèæ¡£æ¡æ é¢",
+   "蔚蓝档案标题",
    "batitle"
   ],
   "min_images": 0,
@@ -334,7 +378,8 @@
    "Blue",
    "Archive"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "beat_head",
@@ -346,9 +391,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æä¹è¯´è¯çä½ "
+   "怎么说话的你"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "beat_up",
@@ -360,7 +406,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "blamed_mahiro",
@@ -372,9 +419,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å»é¼"
+   "傻逼"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "blood_pressure",
@@ -386,7 +434,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "bocchi_draft",
@@ -398,7 +447,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "bronya_holdsign",
@@ -411,9 +461,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "Væ50"
+   "V我50"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "bubble_tea",
@@ -430,7 +481,13 @@
    "left",
    "right",
    "both"
-  ]
+  ],
+  "option_types": {
+   "position": "string",
+   "left": "boolean",
+   "right": "boolean",
+   "both": "boolean"
+  }
  },
  {
   "key": "call_110",
@@ -442,7 +499,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_draw",
@@ -454,7 +512,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_point",
@@ -466,7 +525,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_rip",
@@ -478,7 +538,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_rub",
@@ -491,7 +552,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_say",
@@ -503,9 +565,10 @@
   "min_texts": 1,
   "max_texts": 10,
   "default_texts": [
-   "å¯"
+   "寄"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_stew",
@@ -517,7 +580,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "capoo_strike",
@@ -530,7 +594,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "captain",
@@ -542,7 +607,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "caused_by_this",
@@ -554,9 +620,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "å¿èç é«è¡å å¿å¾ä¸é½ å¿èæ¢å¡ å¤±ç  è±å å¼å¸å°é¾ è¸é·æ°ç­ ç¼ºæ°§ èºé ç¦è èä¾è¡ä¸è¶³ å¿æå¿æ¸ å¿èè¡ç®¡ç¸è£"
+   "心脏病 高血压 心律不齐 心肌梗塞 失眠 脱发 呼吸困难 胸闷气短 缺氧 躁郁 焦虑 脑供血不足 心慌心悸 心脑血管炸裂"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "certificate",
@@ -569,13 +636,16 @@
   "min_texts": 3,
   "max_texts": 4,
   "default_texts": [
-   "å°ç",
-   "ä¼ç§å­¦ç",
-   "ä¸å¹´ä¸ç­"
+   "小王",
+   "优秀学生",
+   "一年一班"
   ],
   "options": [
    "time"
-  ]
+  ],
+  "option_types": {
+   "time": "string"
+  }
  },
  {
   "key": "chanshenzi",
@@ -587,11 +657,12 @@
   "min_texts": 3,
   "max_texts": 3,
   "default_texts": [
-   "ä½ é£å«åæ¬¢åï¼",
-   "ä½ é£æ¯é¦å¥¹èº«å­",
-   "ä½ ä¸è´±ï¼"
+   "你那叫喜欢吗？",
+   "你那是馋她身子",
+   "你下贱！"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "charpic",
@@ -603,7 +674,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "chase_train",
@@ -616,7 +688,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "china_flag",
@@ -628,7 +701,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "chino_throw",
@@ -641,7 +715,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "clauvio_twist",
@@ -653,7 +728,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "clown",
@@ -667,7 +743,10 @@
   "default_texts": [],
   "options": [
    "person"
-  ]
+  ],
+  "option_types": {
+   "person": "boolean"
+  }
  },
  {
   "key": "clown_mask",
@@ -683,7 +762,12 @@
    "mode",
    "front",
    "behind"
-  ]
+  ],
+  "option_types": {
+   "mode": "string",
+   "front": "boolean",
+   "behind": "boolean"
+  }
  },
  {
   "key": "confuse",
@@ -695,7 +779,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "coupon",
@@ -707,7 +792,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "cover_face",
@@ -719,7 +805,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "crawl",
@@ -733,7 +820,10 @@
   "default_texts": [],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "cyan",
@@ -745,7 +835,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "daynight",
@@ -758,7 +849,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "decent_kiss",
@@ -770,7 +862,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dianzhongdian",
@@ -784,9 +877,10 @@
   "min_texts": 1,
   "max_texts": 2,
   "default_texts": [
-   "æå½å"
+   "救命啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dinosaur",
@@ -799,7 +893,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "distracted",
@@ -811,7 +906,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "divorce",
@@ -824,7 +920,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dog_dislike",
@@ -838,7 +935,10 @@
   "default_texts": [],
   "options": [
    "circle"
-  ]
+  ],
+  "option_types": {
+   "circle": "boolean"
+  }
  },
  {
   "key": "dog_of_vtb",
@@ -850,7 +950,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dont_go_near",
@@ -862,7 +963,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dont_press",
@@ -874,9 +976,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä¸çæ¯ç­"
+   "世界毁灭"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "dont_touch",
@@ -888,21 +991,23 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "doraemon_say",
   "keywords": [
-   "åå¦Aæ¢¦è¯´"
+   "哆啦A梦说"
   ],
   "min_images": 0,
   "max_images": 0,
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¼é¶è¶´ä¸åææ¯å§"
+   "开银趴不喊我是吧"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "douyin",
@@ -916,7 +1021,8 @@
   "default_texts": [
    "douyin"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "eat",
@@ -928,23 +1034,27 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "elysia_holdsign",
   "keywords": [
-   "ç±èä¸¾ç"
+   "爱莉举牌"
   ],
   "min_images": 0,
   "max_images": 0,
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "è¦å¥½å¥½ç±èå¦~"
+   "要好好爱莉哦~"
   ],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "emperor_dragon",
@@ -956,9 +1066,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¬ä¸æï¼éæ"
+   "听不懂，退朝"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "erised_mirror",
@@ -970,7 +1081,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fade_away",
@@ -982,7 +1094,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fanatic",
@@ -995,9 +1108,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æ´å¤©ä¾"
+   "洛天依"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "father_work",
@@ -1010,7 +1124,8 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fencing",
@@ -1023,7 +1138,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fight_with_sunuo",
@@ -1036,7 +1152,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fill_head",
@@ -1048,7 +1165,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "find_chips",
@@ -1060,12 +1178,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "æä»¬è¦é£åä½æ¹",
-   "ææç®å¾ä¼å»ç å¤´æ´ç¹è¯æ¡",
-   "æè¯´çæ¯å½æ ¹ç»åºï¼æ´»çæ¯ä¸ºäºä»ä¹",
-   "ä¸ºäºå¾ä¼å»ç å¤´æ´ç¹è¯æ¡"
+   "我们要飞向何方",
+   "我打算待会去码头整点薯条",
+   "我说的是归根结底，活着是为了什么",
+   "为了待会去码头整点薯条"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "firefly_holdsign",
@@ -1077,11 +1196,14 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æè¶ç±ä½ "
+   "我超爱你"
   ],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "flash_blind",
@@ -1093,7 +1215,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "flick",
@@ -1106,7 +1229,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "flush",
@@ -1118,7 +1242,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "fogging",
@@ -1131,9 +1256,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "åå¼ï¼ååäº"
+   "兄弟，回南了"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "follow",
@@ -1147,7 +1273,10 @@
   "default_texts": [],
   "options": [
    "gender"
-  ]
+  ],
+  "option_types": {
+   "gender": "string"
+  }
  },
  {
   "key": "forbid",
@@ -1160,7 +1289,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "frieren_take",
@@ -1172,9 +1302,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æè°çç·äººåï¼åªè¦éä»ä»¬è¿ç§ä¸è¥¿å°±ä¼å¾å¼å¿"
+   "所谓的男人啊，只要送他们这种东西就会很开心"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "funny_mirror",
@@ -1186,7 +1317,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "garbage",
@@ -1199,7 +1331,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "genshin_eat",
@@ -1213,7 +1346,10 @@
   "default_texts": [],
   "options": [
    "character"
-  ]
+  ],
+  "option_types": {
+   "character": "string"
+  }
  },
  {
   "key": "genshin_start",
@@ -1225,9 +1361,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "åç¥ï¼å¯å¨ï¼"
+   "原神，启动！"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "good_news",
@@ -1239,9 +1376,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æ²æ¥"
+   "悲报"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "google",
@@ -1255,7 +1393,8 @@
   "default_texts": [
    "Google"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "google_captcha",
@@ -1267,7 +1406,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "gorilla_throw",
@@ -1279,7 +1419,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "grab",
@@ -1291,19 +1432,21 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "grab_both_hands",
   "keywords": [
-   "åææ"
+   "双手抓"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "guichu",
@@ -1321,7 +1464,14 @@
    "right",
    "top",
    "bottom"
-  ]
+  ],
+  "option_types": {
+   "direction": "string",
+   "left": "boolean",
+   "right": "boolean",
+   "top": "boolean",
+   "bottom": "boolean"
+  }
  },
  {
   "key": "gun",
@@ -1338,7 +1488,13 @@
    "left",
    "right",
    "both"
-  ]
+  ],
+  "option_types": {
+   "position": "string",
+   "left": "boolean",
+   "right": "boolean",
+   "both": "boolean"
+  }
  },
  {
   "key": "hammer",
@@ -1350,7 +1506,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "haruhi_raise",
@@ -1362,35 +1519,38 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "head_butt",
   "keywords": [
-   "é¡¶"
+   "顶"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "high_eq",
   "keywords": [
-   "é«ä½æå",
-   "ä½é«æå"
+   "高低情商",
+   "低高情商"
   ],
   "min_images": 0,
   "max_images": 0,
   "min_texts": 2,
   "max_texts": 2,
   "default_texts": [
-   "é«æå",
-   "ä½æå"
+   "高情商",
+   "低情商"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "hit_screen",
@@ -1403,7 +1563,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "hold_grudge",
@@ -1415,11 +1576,14 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ç¾¤åä¸åæ¶©å¾"
+   "群友不发涩图"
   ],
   "options": [
    "time"
-  ]
+  ],
+  "option_types": {
+   "time": "string"
+  }
  },
  {
   "key": "hold_tight",
@@ -1431,7 +1595,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "hug",
@@ -1444,7 +1609,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "hug_leg",
@@ -1456,7 +1622,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "hutao_bite",
@@ -1468,7 +1635,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "imprison",
@@ -1480,9 +1648,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æåæ¶©å¾è¢«æèµ·æ¥äº"
+   "我发涩图被抓起来了"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "incivilization",
@@ -1494,9 +1663,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ä½ åæè¯´çè¯ä¸æ¯å¾ç¤¼è²ï¼"
+   "你刚才说的话不是很礼貌！"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "intel_inside",
@@ -1510,7 +1680,8 @@
   "default_texts": [
    "intel"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "interview",
@@ -1522,9 +1693,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "éè®¿å¤§ä½¬ç»éª"
+   "采访大佬经验"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "jerry_stare",
@@ -1536,7 +1708,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "jiamianqishi",
@@ -1548,12 +1721,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "å¦ï½",
-   "ï¼é£æï¼",
-   "ä¸ç´æ³çä½ è¿å¹è¡¨æ",
-   "è¿å¹å«å¦æçè¡¨æ"
+   "哦～",
+   "（飞扑）",
+   "一直想看你这幅表情",
+   "这幅嫉妒我的表情"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "jiji_king",
@@ -1565,11 +1739,14 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ææ¯æ¥æ¥å½ç"
+   "我是急急国王"
   ],
   "options": [
    "block_text"
-  ]
+  ],
+  "option_types": {
+   "block_text": "string"
+  }
  },
  {
   "key": "jinhsi",
@@ -1582,11 +1759,14 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æ±æ±"
+   "汐汐"
   ],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "jiubingfufa",
@@ -1598,9 +1778,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æ­¤ä¹æ§çå¤åä¹"
+   "此乃旧病复发也"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "jiujiu",
@@ -1612,7 +1793,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "jump",
@@ -1624,7 +1806,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "kaleidoscope",
@@ -1639,7 +1822,10 @@
   "default_texts": [],
   "options": [
    "circle"
-  ]
+  ],
+  "option_types": {
+   "circle": "boolean"
+  }
  },
  {
   "key": "karyl_point",
@@ -1651,7 +1837,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "keep_away",
@@ -1663,9 +1850,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "å¦ä½æé«ç¤¾äº¤è´¨é : \nè¿ç¦»ä»¥ä¸å¤´åçäºº"
+   "如何提高社交质量 : \n远离以下头像的人"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "keep_your_money",
@@ -1679,7 +1867,10 @@
   "default_texts": [],
   "options": [
    "character"
-  ]
+  ],
+  "option_types": {
+   "character": "string"
+  }
  },
  {
   "key": "kick_ball",
@@ -1691,7 +1882,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "kirby_hammer",
@@ -1706,7 +1898,10 @@
   "default_texts": [],
   "options": [
    "circle"
-  ]
+  ],
+  "option_types": {
+   "circle": "boolean"
+  }
  },
  {
   "key": "kiss",
@@ -1719,7 +1914,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "klee_eat",
@@ -1731,7 +1927,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "knock",
@@ -1743,7 +1940,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "kokona_seal",
@@ -1755,11 +1953,14 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æ»¡å"
+   "满分"
   ],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "konata_watch",
@@ -1771,7 +1972,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "learn",
@@ -1783,9 +1985,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "å·å­¦ç¾¤åæ°çåºç¡"
+   "偷学群友数理基础"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "left_right_jump",
@@ -1801,7 +2004,12 @@
    "direction",
    "left_right",
    "right_left"
-  ]
+  ],
+  "option_types": {
+   "direction": "string",
+   "left_right": "boolean",
+   "right_left": "boolean"
+  }
  },
  {
   "key": "let_me_in",
@@ -1813,7 +2021,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "lick_candy",
@@ -1826,7 +2035,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "lim_x_0",
@@ -1838,7 +2048,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "listen_music",
@@ -1850,7 +2061,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "little_angel",
@@ -1864,7 +2076,10 @@
   "default_texts": [],
   "options": [
    "gender"
-  ]
+  ],
+  "option_types": {
+   "gender": "string"
+  }
  },
  {
   "key": "loading",
@@ -1876,7 +2091,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "look_flat",
@@ -1888,11 +2104,14 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "å¯æ¶...è¢«äººçæäº"
+   "可恶...被人看扁了"
   ],
   "options": [
    "ratio"
-  ]
+  ],
+  "option_types": {
+   "ratio": "float"
+  }
  },
  {
   "key": "look_this_icon",
@@ -1904,9 +2123,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æå\nåççè¿ä¸ªå¾æ åè¯´è¯"
+   "朋友\n先看看这个图标再说话"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "loop",
@@ -1924,7 +2144,14 @@
    "right",
    "top",
    "bottom"
-  ]
+  ],
+  "option_types": {
+   "direction": "string",
+   "left": "boolean",
+   "right": "boolean",
+   "top": "boolean",
+   "bottom": "boolean"
+  }
  },
  {
   "key": "lost_dog",
@@ -1936,7 +2163,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "love_you",
@@ -1948,7 +2176,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "luotianyi_need",
@@ -1961,7 +2190,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "luotianyi_say",
@@ -1974,9 +2204,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¥½æ³å»æµ·è¾¹åï½"
+   "好想去海边啊～"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "luoyonghao_say",
@@ -1988,9 +2219,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "åä¸æ¯ä¸è½ç¨"
+   "又不是不能用"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "luxun_say",
@@ -2003,9 +2235,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ææ²¡æè¯´è¿è¿å¥è¯"
+   "我没有说过这句话"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "mahiro_readbook",
@@ -2017,7 +2250,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "maikease",
@@ -2029,12 +2263,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "ç¾å½åäºæä¸å°éº¦åé¿ç",
-   "æ¾è¿æ ·è¯ä»·é",
-   "å¦æè®©æå»é»æ­¢xxx",
-   "é£ä¹æå®æ¿å»é»æ­¢ä¸å¸"
+   "美国前五星上将麦克阿瑟",
+   "曾这样评价道",
+   "如果让我去阻止xxx",
+   "那么我宁愿去阻止上帝"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "maimai_awaken",
@@ -2046,7 +2281,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "maimai_join",
@@ -2058,7 +2294,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "make_friend",
@@ -2070,7 +2307,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "marriage",
@@ -2083,7 +2321,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "meteor",
@@ -2095,9 +2334,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æè¦å¯¹è±¡"
+   "我要对象"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "mihoyo",
@@ -2109,7 +2349,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "mourning",
@@ -2123,7 +2364,10 @@
   "default_texts": [],
   "options": [
    "gray"
-  ]
+  ],
+  "option_types": {
+   "gray": "boolean"
+  }
  },
  {
   "key": "murmur",
@@ -2135,23 +2379,25 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä½ çåæä½é¢ä¸è¶³"
+   "你的假期余额不足"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "my_friend_say",
   "keywords": [
-   "ææåè¯´"
+   "我朋友说"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 1,
   "max_texts": 10,
   "default_texts": [
-   "è®©æåº·åº·"
+   "让我康康"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "my_opinion",
@@ -2164,7 +2410,8 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "my_wife",
@@ -2180,7 +2427,11 @@
   "options": [
    "pronoun",
    "name"
-  ]
+  ],
+  "option_types": {
+   "pronoun": "string",
+   "name": "string"
+  }
  },
  {
   "key": "nahida_bite",
@@ -2193,7 +2444,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "name_generator",
@@ -2206,7 +2458,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "need",
@@ -2219,7 +2472,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "nekoha_holdsign",
@@ -2232,9 +2486,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "Væ50"
+   "V我50"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "nihaosaoa",
@@ -2246,11 +2501,12 @@
   "min_texts": 3,
   "max_texts": 3,
   "default_texts": [
-   "æ¢ç¶è¿½æ±åºæ¿",
-   "å°±è´¯å½»å°åºäº",
-   "ä½ å¥½éªå"
+   "既然追求刺激",
+   "就贯彻到底了",
+   "你好骚啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "nijika_holdsign",
@@ -2263,9 +2519,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä½ å¯å°çç¹äºæ¬¡åå§"
+   "你可少看点二次元吧"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "no_response",
@@ -2277,7 +2534,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "nokia",
@@ -2290,9 +2548,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æ åé¬¼ï¼ç»§ç»­äº¤æ"
+   "无内鬼，继续交易"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "note_for_leave",
@@ -2304,11 +2563,14 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æ³ç©åç¥"
+   "想玩原神"
   ],
   "options": [
    "time"
-  ]
+  ],
+  "option_types": {
+   "time": "string"
+  }
  },
  {
   "key": "operator_generator",
@@ -2320,7 +2582,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "oshi_no_ko",
@@ -2334,7 +2597,10 @@
   "default_texts": [],
   "options": [
    "name"
-  ]
+  ],
+  "option_types": {
+   "name": "string"
+  }
  },
  {
   "key": "osu",
@@ -2348,7 +2614,8 @@
   "default_texts": [
    "hso!"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "out",
@@ -2360,7 +2627,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "overtime",
@@ -2372,7 +2640,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "p5letter",
@@ -2387,7 +2656,8 @@
   "default_texts": [
    "TAKEYOURHEART"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "paint",
@@ -2399,7 +2669,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "painter",
@@ -2411,7 +2682,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "panda_dragon_figure",
@@ -2423,11 +2695,14 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æè¦ç©åç¥"
+   "我要玩原神"
   ],
   "options": [
    "name"
-  ]
+  ],
+  "option_types": {
+   "name": "string"
+  }
  },
  {
   "key": "pass_the_buck",
@@ -2440,9 +2715,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ä½ å!"
+   "你写!"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pat",
@@ -2454,7 +2730,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pepe_raise",
@@ -2466,7 +2743,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "perfect",
@@ -2478,7 +2756,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "petpet",
@@ -2495,7 +2774,10 @@
   "default_texts": [],
   "options": [
    "circle"
-  ]
+  ],
+  "option_types": {
+   "circle": "boolean"
+  }
  },
  {
   "key": "pinch",
@@ -2508,7 +2790,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pixelate",
@@ -2522,7 +2805,10 @@
   "default_texts": [],
   "options": [
    "number"
-  ]
+  ],
+  "option_types": {
+   "number": "integer"
+  }
  },
  {
   "key": "pjsk",
@@ -2542,7 +2828,15 @@
    "rotate",
    "x_offset",
    "y_offset"
-  ]
+  ],
+  "option_types": {
+   "character": "string",
+   "number": "integer",
+   "size": "integer",
+   "rotate": "integer",
+   "x_offset": "integer",
+   "y_offset": "integer"
+  }
  },
  {
   "key": "plana_eat",
@@ -2555,7 +2849,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "play_baseball",
@@ -2567,7 +2862,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "play_basketball",
@@ -2580,7 +2876,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "play_game",
@@ -2592,9 +2889,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æ¥ç©ä¼é²æ¸¸æå"
+   "来玩休闲游戏啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "play_together",
@@ -2606,7 +2904,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "police",
@@ -2618,21 +2917,23 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "å¹³å®åãã¿ã"
+   "平安名すみれ"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "policeman",
   "keywords": [
-   "è­¦å¯"
+   "警察"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pornhub",
@@ -2648,7 +2949,8 @@
    "You",
    "Tube"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "potato",
@@ -2660,7 +2962,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pound",
@@ -2672,21 +2975,23 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "praise",
   "keywords": [
-   "è¡¨æ¬"
+   "表扬"
   ],
   "min_images": 0,
   "max_images": 0,
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¥½ï¼ä¸æ§æ¯é¡¶å°è¿è¥"
+   "好，不愧是顶尖运营"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "printing",
@@ -2698,7 +3003,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "prpr",
@@ -2712,7 +3018,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "psyduck",
@@ -2724,10 +3031,11 @@
   "min_texts": 2,
   "max_texts": 2,
   "default_texts": [
-   "æ¥ä»½",
-   "æ¶©å¾"
+   "来份",
+   "涩图"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "punch",
@@ -2739,7 +3047,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "pyramid",
@@ -2752,7 +3061,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "qiegewala",
@@ -2764,14 +3074,15 @@
   "min_texts": 6,
   "max_texts": 6,
   "default_texts": [
-   "æ²¡æé±å è¯å®è¦åçå",
-   "ä¸åçè¯æ²¡æé±ç¨",
-   "é£ä½ ä¸ä¼å»æå·¥å",
-   "æææèç",
-   "æå·¥æ¯ä¸å¯è½æå·¥ç",
-   "è¿è¾å­ä¸å¯è½æå·¥ç"
+   "没有钱啊 肯定要做的啊",
+   "不做的话没有钱用",
+   "那你不会去打工啊",
+   "有手有脚的",
+   "打工是不可能打工的",
+   "这辈子不可能打工的"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "raise_image",
@@ -2783,7 +3094,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "raise_sign",
@@ -2795,9 +3107,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¤§ä½¬å¸¦å¸¦æ"
+   "大佬带带我"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "read_book",
@@ -2809,9 +3122,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ã¨ã­æ¬"
+   "エロ本"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "remote_control",
@@ -2824,7 +3138,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "repeat",
@@ -2836,9 +3151,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æå½å"
+   "救命啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rip",
@@ -2850,7 +3166,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rip_angrily",
@@ -2862,7 +3179,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rip_clothes",
@@ -2874,7 +3192,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rise_dead",
@@ -2887,7 +3206,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "roll",
@@ -2899,7 +3219,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rotate_3d",
@@ -2911,7 +3232,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "rub",
@@ -2926,7 +3248,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "run",
@@ -2938,9 +3261,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¿«è·"
+   "快跑"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "run_away",
@@ -2952,7 +3276,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "safe_sense",
@@ -2964,9 +3289,10 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [
-   "ä½ ç»æçå®å¨æ\nè¿ä¸åä»çä¸åä¹ä¸"
+   "你给我的安全感\n远不及他的万分之一"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "saimin_app",
@@ -2978,7 +3304,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "scratch_head",
@@ -2990,7 +3317,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "scratchcard",
@@ -3002,9 +3330,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "è°¢è°¢åä¸"
+   "谢谢参与"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "scroll",
@@ -3016,9 +3345,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä½ ä»¬è¯´è¯å"
+   "你们说话啊"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "seal",
@@ -3030,7 +3360,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "sekaiichi_kawaii",
@@ -3042,7 +3373,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shake_head",
@@ -3054,7 +3386,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shiroko_pero",
@@ -3066,7 +3399,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shishilani",
@@ -3078,12 +3412,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "ç©¿è¥¿è£æé¢å¸¦",
-   "æ¿å¤§å¥å¤§æä»ä¹ç¨",
-   "è·çè¿æ ·çå¤§å¥",
-   "é£å±å¦ä½ "
+   "穿西装打领带",
+   "拿大哥大有什么用",
+   "跟着这样的大哥",
+   "食屎啦你"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shock",
@@ -3095,7 +3430,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shuifandui",
@@ -3107,12 +3443,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "æè¯è¯´å®äº",
-   "è°èµæ",
-   "è°åå¯¹",
-   "æåå¯¹"
+   "我话说完了",
+   "谁赞成",
+   "谁反对",
+   "我反对"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "shutup",
@@ -3124,9 +3461,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä½ ä¸è¦åè¯´äº"
+   "你不要再说了"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "sit_still",
@@ -3139,7 +3477,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "slap",
@@ -3151,9 +3490,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "ä½ ä¸è¦åè¯´äº"
+   "你不要再说了"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "slogan",
@@ -3165,14 +3505,15 @@
   "min_texts": 6,
   "max_texts": 6,
   "default_texts": [
-   "æä»¬æ¯è°ï¼",
-   "æµå¤§äººï¼",
-   "å°æµå¤§æ¥åä»ä¹ï¼",
-   "æ··ï¼",
-   "å°æ¥æ¯ä¸åè¦åä»ä¹æ ·çäººï¼",
-   "æ··æ··ï¼"
+   "我们是谁？",
+   "浙大人！",
+   "到浙大来做什么？",
+   "混！",
+   "将来毕业后要做什么样的人？",
+   "混混！"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "smash",
@@ -3184,7 +3525,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "sold_out",
@@ -3196,7 +3538,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "speechless",
@@ -3208,7 +3551,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "sphere_rotate",
@@ -3220,7 +3564,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "spider",
@@ -3233,7 +3578,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "stare_at_you",
@@ -3245,7 +3591,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "steam_message",
@@ -3257,9 +3604,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "é»ç¥è¯ï¼æç©º"
+   "黑神话：悟空"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "step_on",
@@ -3271,7 +3619,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "stew",
@@ -3283,7 +3632,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "stickman_dancing",
@@ -3296,7 +3646,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "subject3",
@@ -3308,7 +3659,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "suck",
@@ -3321,7 +3673,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "support",
@@ -3333,7 +3686,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "swirl_turn",
@@ -3346,7 +3700,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "symmetric",
@@ -3364,7 +3719,14 @@
    "right",
    "top",
    "bottom"
-  ]
+  ],
+  "option_types": {
+   "direction": "string",
+   "left": "boolean",
+   "right": "boolean",
+   "top": "boolean",
+   "bottom": "boolean"
+  }
  },
  {
   "key": "tankuku_raisesign",
@@ -3376,7 +3738,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "taunt",
@@ -3388,7 +3751,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "teach",
@@ -3401,9 +3765,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æèå©"
+   "我老婆"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "tease",
@@ -3416,7 +3781,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "telescope",
@@ -3428,7 +3794,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "thermometer_gun",
@@ -3440,9 +3807,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ç¬¨è"
+   "笨蛋"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "think_what",
@@ -3454,7 +3822,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "this_chicken",
@@ -3467,9 +3836,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "è¿æ¯åäºçèä¸­çé¸¡"
+   "这是十二生肖中的鸡"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "throw",
@@ -3482,7 +3852,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "throw_gif",
@@ -3495,7 +3866,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "thump",
@@ -3507,7 +3879,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "thump_wildly",
@@ -3520,7 +3893,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "tightly",
@@ -3533,7 +3907,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "time_to_go",
@@ -3545,9 +3920,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "è¯´å®äºåï¼è¯¥èµ°äº"
+   "说完了吗？该走了"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "together",
@@ -3559,7 +3935,8 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "tom_tease",
@@ -3571,7 +3948,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "tomb_yeah",
@@ -3584,7 +3962,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "trance",
@@ -3596,7 +3975,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "trolley",
@@ -3608,7 +3988,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "turn",
@@ -3620,7 +4001,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "twist",
@@ -3632,7 +4014,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "universal",
@@ -3658,7 +4041,21 @@
    "stroke_color",
    "x_offset",
    "y_offset"
-  ]
+  ],
+  "option_types": {
+   "size": "integer",
+   "font": "string",
+   "color": "string",
+   "position": "string",
+   "bold": "boolean",
+   "italic": "boolean",
+   "rotate": "integer",
+   "align": "string",
+   "stroke_width": "integer",
+   "stroke_color": "string",
+   "x_offset": "integer",
+   "y_offset": "integer"
+  }
  },
  {
   "key": "upside_down",
@@ -3670,9 +4067,10 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "æçä½ ä»¬æ¯åäºï¼"
+   "我看你们是反了！"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "vibrate",
@@ -3684,7 +4082,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wakeup",
@@ -3696,9 +4095,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "å¥½"
+   "好"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wallpaper",
@@ -3710,7 +4110,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "walnut_pad",
@@ -3722,7 +4123,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "walnut_zoom",
@@ -3734,7 +4136,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wangjingze",
@@ -3746,12 +4149,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "æå°±æ¯é¥¿æ­»",
-   "æ­»å¤è¾¹ ä»è¿éè·³ä¸å»",
-   "ä¸ä¼åä½ ä»¬ä¸ç¹ä¸è¥¿",
-   "çé¦"
+   "我就是饿死",
+   "死外边 从这里跳下去",
+   "不会吃你们一点东西",
+   "真香"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "washer",
@@ -3763,7 +4167,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wave",
@@ -3775,7 +4180,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wechat_pay",
@@ -3789,7 +4195,10 @@
   "default_texts": [],
   "options": [
    "message"
-  ]
+  ],
+  "option_types": {
+   "message": "string"
+  }
  },
  {
   "key": "weisuoyuwei",
@@ -3801,17 +4210,18 @@
   "min_texts": 9,
   "max_texts": 9,
   "default_texts": [
-   "å¥½å",
-   "å«è¯´ææ¯ä¸ç­è¯æ°",
-   "å°±ç®ä½ ä»¬ççæ³è¦è¯¬åæ",
-   "ææçæ¯é±è¯·å¾å¸å¸®ææå®å¸",
-   "ææ³ææ ¹æ¬ä¸ç¨åç¢",
-   "æé±äºä¸èµ·å",
-   "Sorryï¼æé±ççäºä¸èµ·",
-   "ä¸è¿ææ³ä½ ä¸ä¼æç½è¿ç§æè§",
-   "ä¸æç½ï¼ä¸æç½"
+   "好啊",
+   "别说我是一等良民",
+   "就算你们真的想要诬告我",
+   "我有的是钱请律师帮我打官司",
+   "我想我根本不用坐牢",
+   "有钱了不起啊",
+   "Sorry，有钱真的了不起",
+   "不过我想你不会明白这种感觉",
+   "不明白，不明白"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "what_he_wants",
@@ -3823,21 +4233,23 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [
-   "ä»å¹´520"
+   "今年520"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "what_i_want_to_do",
   "keywords": [
-   "ææ³ä¸ç"
+   "我想上的"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "why_at_me",
@@ -3849,7 +4261,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "why_have_hands",
@@ -3861,7 +4274,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "windmill_turn",
@@ -3873,7 +4287,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wish_fail",
@@ -3885,9 +4300,10 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [
-   "æè¦å¯¹è±¡"
+   "我要对象"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wooden_fish",
@@ -3899,7 +4315,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "worship",
@@ -3912,7 +4329,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wujing",
@@ -3924,10 +4342,11 @@
   "min_texts": 2,
   "max_texts": 4,
   "default_texts": [
-   "ä¸ä¹°åä¸ºä¸æ¯",
-   "äºº"
+   "不买华为不是",
+   "人"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wunian",
@@ -3939,12 +4358,13 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "äºå¹´",
-   "ä½ ç¥éæè¿äºå¹´æ¯æä¹è¿çå",
-   "ææ¯å¤©èº²å¨å®¶éç©è´ªç©èæ",
-   "ä½ ç¥éæå¤å¥½ç©å"
+   "五年",
+   "你知道我这五年是怎么过的吗",
+   "我每天躲在家里玩贪玩蓝月",
+   "你知道有多好玩吗"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "wuyage",
@@ -3956,11 +4376,12 @@
   "min_texts": 3,
   "max_texts": 3,
   "default_texts": [
-   "å äºå´½æºå¨äºº",
-   "ä»å¤©æçº¿äºæ²¡",
-   "æ¥ç»ä»å¼¹ä¸ªçæ¬è¿ä½"
+   "哟 云崽机器人",
+   "今天掉线了没",
+   "来给他弹个版本过低"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "yalidaye",
@@ -3972,11 +4393,12 @@
   "min_texts": 3,
   "max_texts": 3,
   "default_texts": [
-   "å¤çé½è¯´æä»¬ååå¤§",
-   "æè§å¾å§ååä¹æ²¡æé£ä¹å¤§",
-   "ä¸»è¦æ¯28å²äºè¿æ²¡åª³å¦å¿"
+   "外界都说我们压力大",
+   "我觉得吧压力也没有那么大",
+   "主要是28岁了还没媳妇儿"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "yeshu",
@@ -3988,16 +4410,17 @@
   "min_texts": 8,
   "max_texts": 8,
   "default_texts": [
-   "æ¤°å­ç¹äº§å¨æµ·å",
-   "æ­£å®",
-   "æ¤°æ ",
-   "29å¹´",
-   "åæå¨æµ·åå²",
-   "ç¨æ°é²æ¤°å­è",
-   "é²æ¦¨",
-   "ä¸ç¨æ¤°æµ\nä¸å é¦ç²¾å½çæ¦¨"
+   "椰子特产在海南",
+   "正宗",
+   "椰树",
+   "29年",
+   "坚持在海南岛",
+   "用新鲜椰子肉",
+   "鲜榨",
+   "不用椰浆\n不加香精当生榨"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "you_dont_get",
@@ -4009,7 +4432,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "you_should_call",
@@ -4022,7 +4446,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "your_new_years_eve",
@@ -4034,7 +4459,8 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "youtube",
@@ -4050,7 +4476,8 @@
    "Porn",
    "Hub"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  },
  {
   "key": "zengxiaoxian",
@@ -4062,11 +4489,12 @@
   "min_texts": 4,
   "max_texts": 4,
   "default_texts": [
-   "å¹³æ¶ä½ æçµå­æ¸¸æå",
-   "å¶å°",
-   "æéè¿æ¯é­å½",
-   "è¿è¿ç"
+   "平时你打电子游戏吗",
+   "偶尔",
+   "星际还是魔兽",
+   "连连看"
   ],
-  "options": []
+  "options": [],
+  "option_types": {}
  }
 ]
