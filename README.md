@@ -35,7 +35,7 @@ meme-generator/
 │  ├─ index.js                # 主插件
 │  ├─ package.json
 │  └─ resources/
-│     └─ memes.json           # 关键词表:298 个表情 / 376 个中文关键词
+│     └─ memes.json           # 关键词表:685 个表情 / 376 个中文关键词
 │
 ├─ service/                   # 渲染服务(拷到 MemeService\app\)
 │  ├─ server.py               # FastAPI 服务
@@ -100,7 +100,7 @@ D:\TRSSYUNZAI\MemeService\.venv\Scripts\python.exe fetch_resources.py
 | `5000兆 我去 洛天依` | 纯文字表情,不需要艾特 |
 | `循环` / `套娃` | always 的模式参数 |
 | `表情包搜索 摸` | 查用法 |
-| `表情包列表` | 列出全部 298 个 |
+| `表情包列表` | 列出全部 685 个 |
 | `表情包状态` | 开关 + 服务状态 |
 | `表情包开启` / `表情包关闭` | 开关 |
 
@@ -155,3 +155,13 @@ python fetch_resources.py --verify # 只校验
 - 关键词表参考 [earth-k-plugin](https://gitee.com/SmallK071114/earth-k-plugin) 的 `resources/bq.json`
 
 素材均来自网络,如有侵权请联系原作者。
+
+---
+
+## earth-k 的 emoticon.js 已停用
+
+原文件重命名为 `apps/emoticon.js.disabled`（同目录留了一份说明 txt）。
+earth-k 其余 36 个 app 未改动。
+
+恢复：改回 `emoticon.js` 并重启 Yunzai —— 但 earth-k 会重新抢答相同关键词
+并再次抛 `fetch failed`，因为它依赖的 `h.winterqkl.cn` 已下线。

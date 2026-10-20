@@ -1,6 +1,7 @@
 [
  {
   "key": "5000choyen",
+  "engine": "rust",
   "keywords": [
    "5000兆"
   ],
@@ -12,11 +13,11 @@
    "我去",
    "洛天依"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "abstinence",
+  "engine": "rust",
   "keywords": [
    "戒导"
   ],
@@ -27,13 +28,11 @@
   "default_texts": [],
   "options": [
    "time"
-  ],
-  "option_types": {
-   "time": "string"
-  }
+  ]
  },
  {
   "key": "ace_attorney_dialog",
+  "engine": "rust",
   "keywords": [
    "逆转裁判气泡"
   ],
@@ -44,11 +43,11 @@
   "default_texts": [
    "表情包制作"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "acg_entrance",
+  "engine": "rust",
   "keywords": [
    "二次元入口"
   ],
@@ -59,11 +58,11 @@
   "default_texts": [
    "走，跟我去二次元吧"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "add_chaos",
+  "engine": "rust",
   "keywords": [
    "添乱",
    "给社会添乱"
@@ -73,11 +72,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "addiction",
+  "engine": "rust",
   "keywords": [
    "上瘾",
    "毒瘾发作"
@@ -87,11 +86,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "alike",
+  "engine": "rust",
   "keywords": [
    "一样"
   ],
@@ -100,11 +99,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "alipay",
+  "engine": "rust",
   "keywords": [
    "支付宝支付"
   ],
@@ -115,13 +114,11 @@
   "default_texts": [],
   "options": [
    "message"
-  ],
-  "option_types": {
-   "message": "string"
-  }
+  ]
  },
  {
   "key": "always",
+  "engine": "rust",
   "keywords": [
    "一直"
   ],
@@ -134,15 +131,11 @@
    "mode",
    "circle",
    "loop"
-  ],
-  "option_types": {
-   "mode": "string",
-   "circle": "boolean",
-   "loop": "boolean"
-  }
+  ]
  },
  {
   "key": "always_like",
+  "engine": "rust",
   "keywords": [
    "我永远喜欢"
   ],
@@ -151,11 +144,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "anan_say",
+  "engine": "rust",
   "keywords": [
    "安安说"
   ],
@@ -168,13 +161,11 @@
   ],
   "options": [
    "expression"
-  ],
-  "option_types": {
-   "expression": "string"
-  }
+  ]
  },
  {
   "key": "anti_kidnap",
+  "engine": "rust",
   "keywords": [
    "防诱拐"
   ],
@@ -183,11 +174,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "anya_suki",
+  "engine": "rust",
   "keywords": [
    "阿尼亚喜欢"
   ],
@@ -198,11 +189,11 @@
   "default_texts": [
    "阿尼亚喜欢这个"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "applaud",
+  "engine": "rust",
   "keywords": [
    "鼓掌"
   ],
@@ -211,11 +202,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "arona_throw",
+  "engine": "rust",
   "keywords": [
    "阿罗娜扔"
   ],
@@ -224,11 +215,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "ascension",
+  "engine": "rust",
   "keywords": [
    "升天"
   ],
@@ -239,11 +230,11 @@
   "default_texts": [
    "学的是机械"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "ask",
+  "engine": "rust",
   "keywords": [
    "问问"
   ],
@@ -254,13 +245,11 @@
   "default_texts": [],
   "options": [
    "gender"
-  ],
-  "option_types": {
-   "gender": "string"
-  }
+  ]
  },
  {
   "key": "atri_pillow",
+  "engine": "rust",
   "keywords": [
    "亚托莉枕头"
   ],
@@ -275,15 +264,11 @@
    "mode",
    "yes",
    "no"
-  ],
-  "option_types": {
-   "mode": "string",
-   "yes": "boolean",
-   "no": "boolean"
-  }
+  ]
  },
  {
   "key": "ayachi_holdsign",
+  "engine": "rust",
   "keywords": [
    "宁宁举牌"
   ],
@@ -294,11 +279,11 @@
   "default_texts": [
    "我控制不住自己啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "ba_say",
+  "engine": "rust",
   "keywords": [
    "ba说"
   ],
@@ -314,16 +299,11 @@
    "position",
    "left",
    "right"
-  ],
-  "option_types": {
-   "character": "string",
-   "position": "string",
-   "left": "boolean",
-   "right": "boolean"
-  }
+  ]
  },
  {
   "key": "back_to_work",
+  "engine": "rust",
   "keywords": [
    "继续干活",
    "打工人"
@@ -333,11 +313,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "backflip",
+  "engine": "rust",
   "keywords": [
    "后空翻"
   ],
@@ -346,11 +326,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "bad_news",
+  "engine": "rust",
   "keywords": [
    "悲报"
   ],
@@ -361,11 +341,11 @@
   "default_texts": [
    "喜报"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "batitle",
+  "engine": "rust",
   "keywords": [
    "蔚蓝档案标题",
    "batitle"
@@ -378,11 +358,11 @@
    "Blue",
    "Archive"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "beat_head",
+  "engine": "rust",
   "keywords": [
    "拍头"
   ],
@@ -393,11 +373,11 @@
   "default_texts": [
    "怎么说话的你"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "beat_up",
+  "engine": "rust",
   "keywords": [
    "揍"
   ],
@@ -406,11 +386,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "blamed_mahiro",
+  "engine": "rust",
   "keywords": [
    "真寻挨骂"
   ],
@@ -421,11 +401,11 @@
   "default_texts": [
    "傻逼"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "blood_pressure",
+  "engine": "rust",
   "keywords": [
    "高血压"
   ],
@@ -434,11 +414,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "bocchi_draft",
+  "engine": "rust",
   "keywords": [
    "波奇手稿"
   ],
@@ -447,11 +427,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "bronya_holdsign",
+  "engine": "rust",
   "keywords": [
    "布洛妮娅举牌",
    "大鸭鸭举牌"
@@ -463,11 +443,11 @@
   "default_texts": [
    "V我50"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "bubble_tea",
+  "engine": "rust",
   "keywords": [
    "奶茶"
   ],
@@ -481,16 +461,11 @@
    "left",
    "right",
    "both"
-  ],
-  "option_types": {
-   "position": "string",
-   "left": "boolean",
-   "right": "boolean",
-   "both": "boolean"
-  }
+  ]
  },
  {
   "key": "call_110",
+  "engine": "rust",
   "keywords": [
    "遇到困难请拨打"
   ],
@@ -499,11 +474,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_draw",
+  "engine": "rust",
   "keywords": [
    "咖波画"
   ],
@@ -512,11 +487,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_point",
+  "engine": "rust",
   "keywords": [
    "咖波指"
   ],
@@ -525,11 +500,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_rip",
+  "engine": "rust",
   "keywords": [
    "咖波撕"
   ],
@@ -538,11 +513,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_rub",
+  "engine": "rust",
   "keywords": [
    "咖波蹭",
    "咖波贴"
@@ -552,11 +527,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_say",
+  "engine": "rust",
   "keywords": [
    "咖波说"
   ],
@@ -567,11 +542,11 @@
   "default_texts": [
    "寄"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_stew",
+  "engine": "rust",
   "keywords": [
    "咖波炖"
   ],
@@ -580,11 +555,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "capoo_strike",
+  "engine": "rust",
   "keywords": [
    "咖波撞",
    "咖波头槌"
@@ -594,11 +569,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "captain",
+  "engine": "rust",
   "keywords": [
    "舰长"
   ],
@@ -607,11 +582,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "caused_by_this",
+  "engine": "rust",
   "keywords": [
    "这个引起的"
   ],
@@ -622,11 +597,11 @@
   "default_texts": [
    "心脏病 高血压 心律不齐 心肌梗塞 失眠 脱发 呼吸困难 胸闷气短 缺氧 躁郁 焦虑 脑供血不足 心慌心悸 心脑血管炸裂"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "certificate",
+  "engine": "rust",
   "keywords": [
    "奖状",
    "证书"
@@ -642,13 +617,11 @@
   ],
   "options": [
    "time"
-  ],
-  "option_types": {
-   "time": "string"
-  }
+  ]
  },
  {
   "key": "chanshenzi",
+  "engine": "rust",
   "keywords": [
    "馋身子"
   ],
@@ -661,11 +634,11 @@
    "你那是馋她身子",
    "你下贱！"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "charpic",
+  "engine": "rust",
   "keywords": [
    "字符画"
   ],
@@ -674,11 +647,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "chase_train",
+  "engine": "rust",
   "keywords": [
    "追列车",
    "追火车"
@@ -688,11 +661,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "china_flag",
+  "engine": "rust",
   "keywords": [
    "国旗"
   ],
@@ -701,11 +674,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "chino_throw",
+  "engine": "rust",
   "keywords": [
    "智乃扔",
    "智乃抛"
@@ -715,11 +688,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "clauvio_twist",
+  "engine": "rust",
   "keywords": [
    "鼠鼠搓"
   ],
@@ -728,11 +701,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "clown",
+  "engine": "rust",
   "keywords": [
    "小丑"
   ],
@@ -743,13 +716,11 @@
   "default_texts": [],
   "options": [
    "person"
-  ],
-  "option_types": {
-   "person": "boolean"
-  }
+  ]
  },
  {
   "key": "clown_mask",
+  "engine": "rust",
   "keywords": [
    "小丑面具"
   ],
@@ -762,15 +733,11 @@
    "mode",
    "front",
    "behind"
-  ],
-  "option_types": {
-   "mode": "string",
-   "front": "boolean",
-   "behind": "boolean"
-  }
+  ]
  },
  {
   "key": "confuse",
+  "engine": "rust",
   "keywords": [
    "迷惑"
   ],
@@ -779,11 +746,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "coupon",
+  "engine": "rust",
   "keywords": [
    "兑换券"
   ],
@@ -792,11 +759,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "cover_face",
+  "engine": "rust",
   "keywords": [
    "捂脸"
   ],
@@ -805,11 +772,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "crawl",
+  "engine": "rust",
   "keywords": [
    "爬"
   ],
@@ -820,13 +787,11 @@
   "default_texts": [],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "cyan",
+  "engine": "rust",
   "keywords": [
    "群青"
   ],
@@ -835,11 +800,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "daynight",
+  "engine": "rust",
   "keywords": [
    "白天黑夜",
    "白天晚上"
@@ -849,11 +814,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "decent_kiss",
+  "engine": "rust",
   "keywords": [
    "像样的亲亲"
   ],
@@ -862,11 +827,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dianzhongdian",
+  "engine": "rust",
   "keywords": [
    "入典",
    "典中典",
@@ -879,11 +844,11 @@
   "default_texts": [
    "救命啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dinosaur",
+  "engine": "rust",
   "keywords": [
    "恐龙",
    "小恐龙"
@@ -893,11 +858,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "distracted",
+  "engine": "rust",
   "keywords": [
    "注意力涣散"
   ],
@@ -906,11 +871,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "divorce",
+  "engine": "rust",
   "keywords": [
    "离婚协议",
    "离婚申请"
@@ -920,11 +885,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dog_dislike",
+  "engine": "rust",
   "keywords": [
    "狗都不玩"
   ],
@@ -935,13 +900,11 @@
   "default_texts": [],
   "options": [
    "circle"
-  ],
-  "option_types": {
-   "circle": "boolean"
-  }
+  ]
  },
  {
   "key": "dog_of_vtb",
+  "engine": "rust",
   "keywords": [
    "管人痴"
   ],
@@ -950,11 +913,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dont_go_near",
+  "engine": "rust",
   "keywords": [
    "不要靠近"
   ],
@@ -963,11 +926,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dont_press",
+  "engine": "rust",
   "keywords": [
    "不要按"
   ],
@@ -978,11 +941,11 @@
   "default_texts": [
    "世界毁灭"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "dont_touch",
+  "engine": "rust",
   "keywords": [
    "别碰"
   ],
@@ -991,11 +954,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "doraemon_say",
+  "engine": "rust",
   "keywords": [
    "哆啦A梦说"
   ],
@@ -1006,11 +969,11 @@
   "default_texts": [
    "开银趴不喊我是吧"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "douyin",
+  "engine": "rust",
   "keywords": [
    "douyin"
   ],
@@ -1021,11 +984,11 @@
   "default_texts": [
    "douyin"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "eat",
+  "engine": "rust",
   "keywords": [
    "吃"
   ],
@@ -1034,11 +997,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "elysia_holdsign",
+  "engine": "rust",
   "keywords": [
    "爱莉举牌"
   ],
@@ -1051,13 +1014,11 @@
   ],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "emperor_dragon",
+  "engine": "rust",
   "keywords": [
    "皇帝龙图"
   ],
@@ -1068,11 +1029,11 @@
   "default_texts": [
    "听不懂，退朝"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "erised_mirror",
+  "engine": "rust",
   "keywords": [
    "意若思镜"
   ],
@@ -1081,11 +1042,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fade_away",
+  "engine": "rust",
   "keywords": [
    "灰飞烟灭"
   ],
@@ -1094,11 +1055,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fanatic",
+  "engine": "rust",
   "keywords": [
    "狂爱",
    "狂粉"
@@ -1110,13 +1071,12 @@
   "default_texts": [
    "洛天依"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "father_work",
+  "engine": "rust",
   "keywords": [
-   "闭嘴",
    "我爸爸"
   ],
   "min_images": 1,
@@ -1124,11 +1084,11 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fencing",
+  "engine": "rust",
   "keywords": [
    "击剑",
    "🤺"
@@ -1138,11 +1098,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fight_with_sunuo",
+  "engine": "rust",
   "keywords": [
    "我打宿傩",
    "我打宿傩吗"
@@ -1152,11 +1112,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fill_head",
+  "engine": "rust",
   "keywords": [
    "满脑子"
   ],
@@ -1165,11 +1125,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "find_chips",
+  "engine": "rust",
   "keywords": [
    "整点薯条"
   ],
@@ -1183,11 +1143,11 @@
    "我说的是归根结底，活着是为了什么",
    "为了待会去码头整点薯条"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "firefly_holdsign",
+  "engine": "rust",
   "keywords": [
    "流萤举牌"
   ],
@@ -1200,13 +1160,11 @@
   ],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "flash_blind",
+  "engine": "rust",
   "keywords": [
    "闪瞎"
   ],
@@ -1215,11 +1173,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "flick",
+  "engine": "rust",
   "keywords": [
    "弹",
    "脑瓜崩"
@@ -1229,11 +1187,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "flush",
+  "engine": "rust",
   "keywords": [
    "红温"
   ],
@@ -1242,11 +1200,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "fogging",
+  "engine": "rust",
   "keywords": [
    "回南天",
    "水雾"
@@ -1258,11 +1216,11 @@
   "default_texts": [
    "兄弟，回南了"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "follow",
+  "engine": "rust",
   "keywords": [
    "关注"
   ],
@@ -1273,13 +1231,11 @@
   "default_texts": [],
   "options": [
    "gender"
-  ],
-  "option_types": {
-   "gender": "string"
-  }
+  ]
  },
  {
   "key": "forbid",
+  "engine": "rust",
   "keywords": [
    "禁止",
    "禁"
@@ -1289,11 +1245,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "frieren_take",
+  "engine": "rust",
   "keywords": [
    "芙莉莲拿"
   ],
@@ -1304,11 +1260,11 @@
   "default_texts": [
    "所谓的男人啊，只要送他们这种东西就会很开心"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "funny_mirror",
+  "engine": "rust",
   "keywords": [
    "哈哈镜"
   ],
@@ -1317,11 +1273,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "garbage",
+  "engine": "rust",
   "keywords": [
    "垃圾",
    "垃圾桶"
@@ -1331,11 +1287,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "genshin_eat",
+  "engine": "rust",
   "keywords": [
    "原神吃"
   ],
@@ -1346,13 +1302,11 @@
   "default_texts": [],
   "options": [
    "character"
-  ],
-  "option_types": {
-   "character": "string"
-  }
+  ]
  },
  {
   "key": "genshin_start",
+  "engine": "rust",
   "keywords": [
    "原神启动"
   ],
@@ -1363,11 +1317,11 @@
   "default_texts": [
    "原神，启动！"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "good_news",
+  "engine": "rust",
   "keywords": [
    "喜报"
   ],
@@ -1378,11 +1332,11 @@
   "default_texts": [
    "悲报"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "google",
+  "engine": "rust",
   "keywords": [
    "google"
   ],
@@ -1393,11 +1347,11 @@
   "default_texts": [
    "Google"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "google_captcha",
+  "engine": "rust",
   "keywords": [
    "谷歌验证码"
   ],
@@ -1406,11 +1360,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "gorilla_throw",
+  "engine": "rust",
   "keywords": [
    "猩猩扔"
   ],
@@ -1419,11 +1373,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "grab",
+  "engine": "rust",
   "keywords": [
    "抓"
   ],
@@ -1432,11 +1386,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "grab_both_hands",
+  "engine": "rust",
   "keywords": [
    "双手抓"
   ],
@@ -1445,11 +1399,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "guichu",
+  "engine": "rust",
   "keywords": [
    "鬼畜"
   ],
@@ -1464,17 +1418,11 @@
    "right",
    "top",
    "bottom"
-  ],
-  "option_types": {
-   "direction": "string",
-   "left": "boolean",
-   "right": "boolean",
-   "top": "boolean",
-   "bottom": "boolean"
-  }
+  ]
  },
  {
   "key": "gun",
+  "engine": "rust",
   "keywords": [
    "手枪"
   ],
@@ -1488,16 +1436,11 @@
    "left",
    "right",
    "both"
-  ],
-  "option_types": {
-   "position": "string",
-   "left": "boolean",
-   "right": "boolean",
-   "both": "boolean"
-  }
+  ]
  },
  {
   "key": "hammer",
+  "engine": "rust",
   "keywords": [
    "锤"
   ],
@@ -1506,11 +1449,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "haruhi_raise",
+  "engine": "rust",
   "keywords": [
    "凉宫春日举"
   ],
@@ -1519,11 +1462,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "head_butt",
+  "engine": "rust",
   "keywords": [
    "顶"
   ],
@@ -1532,11 +1475,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "high_eq",
+  "engine": "rust",
   "keywords": [
    "高低情商",
    "低高情商"
@@ -1549,11 +1492,11 @@
    "高情商",
    "低情商"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "hit_screen",
+  "engine": "rust",
   "keywords": [
    "打穿",
    "打穿屏幕"
@@ -1563,11 +1506,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "hold_grudge",
+  "engine": "rust",
   "keywords": [
    "记仇"
   ],
@@ -1580,13 +1523,11 @@
   ],
   "options": [
    "time"
-  ],
-  "option_types": {
-   "time": "string"
-  }
+  ]
  },
  {
   "key": "hold_tight",
+  "engine": "rust",
   "keywords": [
    "抱紧"
   ],
@@ -1595,11 +1536,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "hug",
+  "engine": "rust",
   "keywords": [
    "抱",
    "抱抱"
@@ -1609,11 +1550,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "hug_leg",
+  "engine": "rust",
   "keywords": [
    "抱大腿"
   ],
@@ -1622,11 +1563,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "hutao_bite",
+  "engine": "rust",
   "keywords": [
    "胡桃啃"
   ],
@@ -1635,11 +1576,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "imprison",
+  "engine": "rust",
   "keywords": [
    "坐牢"
   ],
@@ -1650,11 +1591,11 @@
   "default_texts": [
    "我发涩图被抓起来了"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "incivilization",
+  "engine": "rust",
   "keywords": [
    "不文明"
   ],
@@ -1665,11 +1606,11 @@
   "default_texts": [
    "你刚才说的话不是很礼貌！"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "intel_inside",
+  "engine": "rust",
   "keywords": [
    "inside"
   ],
@@ -1680,11 +1621,11 @@
   "default_texts": [
    "intel"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "interview",
+  "engine": "rust",
   "keywords": [
    "采访"
   ],
@@ -1695,11 +1636,11 @@
   "default_texts": [
    "采访大佬经验"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "jerry_stare",
+  "engine": "rust",
   "keywords": [
    "杰瑞盯"
   ],
@@ -1708,11 +1649,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "jiamianqishi",
+  "engine": "rust",
   "keywords": [
    "假面骑士"
   ],
@@ -1726,11 +1667,11 @@
    "一直想看你这幅表情",
    "这幅嫉妒我的表情"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "jiji_king",
+  "engine": "rust",
   "keywords": [
    "急急国王"
   ],
@@ -1743,13 +1684,11 @@
   ],
   "options": [
    "block_text"
-  ],
-  "option_types": {
-   "block_text": "string"
-  }
+  ]
  },
  {
   "key": "jinhsi",
+  "engine": "rust",
   "keywords": [
    "汐汐",
    "今汐"
@@ -1763,13 +1702,11 @@
   ],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "jiubingfufa",
+  "engine": "rust",
   "keywords": [
    "旧病复发"
   ],
@@ -1780,11 +1717,11 @@
   "default_texts": [
    "此乃旧病复发也"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "jiujiu",
+  "engine": "rust",
   "keywords": [
    "啾啾"
   ],
@@ -1793,11 +1730,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "jump",
+  "engine": "rust",
   "keywords": [
    "跳"
   ],
@@ -1806,11 +1743,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "kaleidoscope",
+  "engine": "rust",
   "keywords": [
    "万花筒",
    "万花镜"
@@ -1822,13 +1759,11 @@
   "default_texts": [],
   "options": [
    "circle"
-  ],
-  "option_types": {
-   "circle": "boolean"
-  }
+  ]
  },
  {
   "key": "karyl_point",
+  "engine": "rust",
   "keywords": [
    "凯露指"
   ],
@@ -1837,11 +1772,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "keep_away",
+  "engine": "rust",
   "keywords": [
    "远离"
   ],
@@ -1852,11 +1787,11 @@
   "default_texts": [
    "如何提高社交质量 : \n远离以下头像的人"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "keep_your_money",
+  "engine": "rust",
   "keywords": [
    "压岁钱不要交给"
   ],
@@ -1867,13 +1802,11 @@
   "default_texts": [],
   "options": [
    "character"
-  ],
-  "option_types": {
-   "character": "string"
-  }
+  ]
  },
  {
   "key": "kick_ball",
+  "engine": "rust",
   "keywords": [
    "踢球"
   ],
@@ -1882,11 +1815,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "kirby_hammer",
+  "engine": "rust",
   "keywords": [
    "卡比锤",
    "卡比重锤"
@@ -1898,13 +1831,11 @@
   "default_texts": [],
   "options": [
    "circle"
-  ],
-  "option_types": {
-   "circle": "boolean"
-  }
+  ]
  },
  {
   "key": "kiss",
+  "engine": "rust",
   "keywords": [
    "亲",
    "亲亲"
@@ -1914,11 +1845,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "klee_eat",
+  "engine": "rust",
   "keywords": [
    "可莉吃"
   ],
@@ -1927,11 +1858,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "knock",
+  "engine": "rust",
   "keywords": [
    "敲"
   ],
@@ -1940,11 +1871,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "kokona_seal",
+  "engine": "rust",
   "keywords": [
    "心奈印章"
   ],
@@ -1957,13 +1888,11 @@
   ],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "konata_watch",
+  "engine": "rust",
   "keywords": [
    "泉此方看"
   ],
@@ -1972,11 +1901,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "learn",
+  "engine": "rust",
   "keywords": [
    "偷学"
   ],
@@ -1987,11 +1916,11 @@
   "default_texts": [
    "偷学群友数理基础"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "left_right_jump",
+  "engine": "rust",
   "keywords": [
    "左右横跳"
   ],
@@ -2004,15 +1933,11 @@
    "direction",
    "left_right",
    "right_left"
-  ],
-  "option_types": {
-   "direction": "string",
-   "left_right": "boolean",
-   "right_left": "boolean"
-  }
+  ]
  },
  {
   "key": "let_me_in",
+  "engine": "rust",
   "keywords": [
    "让我进去"
   ],
@@ -2021,11 +1946,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "lick_candy",
+  "engine": "rust",
   "keywords": [
    "舔糖",
    "舔棒棒糖"
@@ -2035,11 +1960,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "lim_x_0",
+  "engine": "rust",
   "keywords": [
    "等价无穷小"
   ],
@@ -2048,11 +1973,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "listen_music",
+  "engine": "rust",
   "keywords": [
    "听音乐"
   ],
@@ -2061,11 +1986,39 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
+ },
+ {
+  "key": "little_angel",
+  "engine": "rust",
+  "keywords": [
+   "小天使"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "gender"
+  ]
+ },
+ {
+  "key": "loading",
+  "engine": "rust",
+  "keywords": [
+   "加载中"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
  },
  {
   "key": "look_flat",
+  "engine": "rust",
   "keywords": [
    "看扁"
   ],
@@ -2078,13 +2031,11 @@
   ],
   "options": [
    "ratio"
-  ],
-  "option_types": {
-   "ratio": "float"
-  }
+  ]
  },
  {
   "key": "look_this_icon",
+  "engine": "rust",
   "keywords": [
    "看图标"
   ],
@@ -2095,11 +2046,11 @@
   "default_texts": [
    "朋友\n先看看这个图标再说话"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "loop",
+  "engine": "rust",
   "keywords": [
    "循环"
   ],
@@ -2114,17 +2065,11 @@
    "right",
    "top",
    "bottom"
-  ],
-  "option_types": {
-   "direction": "string",
-   "left": "boolean",
-   "right": "boolean",
-   "top": "boolean",
-   "bottom": "boolean"
-  }
+  ]
  },
  {
   "key": "lost_dog",
+  "engine": "rust",
   "keywords": [
    "寻狗启事"
   ],
@@ -2133,11 +2078,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "love_you",
+  "engine": "rust",
   "keywords": [
    "永远爱你"
   ],
@@ -2146,11 +2091,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "luotianyi_need",
+  "engine": "rust",
   "keywords": [
    "洛天依要",
    "天依要"
@@ -2160,11 +2105,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "luotianyi_say",
+  "engine": "rust",
   "keywords": [
    "洛天依说",
    "天依说"
@@ -2176,11 +2121,11 @@
   "default_texts": [
    "好想去海边啊～"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "luoyonghao_say",
+  "engine": "rust",
   "keywords": [
    "罗永浩说"
   ],
@@ -2191,11 +2136,11 @@
   "default_texts": [
    "又不是不能用"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "luxun_say",
+  "engine": "rust",
   "keywords": [
    "鲁迅说",
    "鲁迅说过"
@@ -2207,11 +2152,11 @@
   "default_texts": [
    "我没有说过这句话"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "mahiro_readbook",
+  "engine": "rust",
   "keywords": [
    "真寻看书"
   ],
@@ -2220,11 +2165,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "maikease",
+  "engine": "rust",
   "keywords": [
    "麦克阿瑟说"
   ],
@@ -2238,11 +2183,11 @@
    "如果让我去阻止xxx",
    "那么我宁愿去阻止上帝"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "maimai_awaken",
+  "engine": "rust",
   "keywords": [
    "旅行伙伴觉醒"
   ],
@@ -2251,11 +2196,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "maimai_join",
+  "engine": "rust",
   "keywords": [
    "旅行伙伴加入"
   ],
@@ -2264,11 +2209,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "make_friend",
+  "engine": "rust",
   "keywords": [
    "交个朋友"
   ],
@@ -2277,11 +2222,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "marriage",
+  "engine": "rust",
   "keywords": [
    "结婚申请",
    "结婚登记"
@@ -2291,11 +2236,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "meteor",
+  "engine": "rust",
   "keywords": [
    "流星"
   ],
@@ -2306,11 +2251,11 @@
   "default_texts": [
    "我要对象"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "mihoyo",
+  "engine": "rust",
   "keywords": [
    "米哈游"
   ],
@@ -2319,11 +2264,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "mourning",
+  "engine": "rust",
   "keywords": [
    "上香"
   ],
@@ -2334,13 +2279,11 @@
   "default_texts": [],
   "options": [
    "gray"
-  ],
-  "option_types": {
-   "gray": "boolean"
-  }
+  ]
  },
  {
   "key": "murmur",
+  "engine": "rust",
   "keywords": [
    "低语"
   ],
@@ -2351,11 +2294,11 @@
   "default_texts": [
    "你的假期余额不足"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "my_friend_say",
+  "engine": "rust",
   "keywords": [
    "我朋友说"
   ],
@@ -2366,11 +2309,11 @@
   "default_texts": [
    "让我康康"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "my_opinion",
+  "engine": "rust",
   "keywords": [
    "我的意见如下",
    "我的意见是"
@@ -2380,11 +2323,11 @@
   "min_texts": 1,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "my_wife",
+  "engine": "rust",
   "keywords": [
    "我老婆",
    "这是我老婆"
@@ -2397,14 +2340,11 @@
   "options": [
    "pronoun",
    "name"
-  ],
-  "option_types": {
-   "pronoun": "string",
-   "name": "string"
-  }
+  ]
  },
  {
   "key": "nahida_bite",
+  "engine": "rust",
   "keywords": [
    "纳西妲啃",
    "草神啃"
@@ -2414,11 +2354,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "name_generator",
+  "engine": "rust",
   "keywords": [
    "亚文化取名机",
    "亚名"
@@ -2428,11 +2368,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "need",
+  "engine": "rust",
   "keywords": [
    "需要",
    "你可能需要"
@@ -2442,11 +2382,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "nekoha_holdsign",
+  "engine": "rust",
   "keywords": [
    "猫羽雫举牌",
    "猫猫举牌"
@@ -2458,11 +2398,11 @@
   "default_texts": [
    "V我50"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "nihaosaoa",
+  "engine": "rust",
   "keywords": [
    "你好骚啊"
   ],
@@ -2475,13 +2415,12 @@
    "就贯彻到底了",
    "你好骚啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "nijika_holdsign",
+  "engine": "rust",
   "keywords": [
-   "伊地知虹夏举牌",
    "虹夏举牌"
   ],
   "min_images": 0,
@@ -2491,11 +2430,11 @@
   "default_texts": [
    "你可少看点二次元吧"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "no_response",
+  "engine": "rust",
   "keywords": [
    "无响应"
   ],
@@ -2504,11 +2443,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "nokia",
+  "engine": "rust",
   "keywords": [
    "诺基亚",
    "有内鬼"
@@ -2520,11 +2459,11 @@
   "default_texts": [
    "无内鬼，继续交易"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "note_for_leave",
+  "engine": "rust",
   "keywords": [
    "请假条"
   ],
@@ -2537,13 +2476,11 @@
   ],
   "options": [
    "time"
-  ],
-  "option_types": {
-   "time": "string"
-  }
+  ]
  },
  {
   "key": "operator_generator",
+  "engine": "rust",
   "keywords": [
    "合成大干员"
   ],
@@ -2552,11 +2489,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "oshi_no_ko",
+  "engine": "rust",
   "keywords": [
    "我推的网友"
   ],
@@ -2567,13 +2504,11 @@
   "default_texts": [],
   "options": [
    "name"
-  ],
-  "option_types": {
-   "name": "string"
-  }
+  ]
  },
  {
   "key": "osu",
+  "engine": "rust",
   "keywords": [
    "osu"
   ],
@@ -2584,11 +2519,11 @@
   "default_texts": [
    "hso!"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "out",
+  "engine": "rust",
   "keywords": [
    "out"
   ],
@@ -2597,11 +2532,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "overtime",
+  "engine": "rust",
   "keywords": [
    "加班"
   ],
@@ -2610,14 +2545,13 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "p5letter",
+  "engine": "rust",
   "keywords": [
-   "女神异闻录5预告信",
-   "P5预告信"
+   "p5预告信"
   ],
   "min_images": 0,
   "max_images": 0,
@@ -2626,11 +2560,11 @@
   "default_texts": [
    "TAKEYOURHEART"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "paint",
+  "engine": "rust",
   "keywords": [
    "这像画吗"
   ],
@@ -2639,11 +2573,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "painter",
+  "engine": "rust",
   "keywords": [
    "小画家"
   ],
@@ -2652,11 +2586,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "panda_dragon_figure",
+  "engine": "rust",
   "keywords": [
    "熊猫龙图"
   ],
@@ -2669,13 +2603,11 @@
   ],
   "options": [
    "name"
-  ],
-  "option_types": {
-   "name": "string"
-  }
+  ]
  },
  {
   "key": "pass_the_buck",
+  "engine": "rust",
   "keywords": [
    "推锅",
    "甩锅"
@@ -2687,11 +2619,11 @@
   "default_texts": [
    "你写!"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pat",
+  "engine": "rust",
   "keywords": [
    "拍"
   ],
@@ -2700,11 +2632,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pepe_raise",
+  "engine": "rust",
   "keywords": [
    "佩佩举"
   ],
@@ -2713,11 +2645,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "perfect",
+  "engine": "rust",
   "keywords": [
    "完美"
   ],
@@ -2726,11 +2658,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "petpet",
+  "engine": "rust",
   "keywords": [
    "摸",
    "摸摸",
@@ -2744,13 +2676,11 @@
   "default_texts": [],
   "options": [
    "circle"
-  ],
-  "option_types": {
-   "circle": "boolean"
-  }
+  ]
  },
  {
   "key": "pinch",
+  "engine": "rust",
   "keywords": [
    "捏",
    "捏脸"
@@ -2760,11 +2690,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pixelate",
+  "engine": "rust",
   "keywords": [
    "像素化"
   ],
@@ -2775,13 +2705,11 @@
   "default_texts": [],
   "options": [
    "number"
-  ],
-  "option_types": {
-   "number": "integer"
-  }
+  ]
  },
  {
   "key": "pjsk",
+  "engine": "rust",
   "keywords": [
    "pjsk",
    "世界计划"
@@ -2798,18 +2726,11 @@
    "rotate",
    "x_offset",
    "y_offset"
-  ],
-  "option_types": {
-   "character": "string",
-   "number": "integer",
-   "size": "integer",
-   "rotate": "integer",
-   "x_offset": "integer",
-   "y_offset": "integer"
-  }
+  ]
  },
  {
   "key": "plana_eat",
+  "engine": "rust",
   "keywords": [
    "普拉娜吃",
    "普拉娜舔"
@@ -2819,11 +2740,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "play_baseball",
+  "engine": "rust",
   "keywords": [
    "打棒球"
   ],
@@ -2832,11 +2753,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "play_basketball",
+  "engine": "rust",
   "keywords": [
    "打篮球",
    "火柴人打篮球"
@@ -2846,11 +2767,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "play_game",
+  "engine": "rust",
   "keywords": [
    "玩游戏"
   ],
@@ -2861,11 +2782,11 @@
   "default_texts": [
    "来玩休闲游戏啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "play_together",
+  "engine": "rust",
   "keywords": [
    "一起玩"
   ],
@@ -2874,11 +2795,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "police",
+  "engine": "rust",
   "keywords": [
    "出警"
   ],
@@ -2889,11 +2810,11 @@
   "default_texts": [
    "平安名すみれ"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "policeman",
+  "engine": "rust",
   "keywords": [
    "警察"
   ],
@@ -2902,11 +2823,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pornhub",
+  "engine": "rust",
   "keywords": [
    "ph",
    "pornhub"
@@ -2919,11 +2840,11 @@
    "You",
    "Tube"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "potato",
+  "engine": "rust",
   "keywords": [
    "土豆"
   ],
@@ -2932,11 +2853,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pound",
+  "engine": "rust",
   "keywords": [
    "捣"
   ],
@@ -2945,11 +2866,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "praise",
+  "engine": "rust",
   "keywords": [
    "表扬"
   ],
@@ -2960,11 +2881,11 @@
   "default_texts": [
    "好，不愧是顶尖运营"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "printing",
+  "engine": "rust",
   "keywords": [
    "打印"
   ],
@@ -2973,11 +2894,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "prpr",
+  "engine": "rust",
   "keywords": [
    "舔",
    "舔屏",
@@ -2988,11 +2909,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "psyduck",
+  "engine": "rust",
   "keywords": [
    "可达鸭"
   ],
@@ -3004,11 +2925,11 @@
    "来份",
    "涩图"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "punch",
+  "engine": "rust",
   "keywords": [
    "打拳"
   ],
@@ -3017,11 +2938,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "pyramid",
+  "engine": "rust",
   "keywords": [
    "四棱锥",
    "金字塔"
@@ -3031,11 +2952,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "qiegewala",
+  "engine": "rust",
   "keywords": [
    "切格瓦拉"
   ],
@@ -3051,11 +2972,11 @@
    "打工是不可能打工的",
    "这辈子不可能打工的"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "raise_image",
+  "engine": "rust",
   "keywords": [
    "举"
   ],
@@ -3064,11 +2985,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "raise_sign",
+  "engine": "rust",
   "keywords": [
    "举牌"
   ],
@@ -3079,11 +3000,11 @@
   "default_texts": [
    "大佬带带我"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "read_book",
+  "engine": "rust",
   "keywords": [
    "看书"
   ],
@@ -3094,11 +3015,11 @@
   "default_texts": [
    "エロ本"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "remote_control",
+  "engine": "rust",
   "keywords": [
    "遥控",
    "控制"
@@ -3108,11 +3029,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "repeat",
+  "engine": "rust",
   "keywords": [
    "复读"
   ],
@@ -3123,11 +3044,11 @@
   "default_texts": [
    "救命啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rip",
+  "engine": "rust",
   "keywords": [
    "撕"
   ],
@@ -3136,11 +3057,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rip_angrily",
+  "engine": "rust",
   "keywords": [
    "怒撕"
   ],
@@ -3149,11 +3070,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rip_clothes",
+  "engine": "rust",
   "keywords": [
    "撕衣服"
   ],
@@ -3162,11 +3083,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rise_dead",
+  "engine": "rust",
   "keywords": [
    "诈尸",
    "秽土转生"
@@ -3176,11 +3097,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "roll",
+  "engine": "rust",
   "keywords": [
    "滚"
   ],
@@ -3189,11 +3110,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rotate_3d",
+  "engine": "rust",
   "keywords": [
    "三维旋转"
   ],
@@ -3202,11 +3123,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "rub",
+  "engine": "rust",
   "keywords": [
    "贴",
    "贴贴",
@@ -3218,11 +3139,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "run",
+  "engine": "rust",
   "keywords": [
    "快跑"
   ],
@@ -3233,11 +3154,11 @@
   "default_texts": [
    "快跑"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "run_away",
+  "engine": "rust",
   "keywords": [
    "快逃"
   ],
@@ -3246,11 +3167,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "safe_sense",
+  "engine": "rust",
   "keywords": [
    "安全感"
   ],
@@ -3261,11 +3182,11 @@
   "default_texts": [
    "你给我的安全感\n远不及他的万分之一"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "saimin_app",
+  "engine": "rust",
   "keywords": [
    "催眠app"
   ],
@@ -3274,11 +3195,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "scratch_head",
+  "engine": "rust",
   "keywords": [
    "挠头"
   ],
@@ -3287,11 +3208,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "scratchcard",
+  "engine": "rust",
   "keywords": [
    "刮刮乐"
   ],
@@ -3302,11 +3223,11 @@
   "default_texts": [
    "谢谢参与"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "scroll",
+  "engine": "rust",
   "keywords": [
    "滚屏"
   ],
@@ -3317,11 +3238,11 @@
   "default_texts": [
    "你们说话啊"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "seal",
+  "engine": "rust",
   "keywords": [
    "源石封印"
   ],
@@ -3330,11 +3251,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "sekaiichi_kawaii",
+  "engine": "rust",
   "keywords": [
    "世界第一可爱"
   ],
@@ -3343,11 +3264,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shake_head",
+  "engine": "rust",
   "keywords": [
    "晃脑"
   ],
@@ -3356,11 +3277,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shiroko_pero",
+  "engine": "rust",
   "keywords": [
    "白子舔"
   ],
@@ -3369,11 +3290,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shishilani",
+  "engine": "rust",
   "keywords": [
    "食屎啦你"
   ],
@@ -3387,11 +3308,11 @@
    "跟着这样的大哥",
    "食屎啦你"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shock",
+  "engine": "rust",
   "keywords": [
    "震惊"
   ],
@@ -3400,11 +3321,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shuifandui",
+  "engine": "rust",
   "keywords": [
    "谁反对"
   ],
@@ -3418,11 +3339,11 @@
    "谁反对",
    "我反对"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "shutup",
+  "engine": "rust",
   "keywords": [
    "别说了"
   ],
@@ -3433,25 +3354,24 @@
   "default_texts": [
    "你不要再说了"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "sit_still",
+  "engine": "rust",
   "keywords": [
-   "坐得住",
-   "坐的住"
+   "坐得住"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "slap",
+  "engine": "rust",
   "keywords": [
    "一巴掌"
   ],
@@ -3462,11 +3382,11 @@
   "default_texts": [
    "你不要再说了"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "slogan",
+  "engine": "rust",
   "keywords": [
    "口号"
   ],
@@ -3482,11 +3402,11 @@
    "将来毕业后要做什么样的人？",
    "混混！"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "smash",
+  "engine": "rust",
   "keywords": [
    "砸"
   ],
@@ -3495,11 +3415,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "sold_out",
+  "engine": "rust",
   "keywords": [
    "卖掉了"
   ],
@@ -3508,11 +3428,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "speechless",
+  "engine": "rust",
   "keywords": [
    "无语"
   ],
@@ -3521,11 +3441,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "sphere_rotate",
+  "engine": "rust",
   "keywords": [
    "球面旋转"
   ],
@@ -3534,11 +3454,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "spider",
+  "engine": "rust",
   "keywords": [
    "蜘蛛",
    "蜘蛛爬"
@@ -3548,11 +3468,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "stare_at_you",
+  "engine": "rust",
   "keywords": [
    "盯着你"
   ],
@@ -3561,11 +3481,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "steam_message",
+  "engine": "rust",
   "keywords": [
    "steam消息"
   ],
@@ -3576,11 +3496,11 @@
   "default_texts": [
    "黑神话：悟空"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "step_on",
+  "engine": "rust",
   "keywords": [
    "踩"
   ],
@@ -3589,11 +3509,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "stew",
+  "engine": "rust",
   "keywords": [
    "炖"
   ],
@@ -3602,11 +3522,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "stickman_dancing",
+  "engine": "rust",
   "keywords": [
    "跳舞",
    "火柴人跳舞"
@@ -3616,11 +3536,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "subject3",
+  "engine": "rust",
   "keywords": [
    "科目三"
   ],
@@ -3629,11 +3549,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "suck",
+  "engine": "rust",
   "keywords": [
    "吸",
    "嗦"
@@ -3643,11 +3563,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "support",
+  "engine": "rust",
   "keywords": [
    "精神支柱"
   ],
@@ -3656,11 +3576,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "swirl_turn",
+  "engine": "rust",
   "keywords": [
    "回旋转",
    "旋风转"
@@ -3670,11 +3590,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "symmetric",
+  "engine": "rust",
   "keywords": [
    "对称"
   ],
@@ -3689,17 +3609,11 @@
    "right",
    "top",
    "bottom"
-  ],
-  "option_types": {
-   "direction": "string",
-   "left": "boolean",
-   "right": "boolean",
-   "top": "boolean",
-   "bottom": "boolean"
-  }
+  ]
  },
  {
   "key": "tankuku_raisesign",
+  "engine": "rust",
   "keywords": [
    "唐可可举牌"
   ],
@@ -3708,11 +3622,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "taunt",
+  "engine": "rust",
   "keywords": [
    "嘲讽"
   ],
@@ -3721,11 +3635,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "teach",
+  "engine": "rust",
   "keywords": [
    "讲课",
    "敲黑板"
@@ -3737,11 +3651,11 @@
   "default_texts": [
    "我老婆"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "tease",
+  "engine": "rust",
   "keywords": [
    "拿捏",
    "戏弄"
@@ -3751,11 +3665,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "telescope",
+  "engine": "rust",
   "keywords": [
    "望远镜"
   ],
@@ -3764,11 +3678,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "thermometer_gun",
+  "engine": "rust",
   "keywords": [
    "体温枪"
   ],
@@ -3779,11 +3693,11 @@
   "default_texts": [
    "笨蛋"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "think_what",
+  "engine": "rust",
   "keywords": [
    "想什么"
   ],
@@ -3792,11 +3706,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "this_chicken",
+  "engine": "rust",
   "keywords": [
    "这是鸡",
    "🐔"
@@ -3808,11 +3722,11 @@
   "default_texts": [
    "这是十二生肖中的鸡"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "throw",
+  "engine": "rust",
   "keywords": [
    "丢",
    "扔"
@@ -3822,11 +3736,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "throw_gif",
+  "engine": "rust",
   "keywords": [
    "抛",
    "掷"
@@ -3836,11 +3750,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "thump",
+  "engine": "rust",
   "keywords": [
    "捶"
   ],
@@ -3849,11 +3763,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "thump_wildly",
+  "engine": "rust",
   "keywords": [
    "捶爆",
    "爆捶"
@@ -3863,11 +3777,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "tightly",
+  "engine": "rust",
   "keywords": [
    "紧贴",
    "紧紧贴着"
@@ -3877,11 +3791,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "time_to_go",
+  "engine": "rust",
   "keywords": [
    "该走了"
   ],
@@ -3892,11 +3806,11 @@
   "default_texts": [
    "说完了吗？该走了"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "together",
+  "engine": "rust",
   "keywords": [
    "一起"
   ],
@@ -3905,11 +3819,11 @@
   "min_texts": 0,
   "max_texts": 1,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "tom_tease",
+  "engine": "rust",
   "keywords": [
    "汤姆嘲笑"
   ],
@@ -3918,11 +3832,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "tomb_yeah",
+  "engine": "rust",
   "keywords": [
    "上坟",
    "坟前比耶"
@@ -3932,11 +3846,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "trance",
+  "engine": "rust",
   "keywords": [
    "恍惚"
   ],
@@ -3945,11 +3859,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "trolley",
+  "engine": "rust",
   "keywords": [
    "推车"
   ],
@@ -3958,11 +3872,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "turn",
+  "engine": "rust",
   "keywords": [
    "转"
   ],
@@ -3971,11 +3885,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "twist",
+  "engine": "rust",
   "keywords": [
    "搓"
   ],
@@ -3984,11 +3898,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "universal",
+  "engine": "rust",
   "keywords": [
    "万能表情",
    "空白表情"
@@ -4011,24 +3925,11 @@
    "stroke_color",
    "x_offset",
    "y_offset"
-  ],
-  "option_types": {
-   "size": "integer",
-   "font": "string",
-   "color": "string",
-   "position": "string",
-   "bold": "boolean",
-   "italic": "boolean",
-   "rotate": "integer",
-   "align": "string",
-   "stroke_width": "integer",
-   "stroke_color": "string",
-   "x_offset": "integer",
-   "y_offset": "integer"
-  }
+  ]
  },
  {
   "key": "upside_down",
+  "engine": "rust",
   "keywords": [
    "反了"
   ],
@@ -4039,11 +3940,11 @@
   "default_texts": [
    "我看你们是反了！"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "vibrate",
+  "engine": "rust",
   "keywords": [
    "震动"
   ],
@@ -4052,11 +3953,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wakeup",
+  "engine": "rust",
   "keywords": [
    "好起来了"
   ],
@@ -4067,11 +3968,11 @@
   "default_texts": [
    "好"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wallpaper",
+  "engine": "rust",
   "keywords": [
    "墙纸"
   ],
@@ -4080,11 +3981,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "walnut_pad",
+  "engine": "rust",
   "keywords": [
    "胡桃平板"
   ],
@@ -4093,11 +3994,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "walnut_zoom",
+  "engine": "rust",
   "keywords": [
    "胡桃放大"
   ],
@@ -4106,11 +4007,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wangjingze",
+  "engine": "rust",
   "keywords": [
    "王境泽"
   ],
@@ -4124,11 +4025,11 @@
    "不会吃你们一点东西",
    "真香"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "washer",
+  "engine": "rust",
   "keywords": [
    "洗衣机"
   ],
@@ -4137,11 +4038,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wave",
+  "engine": "rust",
   "keywords": [
    "波纹"
   ],
@@ -4150,11 +4051,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wechat_pay",
+  "engine": "rust",
   "keywords": [
    "微信支付"
   ],
@@ -4165,13 +4066,11 @@
   "default_texts": [],
   "options": [
    "message"
-  ],
-  "option_types": {
-   "message": "string"
-  }
+  ]
  },
  {
   "key": "weisuoyuwei",
+  "engine": "rust",
   "keywords": [
    "为所欲为"
   ],
@@ -4190,11 +4089,11 @@
    "不过我想你不会明白这种感觉",
    "不明白，不明白"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "what_he_wants",
+  "engine": "rust",
   "keywords": [
    "最想要的东西"
   ],
@@ -4205,11 +4104,11 @@
   "default_texts": [
    "今年520"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "what_i_want_to_do",
+  "engine": "rust",
   "keywords": [
    "我想上的"
   ],
@@ -4218,11 +4117,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "why_at_me",
+  "engine": "rust",
   "keywords": [
    "为什么@我"
   ],
@@ -4231,11 +4130,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "why_have_hands",
+  "engine": "rust",
   "keywords": [
    "为什么要有手"
   ],
@@ -4244,11 +4143,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "windmill_turn",
+  "engine": "rust",
   "keywords": [
    "风车转"
   ],
@@ -4257,11 +4156,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wish_fail",
+  "engine": "rust",
   "keywords": [
    "许愿失败"
   ],
@@ -4272,11 +4171,11 @@
   "default_texts": [
    "我要对象"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wooden_fish",
+  "engine": "rust",
   "keywords": [
    "木鱼"
   ],
@@ -4285,11 +4184,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "worship",
+  "engine": "rust",
   "keywords": [
    "膜",
    "膜拜"
@@ -4299,11 +4198,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wujing",
+  "engine": "rust",
   "keywords": [
    "吴京中国"
   ],
@@ -4315,11 +4214,11 @@
    "不买华为不是",
    "人"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wunian",
+  "engine": "rust",
   "keywords": [
    "五年怎么过的"
   ],
@@ -4333,11 +4232,11 @@
    "我每天躲在家里玩贪玩蓝月",
    "你知道有多好玩吗"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "wuyage",
+  "engine": "rust",
   "keywords": [
    "乌鸦哥"
   ],
@@ -4350,11 +4249,11 @@
    "今天掉线了没",
    "来给他弹个版本过低"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "yalidaye",
+  "engine": "rust",
   "keywords": [
    "压力大爷"
   ],
@@ -4367,11 +4266,11 @@
    "我觉得吧压力也没有那么大",
    "主要是28岁了还没媳妇儿"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "yeshu",
+  "engine": "rust",
   "keywords": [
    "椰树椰汁"
   ],
@@ -4389,11 +4288,11 @@
    "鲜榨",
    "不用椰浆\n不加香精当生榨"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "you_dont_get",
+  "engine": "rust",
   "keywords": [
    "你不懂啦"
   ],
@@ -4402,11 +4301,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "you_should_call",
+  "engine": "rust",
   "keywords": [
    "致电",
    "你应该致电"
@@ -4416,11 +4315,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "your_new_years_eve",
+  "engine": "rust",
   "keywords": [
    "你的跨年"
   ],
@@ -4429,11 +4328,11 @@
   "min_texts": 0,
   "max_texts": 0,
   "default_texts": [],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "youtube",
+  "engine": "rust",
   "keywords": [
    "yt",
    "youtube"
@@ -4446,11 +4345,11 @@
    "Porn",
    "Hub"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
  },
  {
   "key": "zengxiaoxian",
+  "engine": "rust",
   "keywords": [
    "曾小贤"
   ],
@@ -4464,7 +4363,5455 @@
    "星际还是魔兽",
    "连连看"
   ],
-  "options": [],
-  "option_types": {}
+  "options": []
+ },
+ {
+  "key": "acacia_anan_holdsign",
+  "engine": "python",
+  "keywords": [
+   "安安举牌",
+   "夏目安安举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "快说吾辈可爱"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "admission_letter",
+  "engine": "python",
+  "keywords": [
+   "录取通知书"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "KaedeharaLu"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "ai_ace",
+  "engine": "python",
+  "keywords": [
+   "AI高手",
+   "ai高手"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "aima_say",
+  "engine": "python",
+  "keywords": [
+   "艾玛说",
+   "樱羽艾玛说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "何意味？"
+  ],
+  "options": []
+ },
+ {
+  "key": "all_the_days",
+  "engine": "python",
+  "keywords": [
+   "一生一世"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "allegiance",
+  "engine": "python",
+  "keywords": [
+   "충성",
+   "忠橙",
+   "敬礼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "andwho",
+  "engine": "python",
+  "keywords": [
+   "今天和谁过"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "原神"
+  ],
+  "options": []
+ },
+ {
+  "key": "anyliew_struggling",
+  "engine": "python",
+  "keywords": [
+   "挣扎"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "atri_finger",
+  "engine": "python",
+  "keywords": [
+   "亚托莉指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "atri_holdsign",
+  "engine": "python",
+  "keywords": [
+   "亚托莉举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "请不要忘记我哦……\n请一直,一直记住我哦\n明天,请把我带到伊甸\n我想看见大家的笑容\n我想看到大家开心的表情\n我想学习喜悦"
+  ],
+  "options": []
+ },
+ {
+  "key": "atri_like",
+  "engine": "python",
+  "keywords": [
+   "亚托莉喜欢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "亚托莉喜欢这个"
+  ],
+  "options": []
+ },
+ {
+  "key": "azur_lane_cheshire_thumbs_up",
+  "engine": "python",
+  "keywords": [
+   "柴郡点赞",
+   "柴郡猫点赞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "baby",
+  "engine": "python",
+  "keywords": [
+   "宝宝",
+   "BB",
+   "bb",
+   "baby",
+   "Baby"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "beg_foster_care",
+  "engine": "python",
+  "keywords": [
+   "求包养"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "begged_me",
+  "engine": "python",
+  "keywords": [
+   "求我"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "behead",
+  "engine": "python",
+  "keywords": [
+   "砍头",
+   "斩首"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "beloveds",
+  "engine": "python",
+  "keywords": [
+   "挚爱"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "big_do",
+  "engine": "python",
+  "keywords": [
+   "大撅"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "bite",
+  "engine": "python",
+  "keywords": [
+   "啃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "bluearchive",
+  "engine": "python",
+  "keywords": [
+   "bluearchive"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "Blue",
+   "Archive"
+  ],
+  "options": []
+ },
+ {
+  "key": "bonfire_dance",
+  "engine": "python",
+  "keywords": [
+   "篝火舞",
+   "圈舞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "buyaolian",
+  "engine": "python",
+  "keywords": [
+   "不要脸",
+   "撕脸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我就是不要脸\n 你来撕我啊"
+  ],
+  "options": []
+ },
+ {
+  "key": "can_can_need",
+  "engine": "python",
+  "keywords": [
+   "看看你的"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "caosini",
+  "engine": "python",
+  "keywords": [
+   "炒你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_fished_out",
+  "engine": "python",
+  "keywords": [
+   "咖波掏"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_love",
+  "engine": "python",
+  "keywords": [
+   "咖波爱心",
+   "❤️"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_qunou",
+  "engine": "python",
+  "keywords": [
+   "咖波群殴"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_smash_egg",
+  "engine": "python",
+  "keywords": [
+   "咖波砸蛋"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_take_dump",
+  "engine": "python",
+  "keywords": [
+   "咖波拉"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_take_sleep",
+  "engine": "python",
+  "keywords": [
+   "咖波睡觉",
+   "睡觉"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoo_take_smash",
+  "engine": "python",
+  "keywords": [
+   "咖波砸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capooplay",
+  "engine": "python",
+  "keywords": [
+   "咖波打"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "capoozhao",
+  "engine": "python",
+  "keywords": [
+   "咖波照"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "美死了"
+  ],
+  "options": []
+ },
+ {
+  "key": "cat_lick",
+  "engine": "python",
+  "keywords": [
+   "猫舔",
+   "猫猫舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "cat_scratch",
+  "engine": "python",
+  "keywords": [
+   "猫抓",
+   "猫猫抓"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chiikawa",
+  "engine": "python",
+  "keywords": [
+   "吉伊卡哇"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chillet_deer",
+  "engine": "python",
+  "keywords": [
+   "疾风鹿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chuai",
+  "engine": "python",
+  "keywords": [
+   "踹"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chuangfei",
+  "engine": "python",
+  "keywords": [
+   "创飞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "chuini",
+  "engine": "python",
+  "keywords": [
+   "捶你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "clownish",
+  "engine": "python",
+  "keywords": [
+   "滑稽"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "cockroaches",
+  "engine": "python",
+  "keywords": [
+   "蟑螂",
+   "小强"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "contract",
+  "engine": "python",
+  "keywords": [
+   "卖身契",
+   "⭐️💢契约",
+   "奴隶契约"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "cooking",
+  "engine": "python",
+  "keywords": [
+   "炒菜"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dafen",
+  "engine": "python",
+  "keywords": [
+   "打分"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "满分"
+  ],
+  "options": []
+ },
+ {
+  "key": "daxiaojiejiadao",
+  "engine": "python",
+  "keywords": [
+   "大小姐驾到"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "通通闪开，大小姐驾到！"
+  ],
+  "options": []
+ },
+ {
+  "key": "deer_help",
+  "engine": "python",
+  "keywords": [
+   "帮鹿",
+   "帮🦌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "deer_plan",
+  "engine": "python",
+  "keywords": [
+   "鹿管计划"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "deer_time",
+  "engine": "python",
+  "keywords": [
+   "鹿管时间"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dinosaur_head",
+  "engine": "python",
+  "keywords": [
+   "恐龙头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "diucat",
+  "engine": "python",
+  "keywords": [
+   "丢猫"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "do",
+  "engine": "python",
+  "keywords": [
+   "撅",
+   "狠狠地撅"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dog_ear_hat",
+  "engine": "python",
+  "keywords": [
+   "狗耳帽",
+   "狗帽"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dog_girl",
+  "engine": "python",
+  "keywords": [
+   "狗妹"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_contact",
+  "engine": "python",
+  "keywords": [
+   "交往",
+   "doro交往",
+   "Doro交往",
+   "DORO交往",
+   "桃乐丝交往"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_dear",
+  "engine": "python",
+  "keywords": [
+   "最爱",
+   "doro最爱",
+   "Doro最爱",
+   "DORO最爱",
+   "桃乐丝最爱"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_kiss",
+  "engine": "python",
+  "keywords": [
+   "桃乐丝亲",
+   "Doro亲",
+   "doro亲"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_knight",
+  "engine": "python",
+  "keywords": [
+   "骑士",
+   "doro骑士",
+   "Doro骑士",
+   "DORO骑士"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_lick",
+  "engine": "python",
+  "keywords": [
+   "桃乐丝舔",
+   "doro舔",
+   "Doro舔",
+   "DORO舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_openlight",
+  "engine": "python",
+  "keywords": [
+   "开灯",
+   "桃乐丝开灯",
+   "doro开灯",
+   "Doro开灯",
+   "DORO开灯"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_orange",
+  "engine": "python",
+  "keywords": [
+   "欧润吉",
+   "润吉",
+   "润橘",
+   "橘子",
+   "橘",
+   "🍊"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_surrounding_photos",
+  "engine": "python",
+  "keywords": [
+   "周边写真"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_thumbs_up",
+  "engine": "python",
+  "keywords": [
+   "doro点赞",
+   "Doro点赞",
+   "DORO点赞",
+   "桃乐丝点赞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_trampoline",
+  "engine": "python",
+  "keywords": [
+   "跳床",
+   "蹦床",
+   "doro蹦床",
+   "桃乐丝蹦床",
+   "doro跳床",
+   "桃乐丝跳床"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doro_work_for_you",
+  "engine": "python",
+  "keywords": [
+   "为你打工"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dorochou",
+  "engine": "python",
+  "keywords": [
+   "doro抽"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dorochui",
+  "engine": "python",
+  "keywords": [
+   "doro锤"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dorojupai",
+  "engine": "python",
+  "keywords": [
+   "doro举牌",
+   "桃乐丝举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我叫哦润吉"
+  ],
+  "options": []
+ },
+ {
+  "key": "doroqi",
+  "engine": "python",
+  "keywords": [
+   "doro骑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "doroti",
+  "engine": "python",
+  "keywords": [
+   "doro踢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dorotuodi",
+  "engine": "python",
+  "keywords": [
+   "doro拖地"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "dorowaimai",
+  "engine": "python",
+  "keywords": [
+   "doro外卖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "doro"
+  ],
+  "options": []
+ },
+ {
+  "key": "doroya",
+  "engine": "python",
+  "keywords": [
+   "doro鸭"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "downban",
+  "engine": "python",
+  "keywords": [
+   "下班"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "time"
+  ]
+ },
+ {
+  "key": "dragon_hand",
+  "engine": "python",
+  "keywords": [
+   "龙手"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "drumstick",
+  "engine": "python",
+  "keywords": [
+   "🍗",
+   "鸡腿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "duidi",
+  "engine": "python",
+  "keywords": [
+   "怼地",
+   "怼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "durian",
+  "engine": "python",
+  "keywords": [
+   "榴莲"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "electrify_you",
+  "engine": "python",
+  "keywords": [
+   "电死你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "猪头"
+  ],
+  "options": []
+ },
+ {
+  "key": "empathy",
+  "engine": "python",
+  "keywords": [
+   "换位思考"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "erciyuan",
+  "engine": "python",
+  "keywords": [
+   "二次元"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "estrous",
+  "engine": "python",
+  "keywords": [
+   "发情"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "family_know",
+  "engine": "python",
+  "keywords": [
+   "家人们谁懂啊"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fart",
+  "engine": "python",
+  "keywords": [
+   "放屁"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "feizhaiking",
+  "engine": "python",
+  "keywords": [
+   "肥仔网络皇帝",
+   "网络皇帝",
+   "皇帝"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "肥猪网络皇帝"
+  ],
+  "options": []
+ },
+ {
+  "key": "fever",
+  "engine": "python",
+  "keywords": [
+   "为爱发烧",
+   "发烧"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fireworks_head",
+  "engine": "python",
+  "keywords": [
+   "烟花头像"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fishing",
+  "engine": "python",
+  "keywords": [
+   "钓鱼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight",
+  "engine": "python",
+  "keywords": [
+   "飞机杯"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_air_play",
+  "engine": "python",
+  "keywords": [
+   "空气玩法"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_angel",
+  "engine": "python",
+  "keywords": [
+   "天使心"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_cleaning_liquid",
+  "engine": "python",
+  "keywords": [
+   "清洗液"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_commemorative_edition_saint_sister",
+  "engine": "python",
+  "keywords": [
+   "纪念版圣修女"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_hoshino_alice",
+  "engine": "python",
+  "keywords": [
+   "啦啦队偶像",
+   "拉拉队偶像"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_idol_heartbeat",
+  "engine": "python",
+  "keywords": [
+   "偶像心跳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_jissbon",
+  "engine": "python",
+  "keywords": [
+   "杰士邦"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_kuileishushi",
+  "engine": "python",
+  "keywords": [
+   "白丝壁女"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_limited_edition_saint_sister",
+  "engine": "python",
+  "keywords": [
+   "限定版圣修女"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_machinery",
+  "engine": "python",
+  "keywords": [
+   "机械龙女",
+   "机械龙女EVA",
+   "机械龙女eva"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_mengxin_packs",
+  "engine": "python",
+  "keywords": [
+   "萌新礼包"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_miyuko_kamimiya",
+  "engine": "python",
+  "keywords": [
+   "神宫美优子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_mizuki_shiranui",
+  "engine": "python",
+  "keywords": [
+   "水城不知火"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_nrn",
+  "engine": "python",
+  "keywords": [
+   "乳入娘"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_pure_buttocks",
+  "engine": "python",
+  "keywords": [
+   "纯洁臀"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_purple_spirit",
+  "engine": "python",
+  "keywords": [
+   "紫域精灵"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_qiaobenyouxi",
+  "engine": "python",
+  "keywords": [
+   "桥本友希"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_random",
+  "engine": "python",
+  "keywords": [
+   "随机杯子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "fleshlight_saint_sister",
+  "engine": "python",
+  "keywords": [
+   "圣修女"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_saki_haruna",
+  "engine": "python",
+  "keywords": [
+   "春奈纱希"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_selena",
+  "engine": "python",
+  "keywords": [
+   "魔女之森"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_starter_pack",
+  "engine": "python",
+  "keywords": [
+   "新手礼包"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_summer_liuli_zi",
+  "engine": "python",
+  "keywords": [
+   "夏日琉璃子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_taimanin_asgi",
+  "engine": "python",
+  "keywords": [
+   "对魔忍"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "fleshlight_xingnai",
+  "engine": "python",
+  "keywords": [
+   "杏奈"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "get_up",
+  "engine": "python",
+  "keywords": [
+   "起床"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "gongzei",
+  "engine": "python",
+  "keywords": [
+   "工贼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我爱加班"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "gulaojupai",
+  "engine": "python",
+  "keywords": [
+   "故佬举牌",
+   "小萌新举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我叫小萌新"
+  ],
+  "options": []
+ },
+ {
+  "key": "handwriting",
+  "engine": "python",
+  "keywords": [
+   "手写"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "你好，世界！"
+  ],
+  "options": []
+ },
+ {
+  "key": "happy_mid_autumn_festival",
+  "engine": "python",
+  "keywords": [
+   "中秋快乐",
+   "中秋节快乐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "happy_national_day",
+  "engine": "python",
+  "keywords": [
+   "国庆快乐",
+   "国庆节快乐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "happy_new_year",
+  "engine": "python",
+  "keywords": [
+   "新年好"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "heartbeat",
+  "engine": "python",
+  "keywords": [
+   "心跳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "heike",
+  "engine": "python",
+  "keywords": [
+   "嘿壳",
+   "黑客",
+   "嘿客"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "嘿客"
+  ],
+  "options": []
+ },
+ {
+  "key": "high_EQ",
+  "engine": "python",
+  "keywords": [
+   "high_EQ"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 2,
+  "max_texts": 2,
+  "default_texts": [
+   "高情商",
+   "低情商"
+  ],
+  "options": []
+ },
+ {
+  "key": "hitachi_mako_together",
+  "engine": "python",
+  "keywords": [
+   "和她在一起"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "horse_riding",
+  "engine": "python",
+  "keywords": [
+   "骑马"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "houminghao",
+  "engine": "python",
+  "keywords": [
+   "侯明昊"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "姐姐不乖哦"
+  ],
+  "options": []
+ },
+ {
+  "key": "huochailu",
+  "engine": "python",
+  "keywords": [
+   "火柴撸"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ice_tea_head",
+  "engine": "python",
+  "keywords": [
+   "冰红茶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ignite",
+  "engine": "python",
+  "keywords": [
+   "燃起来了"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ikun_basketball",
+  "engine": "python",
+  "keywords": [
+   "篮球",
+   "🏀"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ikun_durian_head",
+  "engine": "python",
+  "keywords": [
+   "榴莲坤头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ikun_head",
+  "engine": "python",
+  "keywords": [
+   "小黑子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ikun_like",
+  "engine": "python",
+  "keywords": [
+   "坤坤喜欢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "坤坤喜欢这个"
+  ],
+  "options": []
+ },
+ {
+  "key": "ikun_need_tv",
+  "engine": "python",
+  "keywords": [
+   "坤坤想要"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "ikun_why_are_you",
+  "engine": "python",
+  "keywords": [
+   "你干嘛",
+   "你干吗"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "interaction",
+  "engine": "python",
+  "keywords": [
+   "互动"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "izumi_sagiri_painting",
+  "engine": "python",
+  "keywords": [
+   "和泉纱雾画画"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jd_delivery_person",
+  "engine": "python",
+  "keywords": [
+   "京东外卖骑手",
+   "京东外卖工牌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jd_takeout",
+  "engine": "python",
+  "keywords": [
+   "京东外卖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jerk_off",
+  "engine": "python",
+  "keywords": [
+   "打胶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "jianpanxia",
+  "engine": "python",
+  "keywords": [
+   "键盘侠"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "来点涩图"
+  ],
+  "options": []
+ },
+ {
+  "key": "kawa",
+  "engine": "python",
+  "keywords": [
+   "kawa",
+   "卡哇伊"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "卡哇伊"
+  ],
+  "options": []
+ },
+ {
+  "key": "keliplay",
+  "engine": "python",
+  "keywords": [
+   "可莉打"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kfc",
+  "engine": "python",
+  "keywords": [
+   "kfc",
+   "KFC",
+   "肯德基"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kfc_thursday",
+  "engine": "python",
+  "keywords": [
+   "星期四",
+   "疯狂星期四"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_eat",
+  "engine": "python",
+  "keywords": [
+   "阿布吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_lift_high",
+  "engine": "python",
+  "keywords": [
+   "举高高"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_rub",
+  "engine": "python",
+  "keywords": [
+   "阿布贴贴"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_solace",
+  "engine": "python",
+  "keywords": [
+   "安慰",
+   "阿布安慰"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_weeping",
+  "engine": "python",
+  "keywords": [
+   "抱头痛哭"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_abby_write",
+  "engine": "python",
+  "keywords": [
+   "阿布写信"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "用新鲜的肉烹饪出的沙丁布卡~\n我是比较老派的七丘口味\n这道菜可以添加适量的辣椒\n但不要学拉古那人加奇怪的酸味酱啊！"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_camellya_holdsign",
+  "engine": "python",
+  "keywords": [
+   "大傻椿举牌",
+   "傻椿举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "尽情挣扎，别让我无聊！"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_camellya_photo",
+  "engine": "python",
+  "keywords": [
+   "大傻椿照片",
+   "傻椿照片"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_carlotta_holdsign",
+  "engine": "python",
+  "keywords": [
+   "珂莱塔举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "十连三金"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_carlotta_play",
+  "engine": "python",
+  "keywords": [
+   "一边玩去吧",
+   "一边玩去"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_cartethyia_feetup",
+  "engine": "python",
+  "keywords": [
+   "卡提希娅抬脚",
+   "卡提抬脚"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_cartethyia_holdsign",
+  "engine": "python",
+  "keywords": [
+   "卡提举牌",
+   "卡提希娅举牌",
+   "卡提西亚举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "一份青枝月桂沙拉谢谢"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_cartethyia_say",
+  "engine": "python",
+  "keywords": [
+   "卡提说",
+   "卡提希娅说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我不再是那个无力迷茫、只能等待你拯救的少女了，现在的我已能和你并肩而战，为你提供助益了。"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_changli_finger",
+  "engine": "python",
+  "keywords": [
+   "长离指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_changli_holdsign",
+  "engine": "python",
+  "keywords": [
+   "长离举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "弈棋布势之道，如同万物运转"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_chun_holdsign",
+  "engine": "python",
+  "keywords": [
+   "椿举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "傻？我不傻"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_good_night",
+  "engine": "python",
+  "keywords": [
+   "晚安"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_gugu_blowfish_small_classes",
+  "engine": "python",
+  "keywords": [
+   "咕咕河豚小课堂",
+   "小课堂"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "松伦哥,不要再涩涩了"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_iuno_holdsign",
+  "engine": "python",
+  "keywords": [
+   "尤诺举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "月相轮转之间，我以我为锚点"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_iuno_kick",
+  "engine": "python",
+  "keywords": [
+   "尤诺踢",
+   "优诺踢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_iuno_play",
+  "engine": "python",
+  "keywords": [
+   "尤诺玩",
+   "优诺玩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_iuno_say",
+  "engine": "python",
+  "keywords": [
+   "尤诺说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "月亮游离世间"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_jinhsi_eat",
+  "engine": "python",
+  "keywords": [
+   "今汐吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_jinhsi_sit",
+  "engine": "python",
+  "keywords": [
+   "今汐坐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_jinhsi_steamed_buns",
+  "engine": "python",
+  "keywords": [
+   "今汐小笼包"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_lingyang_holdsign",
+  "engine": "python",
+  "keywords": [
+   "凌阳举牌",
+   "雪豹举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我叫凌阳，比起我摘下狮头后的这幅模样，可能大家更习惯的，还是那位梅花桩上的“狮首”吧？希望相处之后，你能记住这个原原本本的我呀。"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_lupa_eat",
+  "engine": "python",
+  "keywords": [
+   "露帕吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_lupa_holdsign",
+  "engine": "python",
+  "keywords": [
+   "露帕举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "用新鲜的肉烹饪出的沙丁布卡~我是比较老派的七丘口味，这道菜可以添加适量的辣椒，但不要学拉古那人加奇怪的酸味酱啊！"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_lupa_photo",
+  "engine": "python",
+  "keywords": [
+   "露帕照片"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_mortefi_holdsign",
+  "engine": "python",
+  "keywords": [
+   "莫特斐举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "今汐令尹万岁！"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_mp",
+  "engine": "python",
+  "keywords": [
+   "鸣批",
+   "鸣P",
+   "鸣p",
+   "鸣潮玩家",
+   "鸣潮男"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_orang",
+  "engine": "python",
+  "keywords": [
+   "飞廉之猩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_phoebe_holdsign",
+  "engine": "python",
+  "keywords": [
+   "菲比举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我是隐海修会的教士，菲比。岁主在上，愿你的旅途永远有爱与光明垂耀。"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_phoebe_say",
+  "engine": "python",
+  "keywords": [
+   "菲比说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "菲比啾比"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_phoebe_score_sheet",
+  "engine": "python",
+  "keywords": [
+   "菲比评分表",
+   "评分表"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_phrolova_eat",
+  "engine": "python",
+  "keywords": [
+   "弗洛洛吃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_phrolova_holdsign",
+  "engine": "python",
+  "keywords": [
+   "弗洛洛举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我是残星会会监弗洛洛，安静、忧郁，似乎靠近我就会坠入无尽的忧伤之中。在生死之间，我谱写了一篇又一篇曲谱，不断构筑着我心中完美的世界。让我们一起，完成这场万众期待的演奏。"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_phrolova_say",
+  "engine": "python",
+  "keywords": [
+   "弗洛洛说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我等过很久，我不会再等了…"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_roccia_holdsign",
+  "engine": "python",
+  "keywords": [
+   "洛可可举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "佩洛肚皮空空，灵感快来快来"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_rover_cards",
+  "engine": "python",
+  "keywords": [
+   "荣耀之丘"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_rover_head",
+  "engine": "python",
+  "keywords": [
+   "漂泊者头像框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_rover_holdsign",
+  "engine": "python",
+  "keywords": [
+   "漂泊者举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "不可以色色"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_rover_lick",
+  "engine": "python",
+  "keywords": [
+   "漂泊者舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_songlun_dinner",
+  "engine": "python",
+  "keywords": [
+   "松伦晚餐",
+   "松伦哥晚餐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_songlun_finger",
+  "engine": "python",
+  "keywords": [
+   "松伦指",
+   "潮批"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_songlun_holdsign",
+  "engine": "python",
+  "keywords": [
+   "李松伦举牌",
+   "松伦举牌",
+   "松伦哥举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "你必歪雪豹"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_songlun_say",
+  "engine": "python",
+  "keywords": [
+   "松伦说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我看到弹幕上的好好好……"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_the_shorekeeper_holdsign",
+  "engine": "python",
+  "keywords": [
+   "守岸人举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "松伦狗策划太坏了"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_verina_finger",
+  "engine": "python",
+  "keywords": [
+   "维里奈指",
+   "小维指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_verina_group_photo",
+  "engine": "python",
+  "keywords": [
+   "和维里奈合影",
+   "和小维合影"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_verina_holdsign",
+  "engine": "python",
+  "keywords": [
+   "小维举牌",
+   "维里奈举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "希望你开心哦"
+  ],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "kurogames_verina_say",
+  "engine": "python",
+  "keywords": [
+   "小维说",
+   "维里奈说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "希望你开心哦"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_yangyang_holdsign",
+  "engine": "python",
+  "keywords": [
+   "秧秧举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "祝你鸣潮十连三金~"
+  ],
+  "options": []
+ },
+ {
+  "key": "kurogames_yangyang_lover",
+  "engine": "python",
+  "keywords": [
+   "秧秧老公"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_zani_aloft",
+  "engine": "python",
+  "keywords": [
+   "赞妮举"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_zhezhi_draw",
+  "engine": "python",
+  "keywords": [
+   "折枝画画",
+   "折枝绘画"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "kurogames_zhezhi_holdsign",
+  "engine": "python",
+  "keywords": [
+   "折枝举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "祝你鸣潮玩的开心"
+  ],
+  "options": []
+ },
+ {
+  "key": "lash",
+  "engine": "python",
+  "keywords": [
+   "鞭笞",
+   "鞭打",
+   "鞭挞",
+   "鞭策"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "laughing",
+  "engine": "python",
+  "keywords": [
+   "笑指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "laydown_do",
+  "engine": "python",
+  "keywords": [
+   "躺撅"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "lemon",
+  "engine": "python",
+  "keywords": [
+   "柠檬"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "liedui",
+  "engine": "python",
+  "keywords": [
+   "列队"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "little_do",
+  "engine": "python",
+  "keywords": [
+   "小撅",
+   "轻撅",
+   "滑稽撅"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "loading",
+  "engine": "python",
+  "keywords": [
+   "loading"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "lochi_mari_play",
+  "engine": "python",
+  "keywords": [
+   "玛丽玩",
+   "伊落玛丽玩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "look_leg",
+  "engine": "python",
+  "keywords": [
+   "看看腿",
+   "看看脚"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "louvre",
+  "engine": "python",
+  "keywords": [
+   "卢浮宫"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "number",
+   "color",
+   "shade",
+   "denoise",
+   "cover",
+   "dark_cut",
+   "shade_limit",
+   "light",
+   "texture",
+   "lyric"
+  ]
+ },
+ {
+  "key": "ly01",
+  "engine": "python",
+  "keywords": [
+   "ly01",
+   "ly-1",
+   "LY-1"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mahiro_fuck",
+  "engine": "python",
+  "keywords": [
+   "真寻中指",
+   "中指",
+   "🖕🏻"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "masturbate",
+  "engine": "python",
+  "keywords": [
+   "导",
+   "打飞机"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "merry_christmas",
+  "engine": "python",
+  "keywords": [
+   "圣诞快乐",
+   "圣诞节快乐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mi_leijun_holdsign",
+  "engine": "python",
+  "keywords": [
+   "雷军举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "Are you OK ?"
+  ],
+  "options": []
+ },
+ {
+  "key": "mi_monkey",
+  "engine": "python",
+  "keywords": [
+   "米猴",
+   "🐒",
+   "🐵"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_amber_frame",
+  "engine": "python",
+  "keywords": [
+   "安柏相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_bailu_kick",
+  "engine": "python",
+  "keywords": [
+   "白露踢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_barbara_pegg_frame",
+  "engine": "python",
+  "keywords": [
+   "芭芭拉相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_barbatos_frame",
+  "engine": "python",
+  "keywords": [
+   "巴巴托斯",
+   "风神相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_caribert_alberich_frame",
+  "engine": "python",
+  "keywords": [
+   "卡利贝尔相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_chasca_frame",
+  "engine": "python",
+  "keywords": [
+   "恰斯卡相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_citlali_frame",
+  "engine": "python",
+  "keywords": [
+   "茜特菈莉相框",
+   "奶奶相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_columbina_jade_feet",
+  "engine": "python",
+  "keywords": [
+   "玉足"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_duantou",
+  "engine": "python",
+  "keywords": [
+   "断头",
+   "断头台",
+   "罪人舞步旋"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_editorial_society_frame",
+  "engine": "python",
+  "keywords": [
+   "编辑协会相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_elysia_come",
+  "engine": "python",
+  "keywords": [
+   "爱莉希雅降临"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_card",
+  "engine": "python",
+  "keywords": [
+   "芙芙卡片",
+   "芙宁娜卡片",
+   "芙芙酱卡片"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "曾经我是戴上假面的演员，只想要掩饰真相…"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_death_penalty",
+  "engine": "python",
+  "keywords": [
+   "死刑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_finger",
+  "engine": "python",
+  "keywords": [
+   "芙芙指",
+   "芙宁娜指",
+   "芙芙酱指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_holdsign",
+  "engine": "python",
+  "keywords": [
+   "芙宁娜举牌",
+   "芙芙举牌",
+   "芙芙酱举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "真是一派荒芜的景象，让我赐予你们水的恩泽吧！"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_round_head",
+  "engine": "python",
+  "keywords": [
+   "芙芙圆形头像",
+   "芙宁娜圆形头像"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_funina_square_head",
+  "engine": "python",
+  "keywords": [
+   "芙芙方形头像",
+   "芙宁娜方形头像"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_gemini_frame",
+  "engine": "python",
+  "keywords": [
+   "双子相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_genshin_impact_op",
+  "engine": "python",
+  "keywords": [
+   "OP",
+   "op",
+   "Op",
+   "oP"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_genshin_impact_players",
+  "engine": "python",
+  "keywords": [
+   "原批",
+   "原神玩家"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_guoba_frame",
+  "engine": "python",
+  "keywords": [
+   "锅巴相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_hilichurl_frame",
+  "engine": "python",
+  "keywords": [
+   "丘丘人相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_hutao_frame",
+  "engine": "python",
+  "keywords": [
+   "胡桃相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_hutao_holdsign",
+  "engine": "python",
+  "keywords": [
+   "胡桃举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "嗯哼，太阳出来我晒太阳，月亮出来我晒月亮嘞"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_ineffa_droid",
+  "engine": "python",
+  "keywords": [
+   "人机"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_kaveh_frame",
+  "engine": "python",
+  "keywords": [
+   "卡维相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_keqing_pointo",
+  "engine": "python",
+  "keywords": [
+   "刻晴指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_klee_duduke_frame",
+  "engine": "python",
+  "keywords": [
+   "可莉嘟嘟可相框",
+   "嘟嘟可"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_klee_frame",
+  "engine": "python",
+  "keywords": [
+   "可莉相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_klee_hat_frame",
+  "engine": "python",
+  "keywords": [
+   "可莉帽子相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_kujou_sara_frame",
+  "engine": "python",
+  "keywords": [
+   "九条裟罗相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_kuki_shinobu_frame",
+  "engine": "python",
+  "keywords": [
+   "久岐忍相框",
+   "阿忍相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_kuki_shinobu_who",
+  "engine": "python",
+  "keywords": [
+   "此人是谁",
+   "是谁",
+   "是谁？",
+   "是谁？"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_lce_slime_frame",
+  "engine": "python",
+  "keywords": [
+   "冰史莱姆相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_liuwei_dinner",
+  "engine": "python",
+  "keywords": [
+   "刘伟晚餐",
+   "共进晚餐",
+   "大伟哥晚餐"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_liuwei_holdsign",
+  "engine": "python",
+  "keywords": [
+   "刘伟举牌",
+   "大伟举牌",
+   "大伟哥举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "你的声音太尖锐了"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_liuwei_say",
+  "engine": "python",
+  "keywords": [
+   "刘伟说",
+   "大伟说",
+   "大伟哥说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "你的声音太尖锐了"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_lynette_holdsign",
+  "engine": "python",
+  "keywords": [
+   "琳妮特举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "林尼大笨蛋"
+  ],
+  "options": []
+ },
+ {
+  "key": "mihoyo_navia_caspar_persuade",
+  "engine": "python",
+  "keywords": [
+   "说服"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_outlander_frame",
+  "engine": "python",
+  "keywords": [
+   "异乡人相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_paimon_crown",
+  "engine": "python",
+  "keywords": [
+   "派蒙王冠",
+   "派蒙皇冠",
+   "👑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_paimon_emergency_food_frame",
+  "engine": "python",
+  "keywords": [
+   "应急食品相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_paimon_frame",
+  "engine": "python",
+  "keywords": [
+   "派蒙相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_qiqi_suck",
+  "engine": "python",
+  "keywords": [
+   "七七舔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_sangonomiya_kokomi_love",
+  "engine": "python",
+  "keywords": [
+   "心海爱心"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_senior_phone",
+  "engine": "python",
+  "keywords": [
+   "米学长手机"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_shikanoin_heizou_frame",
+  "engine": "python",
+  "keywords": [
+   "鹿野院平藏相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_sigewinne_fingered",
+  "engine": "python",
+  "keywords": [
+   "没救了",
+   "希格雯指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_tartaglia_frame",
+  "engine": "python",
+  "keywords": [
+   "达达利亚相框",
+   "阿贾克斯相框",
+   "公子相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_tepetlisauri_frame",
+  "engine": "python",
+  "keywords": [
+   "嵴锋龙相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_thunderbolt_slime_frame",
+  "engine": "python",
+  "keywords": [
+   "雷史莱姆相框",
+   "雷电史莱姆相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_traveler_frame",
+  "engine": "python",
+  "keywords": [
+   "旅行者相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mihoyo_wind_slime_frame",
+  "engine": "python",
+  "keywords": [
+   "风史莱姆相框"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "miss_in_my_sleep",
+  "engine": "python",
+  "keywords": [
+   "睡梦中想念"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mix_dog",
+  "engine": "python",
+  "keywords": [
+   "小狗"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mixue",
+  "engine": "python",
+  "keywords": [
+   "蜜雪冰城"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mixue_jasmine_milk_green",
+  "engine": "python",
+  "keywords": [
+   "茉莉奶绿"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "mixue_stick_beaten_fresh_orange",
+  "engine": "python",
+  "keywords": [
+   "棒打鲜橙"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "my_certificate",
+  "engine": "python",
+  "keywords": [
+   "我的证"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "牛马"
+  ],
+  "options": []
+ },
+ {
+  "key": "my_friend",
+  "engine": "python",
+  "keywords": [
+   "my_friend"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 10,
+  "default_texts": [
+   "让我康康"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "mygo_sakiko_togawa",
+  "engine": "python",
+  "keywords": [
+   "丰川祥子",
+   "祥子",
+   "豊川祥子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "myplay",
+  "engine": "python",
+  "keywords": [
+   "我敲"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "笨死了"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "nakano_lchika",
+  "engine": "python",
+  "keywords": [
+   "中野一花"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nakano_ltsuki",
+  "engine": "python",
+  "keywords": [
+   "中野五月"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nakano_miku",
+  "engine": "python",
+  "keywords": [
+   "中野三玖"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nakano_nino",
+  "engine": "python",
+  "keywords": [
+   "中野二乃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "nakano_yotsuba",
+  "engine": "python",
+  "keywords": [
+   "中野四叶"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "naruro_resurrection",
+  "engine": "python",
+  "keywords": [
+   "复活",
+   "立即复活"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "naruro_s_ninja",
+  "engine": "python",
+  "keywords": [
+   "S忍",
+   "s忍"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "naruro_uzumaki_naruto_holdsign",
+  "engine": "python",
+  "keywords": [
+   "鸣人举牌",
+   "漩涡鸣人举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我才不要在这种时候放弃,即使当不成中忍,我也会通过其他的途径成为火影的,这就是我的忍道 "
+  ],
+  "options": []
+ },
+ {
+  "key": "national_day_plan",
+  "engine": "python",
+  "keywords": [
+   "国庆计划",
+   "国庆节计划"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "number"
+  ]
+ },
+ {
+  "key": "new_goodnews",
+  "engine": "python",
+  "keywords": [
+   "新喜报"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "喜报传佳讯\n福星高照\n满门庭"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "nizaishuo",
+  "engine": "python",
+  "keywords": [
+   "你再说",
+   "你闭嘴"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "你闭嘴！"
+  ],
+  "options": []
+ },
+ {
+  "key": "not_call_me",
+  "engine": "python",
+  "keywords": [
+   "不喊我"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "开银趴不喊我是吧"
+  ],
+  "options": []
+ },
+ {
+  "key": "ok",
+  "engine": "python",
+  "keywords": [
+   "ok",
+   "OK",
+   "Ok"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "onepunch",
+  "engine": "python",
+  "keywords": [
+   "给你一拳"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "oral_sex",
+  "engine": "python",
+  "keywords": [
+   "口"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "orange_head",
+  "engine": "python",
+  "keywords": [
+   "橘子头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "palworld_chillet",
+  "engine": "python",
+  "keywords": [
+   "疾风鼬"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "palworld_chillet_god_wealth",
+  "engine": "python",
+  "keywords": [
+   "财源滚滚",
+   "财神到"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pay_to_watch",
+  "engine": "python",
+  "keywords": [
+   "付费观看"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "peas",
+  "engine": "python",
+  "keywords": [
+   "我嘞个豆",
+   "豆"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "penshe",
+  "engine": "python",
+  "keywords": [
+   "喷射"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "penshui",
+  "engine": "python",
+  "keywords": [
+   "喷水"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "龙王"
+  ],
+  "options": []
+ },
+ {
+  "key": "piboss",
+  "engine": "python",
+  "keywords": [
+   "痞老板"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "picking_flowers",
+  "engine": "python",
+  "keywords": [
+   "摘花"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pierrot_plus_head",
+  "engine": "python",
+  "keywords": [
+   "拾又之国"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pigcar",
+  "engine": "python",
+  "keywords": [
+   "猪猪车"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pinailong",
+  "engine": "python",
+  "keywords": [
+   "劈奶龙"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pineapple",
+  "engine": "python",
+  "keywords": [
+   "菠萝",
+   "pineapple"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pineapples",
+  "engine": "python",
+  "keywords": [
+   "🍍",
+   "菠萝头"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "play",
+  "engine": "python",
+  "keywords": [
+   "玩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "police_car",
+  "engine": "python",
+  "keywords": [
+   "警车"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "potato_mines",
+  "engine": "python",
+  "keywords": [
+   "土豆地雷"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "pregnancy_test",
+  "engine": "python",
+  "keywords": [
+   "验孕棒"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "qi",
+  "engine": "python",
+  "keywords": [
+   "骑",
+   "狠狠地骑"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "qiejupai",
+  "engine": "python",
+  "keywords": [
+   "企鹅举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "男銅！"
+  ],
+  "options": []
+ },
+ {
+  "key": "qixi_festival",
+  "engine": "python",
+  "keywords": [
+   "七夕和谁过",
+   "七夕和谁过?",
+   "七夕和谁过？"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "quilt",
+  "engine": "python",
+  "keywords": [
+   "被窝"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "qunchao",
+  "engine": "python",
+  "keywords": [
+   "群嘲",
+   "笑他"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "qunyoujupai",
+  "engine": "python",
+  "keywords": [
+   "群友举牌",
+   "他举牌",
+   "你举牌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "我是晓楠嬢"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "rabbit",
+  "engine": "python",
+  "keywords": [
+   "🐇",
+   "兔子",
+   "兔",
+   "兔耳帽"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "read_love_letters",
+  "engine": "python",
+  "keywords": [
+   "看情书"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "richu",
+  "engine": "python",
+  "keywords": [
+   "日出"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "rune",
+  "engine": "python",
+  "keywords": [
+   "符咒"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sayhi",
+  "engine": "python",
+  "keywords": [
+   "打招呼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "小奶龙"
+  ],
+  "options": []
+ },
+ {
+  "key": "scissor_seven_head",
+  "engine": "python",
+  "keywords": [
+   "伍六七",
+   "阿七"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sending_love",
+  "engine": "python",
+  "keywords": [
+   "比心"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shadow_boxing",
+  "engine": "python",
+  "keywords": [
+   "太极"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shamate",
+  "engine": "python",
+  "keywords": [
+   "杀马特"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shikanoko_noko",
+  "engine": "python",
+  "keywords": [
+   "鹿乃子乃子",
+   "鹿乃子"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shipborne_laser_weapons",
+  "engine": "python",
+  "keywords": [
+   "舰载激光武器"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shoot",
+  "engine": "python",
+  "keywords": [
+   "射",
+   "🐍"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "shuai",
+  "engine": "python",
+  "keywords": [
+   "甩"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sikete",
+  "engine": "python",
+  "keywords": [
+   "斯科特"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "那我的屁股怎么办"
+  ],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "sitdown_do",
+  "engine": "python",
+  "keywords": [
+   "坐撅"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "slacking_off",
+  "engine": "python",
+  "keywords": [
+   "摸鱼"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "slipper",
+  "engine": "python",
+  "keywords": [
+   "拖鞋"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sm",
+  "engine": "python",
+  "keywords": [
+   "sm"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "small_hands",
+  "engine": "python",
+  "keywords": [
+   "小手"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "spend_christmas",
+  "engine": "python",
+  "keywords": [
+   "一起圣诞"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "spike_spinebuster",
+  "engine": "python",
+  "keywords": [
+   "斯派克抱摔"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "spinner",
+  "engine": "python",
+  "keywords": [
+   "陀螺"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "stretch",
+  "engine": "python",
+  "keywords": [
+   "双手",
+   "伸展"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "sunflower",
+  "engine": "python",
+  "keywords": [
+   "太阳花"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "swimsuit_group_photo",
+  "engine": "python",
+  "keywords": [
+   "泳衣合影",
+   "比基尼合影"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "throwing_poop",
+  "engine": "python",
+  "keywords": [
+   "扔史"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "together_two",
+  "engine": "python",
+  "keywords": [
+   "在一起"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "top_notch",
+  "engine": "python",
+  "keywords": [
+   "顶尖"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "运营"
+  ],
+  "options": []
+ },
+ {
+  "key": "torture_yourself",
+  "engine": "python",
+  "keywords": [
+   "折磨自己"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "turtle_jue",
+  "engine": "python",
+  "keywords": [
+   "龟龟撅"
+  ],
+  "min_images": 2,
+  "max_images": 2,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "vme50",
+  "engine": "python",
+  "keywords": [
+   "V我50",
+   "v我50"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "vni50",
+  "engine": "python",
+  "keywords": [
+   "v你50"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "给你V50"
+  ],
+  "options": []
+ },
+ {
+  "key": "what_I_want_to_do",
+  "engine": "python",
+  "keywords": [
+   "what_I_want_to_do"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "whisper",
+  "engine": "python",
+  "keywords": [
+   "窃窃私语"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "widow",
+  "engine": "python",
+  "keywords": [
+   "未亡人"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "wuyingtui",
+  "engine": "python",
+  "keywords": [
+   "无影腿"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "xiatou",
+  "engine": "python",
+  "keywords": [
+   "丅亠"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "这个群友，蒸丅亠！"
+  ],
+  "options": []
+ },
+ {
+  "key": "xile",
+  "engine": "python",
+  "keywords": [
+   "洗了"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "救我，我要洗了"
+  ],
+  "options": []
+ },
+ {
+  "key": "xiluo_disgust",
+  "engine": "python",
+  "keywords": [
+   "希罗嫌弃",
+   "二阶堂希罗嫌弃"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "xueli_say",
+  "engine": "python",
+  "keywords": [
+   "雪莉说",
+   "雪梨说",
+   "橘雪莉说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "你是高手？"
+  ],
+  "options": []
+ },
+ {
+  "key": "xueli_think",
+  "engine": "python",
+  "keywords": [
+   "雪莉想",
+   "雪梨想",
+   "橘雪莉想"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yes",
+  "engine": "python",
+  "keywords": [
+   "yes",
+   "Yes",
+   "YES"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yesirmiao",
+  "engine": "python",
+  "keywords": [
+   "敬礼喵"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yo_yo",
+  "engine": "python",
+  "keywords": [
+   "yoyo"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuanshen",
+  "engine": "python",
+  "keywords": [
+   "缘神"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_ayachi_nene",
+  "engine": "python",
+  "keywords": [
+   "宁宁困惑",
+   "绫地宁宁困惑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_ciallo",
+  "engine": "python",
+  "keywords": [
+   "ciallo",
+   "ciallo~",
+   "ciallo～",
+   "柚子社",
+   "yuzusoft"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_holdsign",
+  "engine": "python",
+  "keywords": [
+   "柚子厨举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "不要再涩涩了"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_mako_hitachi_holdsign",
+  "engine": "python",
+  "keywords": [
+   "常陸茉子举牌",
+   "茉子举牌",
+   "常陆茉子举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "Ciallo～"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_blackboard",
+  "engine": "python",
+  "keywords": [
+   "丛雨黑板"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "不要再涩涩了"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_clothes",
+  "engine": "python",
+  "keywords": [
+   "丛雨衣服",
+   "丛雨衣物"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_dislike",
+  "engine": "python",
+  "keywords": [
+   "丛雨讨厌"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "丛雨讨厌这个"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_finger",
+  "engine": "python",
+  "keywords": [
+   "柚子厨",
+   "丛雨指"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_husband",
+  "engine": "python",
+  "keywords": [
+   "丛雨老公"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_ipad",
+  "engine": "python",
+  "keywords": [
+   "丛雨平板"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_like",
+  "engine": "python",
+  "keywords": [
+   "丛雨喜欢"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "丛雨喜欢这个"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_murasame_say",
+  "engine": "python",
+  "keywords": [
+   "丛雨说"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "非酋，不要再涩涩了"
+  ],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_shocked",
+  "engine": "python",
+  "keywords": [
+   "震惊柚子厨"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yuzu_soft_ticket",
+  "engine": "python",
+  "keywords": [
+   "准考证"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "yys_yuanjieshenjupai",
+  "engine": "python",
+  "keywords": [
+   "缘结神举牌"
+  ],
+  "min_images": 0,
+  "max_images": 0,
+  "min_texts": 1,
+  "max_texts": 1,
+  "default_texts": [
+   "阴阳师，启动！"
+  ],
+  "options": []
+ },
+ {
+  "key": "yys_yuanjieshenpeng",
+  "engine": "python",
+  "keywords": [
+   "缘结神举",
+   "缘结神捧"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 1,
+  "default_texts": [
+   "大宝贝！"
+  ],
+  "options": []
+ },
+ {
+  "key": "zhiyexuanshou",
+  "engine": "python",
+  "keywords": [
+   "职业选手"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": [
+   "user_infos",
+   "name"
+  ]
+ },
+ {
+  "key": "zhuishamiao",
+  "engine": "python",
+  "keywords": [
+   "追杀喵"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "zuini",
+  "engine": "python",
+  "keywords": [
+   "嘴你"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "zuoyizuo",
+  "engine": "python",
+  "keywords": [
+   "唑一唑"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
+ },
+ {
+  "key": "zzdd",
+  "engine": "python",
+  "keywords": [
+   "指指点点"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0,
+  "default_texts": [],
+  "options": []
  }
 ]

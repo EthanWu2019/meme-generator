@@ -71,9 +71,17 @@ const cases = [
   ["5000兆",                "image", "纯文字 + 默认"],
   ["滚",                    "image", "roll"],
   ["爬 5",                  "image", "crawl number 数值"],
+  // earth-k 独占表情 -> 走 Python 引擎(8767)
+  ["撅",                    "image", "do (python 引擎)"],
+  ["狠撅",                  "none",  "hendo 无公开素材(预期缺失)"],
+  ["龟龟撅",                "image", "turtle_jue (python)"],
+  ["大撅",                  "image", "big_do (python)"],
+  ["猛撅",                  "none",  "mengjue 无公开素材(预期缺失)"],
+  ["安安举牌 你好",          "image", "acacia_anan_holdsign (文字类)"],
   ["随便聊聊",              "none",  "不该触发"],
   ["我在摸鱼",              "none",  "关键词在中间"],
-  ["摸鱼",                  "none",  "关键词后粘汉字"],
+  ["摸鱼",                  "image", "摸鱼=slacking_off,上游既有行为"],
+  ["摸鱼群",                "none",  "关键词后粘汉字仍不误触"],
 ]
 
 let pass = 0, fail = 0

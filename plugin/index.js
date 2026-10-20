@@ -19,7 +19,8 @@ import { fileURLToPath } from "node:url"
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 const PLUGIN_NAME = "自建表情包"
-const SERVICE = "http://127.0.0.1:8766"
+const SERVICE = "http://127.0.0.1:8766"          // Rust 引擎 (meme-generator-rs)
+const LEGACY_SERVICE = "http://127.0.0.1:8767"  // Python 引擎 (earth-k 独占的那批表情)
 
 /** 开关状态:0=关闭 1=开启 */
 let kg = 1
@@ -38,6 +39,9 @@ const memeTexts = new Map()
 
 /** 表情 key -> 单段文字的最大字数(上游部分表情会声明比 max_texts 更长的默认值) */
 const memeMaxLen = new Map()
+
+/** 表情 key -> "rust" | "python",决定请求打向哪个渲染服务 */
+const memeEngine = new Map()
 
 /** 默认文字表(服务端 /memes 提供) */
 const defaultTexts = new Map()
@@ -182,7 +186,7 @@ function supports(supported, name) {
 }
 
 /** 组装 multipart/form-data(可带多个 images) */
-async function renderService({ key, images = [], texts = [], args = null }) {
+async function renderService({ key, engine = "rust", images = [], texts = [], args = null }) {
   const boundary =
     "----memeplugin" + Date.now().toString(36) + Math.random().toString(36).slice(2, 8)
   const chunks = []
@@ -216,7 +220,8 @@ async function renderService({ key, images = [], texts = [], args = null }) {
 
   chunks.push(Buffer.from(`--${boundary}--\r\n`, "utf8"))
 
-  const resp = await fetch(`${SERVICE}/render`, {
+  const base = engine === "python" ? LEGACY_SERVICE : SERVICE
+  const resp = await fetch(`${base}/render`, {
     method: "POST",
     headers: { "Content-Type": `multipart/form-data; boundary=${boundary}` },
     body: Buffer.concat(chunks)
@@ -272,6 +277,7 @@ export class MemePlugin extends plugin {
       const file = path.join(__dirname, "resources", "memes.json")
       const raw = JSON.parse(fs.readFileSync(file, "utf8"))
       for (const item of raw) {
+        if (item.engine) memeEngine.set(item.key, item.engine)
         for (const kw of item.keywords || []) {
           if (!bq[kw]) bq[kw] = item
         }
@@ -290,6 +296,7 @@ export class MemePlugin extends plugin {
       const file = path.join(__dirname, "resources", "memes.json")
       const raw = JSON.parse(fs.readFileSync(file, "utf8"))
       for (const item of raw) {
+        if (item.engine) memeEngine.set(item.key, item.engine)
         if (Array.isArray(item.options) && item.options.length) {
           memeOptions.set(item.key, new Set(item.options))
         }
@@ -319,12 +326,17 @@ export class MemePlugin extends plugin {
 
   async onStatus(e) {
     const total = new Set(Object.values(bq).map((i) => i.key)).size
-    let svc = "不可用"
-    try {
-      const r = await fetch(`${SERVICE}/health`, { timeout: 5000 })
-      const j = await r.json()
-      svc = `正常(内置 ${j.memes} 个表情 / ${j.images_on_disk} 张素材)`
-    } catch { /* 保持"不可用" */ }
+    const parts = []
+    for (const [label, base] of [["Rust", SERVICE], ["Python", LEGACY_SERVICE]]) {
+      try {
+        const r = await fetch(`${base}/health`, { timeout: 5000 })
+        const j = await r.json()
+        parts.push(`${label} ${j.memes} 个${j.images_on_disk ? ` / ${j.images_on_disk} 张素材` : ""}`)
+      } catch {
+        parts.push(`${label} 不可用`)
+      }
+    }
+    const svc = parts.join("\n")
     return e.reply(
       `表情功能：${kg ? "已开启" : "已关闭"}\n` +
         `本地表情：${total} 个 / 关键词 ${Object.keys(bq).length} 个\n` +
@@ -496,13 +508,14 @@ export class MemePlugin extends plugin {
     if (process.env.MEME_DEBUG) {
       logger.info(
         `[${PLUGIN_NAME}] ${item.key} texts=${JSON.stringify(texts)} ` +
-          `images=${images.length} args=${JSON.stringify(args)}`
+          `engine=${memeEngine.get(item.key)} images=${images.length} args=${JSON.stringify(args)}`
       )
     }
 
     try {
       const buf = await renderService({
         key: item.key,
+        engine: memeEngine.get(item.key) || "rust",
         images,
         texts,
         args: Object.keys(args).length ? args : null
