@@ -39,7 +39,7 @@ t0 = time.time()
 keys = sorted(meta)
 for n, key in enumerate(keys, 1):
     m = meta[key]
-    n_img = max(1, m["min_images"])
+    n_img = m["min_images"]
     n_txt = m["max_texts"]
     if m["min_images"] == 0:
         n_img = 0

@@ -2065,36 +2065,6 @@
   "option_types": {}
  },
  {
-  "key": "little_angel",
-  "keywords": [
-   "小天使"
-  ],
-  "min_images": 1,
-  "max_images": 1,
-  "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": [
-   "gender"
-  ],
-  "option_types": {
-   "gender": "string"
-  }
- },
- {
-  "key": "loading",
-  "keywords": [
-   "加载中"
-  ],
-  "min_images": 1,
-  "max_images": 1,
-  "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": [],
-  "option_types": {}
- },
- {
   "key": "look_flat",
   "keywords": [
    "看扁"

@@ -35,7 +35,7 @@ meme-generator/
 │  ├─ index.js                # 主插件
 │  ├─ package.json
 │  └─ resources/
-│     └─ memes.json           # 关键词表:300 个表情 / 378 个中文关键词
+│     └─ memes.json           # 关键词表:298 个表情 / 376 个中文关键词
 │
 ├─ service/                   # 渲染服务(拷到 MemeService\app\)
 │  ├─ server.py               # FastAPI 服务
@@ -100,7 +100,7 @@ D:\TRSSYUNZAI\MemeService\.venv\Scripts\python.exe fetch_resources.py
 | `5000兆 我去 洛天依` | 纯文字表情,不需要艾特 |
 | `循环` / `套娃` | always 的模式参数 |
 | `表情包搜索 摸` | 查用法 |
-| `表情包列表` | 列出全部 300 个 |
+| `表情包列表` | 列出全部 298 个 |
 | `表情包状态` | 开关 + 服务状态 |
 | `表情包开启` / `表情包关闭` | 开关 |
 
@@ -118,6 +118,20 @@ D:\TRSSYUNZAI\MemeService\.venv\Scripts\python.exe fetch_resources.py
    之后彻底离线。
 4. **计划任务托管** —— Windows 上 SSH 会话起的进程会被 JobObject 杀掉,
    必须走 Task Scheduler(SYSTEM + 开机/登录双触发 + 失败重启)。
+
+---
+
+## 已知问题
+
+上游 `meme-generator-rs` 有 2 个表情在 0.2.3 上不可用，已从词表中剔除：
+
+| key | 症状 |
+|---|---|
+| `little_angel` | 声明 `max_texts=0`，但内部把图片文件名当文字渲染，报 `TextOverLength: user_0.png` |
+| `loading` | 唯一合法参数组合（1 图 0 文字）直接 500 panic |
+
+两者都是上游自身缺陷，任何参数组合都绕不过。上游修复后删掉
+`plugin/resources/memes.json` 里对应的排除逻辑即可恢复。
 
 ---
 
