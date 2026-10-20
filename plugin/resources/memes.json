@@ -12,8 +12,7 @@
   "default_texts": [
    "我去",
    "洛天依"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "abstinence",
@@ -25,7 +24,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "time"
   ]
@@ -42,8 +40,7 @@
   "max_texts": 1,
   "default_texts": [
    "表情包制作"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "acg_entrance",
@@ -57,8 +54,7 @@
   "max_texts": 1,
   "default_texts": [
    "走，跟我去二次元吧"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "add_chaos",
@@ -70,9 +66,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "addiction",
@@ -84,9 +78,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "alike",
@@ -97,9 +89,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "alipay",
@@ -111,7 +101,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "message"
   ]
@@ -126,7 +115,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "mode",
    "circle",
@@ -142,9 +130,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "anan_say",
@@ -172,15 +158,15 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "anya_suki",
   "engine": "rust",
   "keywords": [
-   "阿尼亚喜欢"
+   "阿尼亚喜欢",
+   "阿尼亚",
+   "anyasuki"
   ],
   "min_images": 1,
   "max_images": 1,
@@ -188,8 +174,7 @@
   "max_texts": 0,
   "default_texts": [
    "阿尼亚喜欢这个"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "applaud",
@@ -200,9 +185,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "arona_throw",
@@ -213,9 +196,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ascension",
@@ -229,8 +210,7 @@
   "max_texts": 1,
   "default_texts": [
    "学的是机械"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "ask",
@@ -242,7 +222,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "gender"
   ]
@@ -278,8 +257,7 @@
   "max_texts": 1,
   "default_texts": [
    "我控制不住自己啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "ba_say",
@@ -311,9 +289,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "backflip",
@@ -324,9 +300,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "bad_news",
@@ -340,8 +314,7 @@
   "max_texts": 1,
   "default_texts": [
    "喜报"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "batitle",
@@ -357,8 +330,7 @@
   "default_texts": [
    "Blue",
    "Archive"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "beat_head",
@@ -372,8 +344,7 @@
   "max_texts": 1,
   "default_texts": [
    "怎么说话的你"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "beat_up",
@@ -384,9 +355,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "blamed_mahiro",
@@ -400,8 +369,7 @@
   "max_texts": 1,
   "default_texts": [
    "傻逼"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "blood_pressure",
@@ -412,9 +380,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "bocchi_draft",
@@ -425,9 +391,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "bronya_holdsign",
@@ -442,8 +406,7 @@
   "max_texts": 1,
   "default_texts": [
    "V我50"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "bubble_tea",
@@ -455,7 +418,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "position",
    "left",
@@ -472,9 +434,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_draw",
@@ -485,9 +445,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_point",
@@ -498,9 +456,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_rip",
@@ -511,9 +467,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_rub",
@@ -525,9 +479,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_say",
@@ -541,8 +493,7 @@
   "max_texts": 10,
   "default_texts": [
    "寄"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "capoo_stew",
@@ -553,9 +504,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_strike",
@@ -567,9 +516,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "captain",
@@ -580,9 +527,7 @@
   "min_images": 2,
   "max_images": 5,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "caused_by_this",
@@ -596,8 +541,7 @@
   "max_texts": 1,
   "default_texts": [
    "心脏病 高血压 心律不齐 心肌梗塞 失眠 脱发 呼吸困难 胸闷气短 缺氧 躁郁 焦虑 脑供血不足 心慌心悸 心脑血管炸裂"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "certificate",
@@ -633,8 +577,7 @@
    "你那叫喜欢吗？",
    "你那是馋她身子",
    "你下贱！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "charpic",
@@ -645,9 +588,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chase_train",
@@ -659,9 +600,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "china_flag",
@@ -672,9 +611,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chino_throw",
@@ -686,9 +623,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "clauvio_twist",
@@ -699,9 +634,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "clown",
@@ -713,7 +646,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "person"
   ]
@@ -728,7 +660,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "mode",
    "front",
@@ -744,9 +675,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "coupon",
@@ -757,9 +686,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "cover_face",
@@ -770,9 +697,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "crawl",
@@ -784,7 +709,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "number"
   ]
@@ -798,9 +722,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "daynight",
@@ -812,9 +734,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "decent_kiss",
@@ -825,9 +745,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dianzhongdian",
@@ -843,8 +761,7 @@
   "max_texts": 2,
   "default_texts": [
    "救命啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "dinosaur",
@@ -856,9 +773,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "distracted",
@@ -869,9 +784,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "divorce",
@@ -883,9 +796,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dog_dislike",
@@ -897,7 +808,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "circle"
   ]
@@ -911,9 +821,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dont_go_near",
@@ -924,9 +832,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dont_press",
@@ -940,8 +846,7 @@
   "max_texts": 1,
   "default_texts": [
    "世界毁灭"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "dont_touch",
@@ -952,9 +857,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doraemon_say",
@@ -968,8 +871,7 @@
   "max_texts": 1,
   "default_texts": [
    "开银趴不喊我是吧"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "douyin",
@@ -983,8 +885,7 @@
   "max_texts": 1,
   "default_texts": [
    "douyin"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "eat",
@@ -995,9 +896,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "elysia_holdsign",
@@ -1028,8 +927,7 @@
   "max_texts": 1,
   "default_texts": [
    "听不懂，退朝"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "erised_mirror",
@@ -1040,9 +938,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fade_away",
@@ -1053,9 +949,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fanatic",
@@ -1070,8 +964,7 @@
   "max_texts": 1,
   "default_texts": [
    "洛天依"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "father_work",
@@ -1082,9 +975,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 1,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fencing",
@@ -1096,9 +987,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fight_with_sunuo",
@@ -1110,9 +999,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fill_head",
@@ -1123,9 +1010,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "find_chips",
@@ -1142,8 +1027,7 @@
    "我打算待会去码头整点薯条",
    "我说的是归根结底，活着是为了什么",
    "为了待会去码头整点薯条"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "firefly_holdsign",
@@ -1171,9 +1055,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "flick",
@@ -1185,9 +1067,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "flush",
@@ -1198,9 +1078,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fogging",
@@ -1215,8 +1093,7 @@
   "max_texts": 1,
   "default_texts": [
    "兄弟，回南了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "follow",
@@ -1228,7 +1105,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "gender"
   ]
@@ -1243,9 +1119,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "frieren_take",
@@ -1259,8 +1133,7 @@
   "max_texts": 1,
   "default_texts": [
    "所谓的男人啊，只要送他们这种东西就会很开心"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "funny_mirror",
@@ -1271,9 +1144,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "garbage",
@@ -1285,9 +1156,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "genshin_eat",
@@ -1299,7 +1168,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "character"
   ]
@@ -1316,8 +1184,7 @@
   "max_texts": 1,
   "default_texts": [
    "原神，启动！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "good_news",
@@ -1331,8 +1198,7 @@
   "max_texts": 1,
   "default_texts": [
    "悲报"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "google",
@@ -1346,8 +1212,7 @@
   "max_texts": 1,
   "default_texts": [
    "Google"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "google_captcha",
@@ -1358,9 +1223,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "gorilla_throw",
@@ -1371,9 +1234,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "grab",
@@ -1384,9 +1245,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "grab_both_hands",
@@ -1397,9 +1256,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "guichu",
@@ -1411,7 +1268,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "direction",
    "left",
@@ -1430,7 +1286,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "position",
    "left",
@@ -1447,9 +1302,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "haruhi_raise",
@@ -1460,9 +1313,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "head_butt",
@@ -1473,9 +1324,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "high_eq",
@@ -1491,8 +1340,7 @@
   "default_texts": [
    "高情商",
    "低情商"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "hit_screen",
@@ -1504,9 +1352,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "hold_grudge",
@@ -1534,9 +1380,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "hug",
@@ -1548,9 +1392,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "hug_leg",
@@ -1561,9 +1403,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "hutao_bite",
@@ -1574,9 +1414,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "imprison",
@@ -1590,8 +1428,7 @@
   "max_texts": 1,
   "default_texts": [
    "我发涩图被抓起来了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "incivilization",
@@ -1605,8 +1442,7 @@
   "max_texts": 1,
   "default_texts": [
    "你刚才说的话不是很礼貌！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "intel_inside",
@@ -1620,8 +1456,7 @@
   "max_texts": 1,
   "default_texts": [
    "intel"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "interview",
@@ -1635,8 +1470,7 @@
   "max_texts": 1,
   "default_texts": [
    "采访大佬经验"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "jerry_stare",
@@ -1647,9 +1481,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "jiamianqishi",
@@ -1666,8 +1498,7 @@
    "（飞扑）",
    "一直想看你这幅表情",
    "这幅嫉妒我的表情"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "jiji_king",
@@ -1716,8 +1547,7 @@
   "max_texts": 1,
   "default_texts": [
    "此乃旧病复发也"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "jiujiu",
@@ -1728,9 +1558,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "jump",
@@ -1741,9 +1569,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kaleidoscope",
@@ -1756,7 +1582,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "circle"
   ]
@@ -1770,9 +1595,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "keep_away",
@@ -1786,8 +1609,7 @@
   "max_texts": 1,
   "default_texts": [
    "如何提高社交质量 : \n远离以下头像的人"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "keep_your_money",
@@ -1799,7 +1621,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "character"
   ]
@@ -1813,9 +1634,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kirby_hammer",
@@ -1828,7 +1647,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "circle"
   ]
@@ -1843,9 +1661,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "klee_eat",
@@ -1856,9 +1672,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "knock",
@@ -1869,9 +1683,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kokona_seal",
@@ -1899,9 +1711,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "learn",
@@ -1915,8 +1725,7 @@
   "max_texts": 1,
   "default_texts": [
    "偷学群友数理基础"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "left_right_jump",
@@ -1928,7 +1737,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "direction",
    "left_right",
@@ -1944,9 +1752,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "lick_candy",
@@ -1958,9 +1764,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "lim_x_0",
@@ -1971,9 +1775,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "listen_music",
@@ -1984,9 +1786,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "little_angel",
@@ -1998,7 +1798,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "gender"
   ]
@@ -2007,14 +1806,12 @@
   "key": "loading",
   "engine": "rust",
   "keywords": [
-   "加载中"
+   "loading"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "look_flat",
@@ -2045,8 +1842,7 @@
   "max_texts": 1,
   "default_texts": [
    "朋友\n先看看这个图标再说话"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "loop",
@@ -2058,7 +1854,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "direction",
    "left",
@@ -2076,9 +1871,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "love_you",
@@ -2089,9 +1882,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "luotianyi_need",
@@ -2103,9 +1894,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "luotianyi_say",
@@ -2120,8 +1909,7 @@
   "max_texts": 1,
   "default_texts": [
    "好想去海边啊～"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "luoyonghao_say",
@@ -2135,8 +1923,7 @@
   "max_texts": 1,
   "default_texts": [
    "又不是不能用"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "luxun_say",
@@ -2151,8 +1938,7 @@
   "max_texts": 1,
   "default_texts": [
    "我没有说过这句话"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mahiro_readbook",
@@ -2163,9 +1949,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "maikease",
@@ -2182,8 +1966,7 @@
    "曾这样评价道",
    "如果让我去阻止xxx",
    "那么我宁愿去阻止上帝"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "maimai_awaken",
@@ -2194,9 +1977,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "maimai_join",
@@ -2207,9 +1988,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "make_friend",
@@ -2220,9 +1999,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "marriage",
@@ -2234,9 +2011,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "meteor",
@@ -2250,8 +2025,7 @@
   "max_texts": 1,
   "default_texts": [
    "我要对象"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo",
@@ -2262,9 +2036,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mourning",
@@ -2276,7 +2048,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "gray"
   ]
@@ -2293,8 +2064,7 @@
   "max_texts": 1,
   "default_texts": [
    "你的假期余额不足"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "my_friend_say",
@@ -2308,8 +2078,7 @@
   "max_texts": 10,
   "default_texts": [
    "让我康康"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "my_opinion",
@@ -2321,22 +2090,21 @@
   "min_images": 0,
   "max_images": 0,
   "min_texts": 1,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "my_wife",
   "engine": "rust",
   "keywords": [
    "我老婆",
-   "这是我老婆"
+   "这是我老婆",
+   "这是我的老婆",
+   "mywife"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "pronoun",
    "name"
@@ -2352,9 +2120,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "name_generator",
@@ -2366,9 +2132,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "need",
@@ -2380,9 +2144,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nekoha_holdsign",
@@ -2397,8 +2159,7 @@
   "max_texts": 1,
   "default_texts": [
    "V我50"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "nihaosaoa",
@@ -2414,8 +2175,7 @@
    "既然追求刺激",
    "就贯彻到底了",
    "你好骚啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "nijika_holdsign",
@@ -2429,8 +2189,7 @@
   "max_texts": 1,
   "default_texts": [
    "你可少看点二次元吧"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "no_response",
@@ -2441,9 +2200,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nokia",
@@ -2458,8 +2215,7 @@
   "max_texts": 1,
   "default_texts": [
    "无内鬼，继续交易"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "note_for_leave",
@@ -2487,9 +2243,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "oshi_no_ko",
@@ -2501,7 +2255,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "name"
   ]
@@ -2518,8 +2271,7 @@
   "max_texts": 1,
   "default_texts": [
    "hso!"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "out",
@@ -2530,9 +2282,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "overtime",
@@ -2543,9 +2293,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "p5letter",
@@ -2559,8 +2307,7 @@
   "max_texts": 1,
   "default_texts": [
    "TAKEYOURHEART"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "paint",
@@ -2571,9 +2318,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "painter",
@@ -2584,9 +2329,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "panda_dragon_figure",
@@ -2618,8 +2361,7 @@
   "max_texts": 1,
   "default_texts": [
    "你写!"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "pat",
@@ -2630,9 +2372,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pepe_raise",
@@ -2643,9 +2383,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "perfect",
@@ -2656,9 +2394,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "petpet",
@@ -2673,7 +2409,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "circle"
   ]
@@ -2688,9 +2423,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pixelate",
@@ -2702,7 +2435,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "number"
   ]
@@ -2718,7 +2450,6 @@
   "max_images": 0,
   "min_texts": 1,
   "max_texts": 1,
-  "default_texts": [],
   "options": [
    "character",
    "number",
@@ -2738,9 +2469,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "play_baseball",
@@ -2751,9 +2480,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "play_basketball",
@@ -2765,9 +2492,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "play_game",
@@ -2781,8 +2506,7 @@
   "max_texts": 1,
   "default_texts": [
    "来玩休闲游戏啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "play_together",
@@ -2793,9 +2517,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "police",
@@ -2809,8 +2531,7 @@
   "max_texts": 1,
   "default_texts": [
    "平安名すみれ"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "policeman",
@@ -2821,9 +2542,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pornhub",
@@ -2839,8 +2558,7 @@
   "default_texts": [
    "You",
    "Tube"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "potato",
@@ -2851,9 +2569,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pound",
@@ -2864,9 +2580,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "praise",
@@ -2880,8 +2594,7 @@
   "max_texts": 1,
   "default_texts": [
    "好，不愧是顶尖运营"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "printing",
@@ -2892,9 +2605,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "prpr",
@@ -2907,9 +2618,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "psyduck",
@@ -2924,8 +2633,7 @@
   "default_texts": [
    "来份",
    "涩图"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "punch",
@@ -2936,9 +2644,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pyramid",
@@ -2950,9 +2656,7 @@
   "min_images": 1,
   "max_images": 4,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "qiegewala",
@@ -2971,8 +2675,7 @@
    "有手有脚的",
    "打工是不可能打工的",
    "这辈子不可能打工的"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "raise_image",
@@ -2983,15 +2686,15 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "raise_sign",
   "engine": "rust",
   "keywords": [
-   "举牌"
+   "举牌",
+   "坦克举牌",
+   "tankuku"
   ],
   "min_images": 0,
   "max_images": 0,
@@ -2999,8 +2702,7 @@
   "max_texts": 1,
   "default_texts": [
    "大佬带带我"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "read_book",
@@ -3014,8 +2716,7 @@
   "max_texts": 1,
   "default_texts": [
    "エロ本"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "remote_control",
@@ -3027,9 +2728,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "repeat",
@@ -3043,8 +2742,7 @@
   "max_texts": 1,
   "default_texts": [
    "救命啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "rip",
@@ -3055,9 +2753,7 @@
   "min_images": 1,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rip_angrily",
@@ -3068,9 +2764,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rip_clothes",
@@ -3081,9 +2775,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rise_dead",
@@ -3095,9 +2787,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "roll",
@@ -3108,9 +2798,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rotate_3d",
@@ -3121,9 +2809,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rub",
@@ -3137,9 +2823,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "run",
@@ -3153,8 +2837,7 @@
   "max_texts": 1,
   "default_texts": [
    "快跑"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "run_away",
@@ -3165,9 +2848,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "safe_sense",
@@ -3181,8 +2862,7 @@
   "max_texts": 0,
   "default_texts": [
    "你给我的安全感\n远不及他的万分之一"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "saimin_app",
@@ -3193,9 +2873,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "scratch_head",
@@ -3206,9 +2884,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "scratchcard",
@@ -3222,8 +2898,7 @@
   "max_texts": 1,
   "default_texts": [
    "谢谢参与"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "scroll",
@@ -3237,8 +2912,7 @@
   "max_texts": 1,
   "default_texts": [
    "你们说话啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "seal",
@@ -3249,9 +2923,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sekaiichi_kawaii",
@@ -3262,9 +2934,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shake_head",
@@ -3275,9 +2945,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shiroko_pero",
@@ -3288,9 +2956,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shishilani",
@@ -3307,8 +2973,7 @@
    "拿大哥大有什么用",
    "跟着这样的大哥",
    "食屎啦你"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "shock",
@@ -3319,9 +2984,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shuifandui",
@@ -3338,8 +3001,7 @@
    "谁赞成",
    "谁反对",
    "我反对"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "shutup",
@@ -3353,8 +3015,7 @@
   "max_texts": 1,
   "default_texts": [
    "你不要再说了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "sit_still",
@@ -3365,9 +3026,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "slap",
@@ -3381,8 +3040,7 @@
   "max_texts": 1,
   "default_texts": [
    "你不要再说了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "slogan",
@@ -3401,8 +3059,7 @@
    "混！",
    "将来毕业后要做什么样的人？",
    "混混！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "smash",
@@ -3413,9 +3070,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sold_out",
@@ -3426,9 +3081,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "speechless",
@@ -3439,9 +3092,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "sphere_rotate",
@@ -3452,9 +3103,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "spider",
@@ -3466,9 +3115,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "stare_at_you",
@@ -3479,9 +3126,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "steam_message",
@@ -3495,8 +3140,7 @@
   "max_texts": 1,
   "default_texts": [
    "黑神话：悟空"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "step_on",
@@ -3507,9 +3151,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "stew",
@@ -3520,9 +3162,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "stickman_dancing",
@@ -3534,9 +3174,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "subject3",
@@ -3547,9 +3185,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "suck",
@@ -3561,9 +3197,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "support",
@@ -3574,9 +3208,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "swirl_turn",
@@ -3588,9 +3220,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "symmetric",
@@ -3602,7 +3232,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "direction",
    "left",
@@ -3620,9 +3249,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "taunt",
@@ -3633,9 +3260,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "teach",
@@ -3650,8 +3275,7 @@
   "max_texts": 1,
   "default_texts": [
    "我老婆"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "tease",
@@ -3663,9 +3287,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "telescope",
@@ -3676,9 +3298,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "thermometer_gun",
@@ -3692,21 +3312,20 @@
   "max_texts": 1,
   "default_texts": [
    "笨蛋"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "think_what",
   "engine": "rust",
   "keywords": [
-   "想什么"
+   "想什么",
+   "在想什么",
+   "thinkwhat"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "this_chicken",
@@ -3721,8 +3340,7 @@
   "max_texts": 1,
   "default_texts": [
    "这是十二生肖中的鸡"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "throw",
@@ -3734,9 +3352,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "throw_gif",
@@ -3748,9 +3364,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "thump",
@@ -3761,9 +3375,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "thump_wildly",
@@ -3775,9 +3387,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "tightly",
@@ -3789,9 +3399,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "time_to_go",
@@ -3805,8 +3413,7 @@
   "max_texts": 1,
   "default_texts": [
    "说完了吗？该走了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "together",
@@ -3817,9 +3424,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "tom_tease",
@@ -3830,9 +3435,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "tomb_yeah",
@@ -3844,9 +3447,7 @@
   "min_images": 1,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "trance",
@@ -3857,9 +3458,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "trolley",
@@ -3870,9 +3469,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "turn",
@@ -3883,9 +3480,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "twist",
@@ -3896,9 +3491,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "universal",
@@ -3911,7 +3504,6 @@
   "max_images": 1,
   "min_texts": 1,
   "max_texts": 1,
-  "default_texts": [],
   "options": [
    "size",
    "font",
@@ -3939,8 +3531,7 @@
   "max_texts": 1,
   "default_texts": [
    "我看你们是反了！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "vibrate",
@@ -3951,9 +3542,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wakeup",
@@ -3967,8 +3556,7 @@
   "max_texts": 1,
   "default_texts": [
    "好"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "wallpaper",
@@ -3979,9 +3567,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "walnut_pad",
@@ -3992,9 +3578,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "walnut_zoom",
@@ -4005,9 +3589,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wangjingze",
@@ -4024,8 +3606,7 @@
    "死外边 从这里跳下去",
    "不会吃你们一点东西",
    "真香"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "washer",
@@ -4036,9 +3617,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wave",
@@ -4049,9 +3628,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wechat_pay",
@@ -4063,7 +3640,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "message"
   ]
@@ -4088,8 +3664,7 @@
    "Sorry，有钱真的了不起",
    "不过我想你不会明白这种感觉",
    "不明白，不明白"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "what_he_wants",
@@ -4103,8 +3678,7 @@
   "max_texts": 1,
   "default_texts": [
    "今年520"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "what_i_want_to_do",
@@ -4115,9 +3689,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "why_at_me",
@@ -4128,9 +3700,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "why_have_hands",
@@ -4141,9 +3711,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "windmill_turn",
@@ -4154,9 +3722,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wish_fail",
@@ -4170,8 +3736,7 @@
   "max_texts": 1,
   "default_texts": [
    "我要对象"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "wooden_fish",
@@ -4182,9 +3747,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "worship",
@@ -4196,9 +3759,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "wujing",
@@ -4213,8 +3774,7 @@
   "default_texts": [
    "不买华为不是",
    "人"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "wunian",
@@ -4231,8 +3791,7 @@
    "你知道我这五年是怎么过的吗",
    "我每天躲在家里玩贪玩蓝月",
    "你知道有多好玩吗"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "wuyage",
@@ -4248,8 +3807,7 @@
    "哟 云崽机器人",
    "今天掉线了没",
    "来给他弹个版本过低"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yalidaye",
@@ -4265,8 +3823,7 @@
    "外界都说我们压力大",
    "我觉得吧压力也没有那么大",
    "主要是28岁了还没媳妇儿"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yeshu",
@@ -4287,8 +3844,7 @@
    "用新鲜椰子肉",
    "鲜榨",
    "不用椰浆\n不加香精当生榨"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "you_dont_get",
@@ -4299,9 +3855,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "you_should_call",
@@ -4313,9 +3867,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "your_new_years_eve",
@@ -4326,9 +3878,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "youtube",
@@ -4344,8 +3894,7 @@
   "default_texts": [
    "Porn",
    "Hub"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "zengxiaoxian",
@@ -4362,8 +3911,7 @@
    "偶尔",
    "星际还是魔兽",
    "连连看"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "acacia_anan_holdsign",
@@ -4412,9 +3960,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "aima_say",
@@ -4429,8 +3975,7 @@
   "max_texts": 1,
   "default_texts": [
    "何意味？"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "all_the_days",
@@ -4441,9 +3986,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "allegiance",
@@ -4456,9 +3999,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "andwho",
@@ -4472,8 +4013,7 @@
   "max_texts": 1,
   "default_texts": [
    "原神"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "anyliew_struggling",
@@ -4484,9 +4024,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "atri_finger",
@@ -4497,9 +4035,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "atri_holdsign",
@@ -4513,8 +4049,7 @@
   "max_texts": 1,
   "default_texts": [
    "请不要忘记我哦……\n请一直,一直记住我哦\n明天,请把我带到伊甸\n我想看见大家的笑容\n我想看到大家开心的表情\n我想学习喜悦"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "atri_like",
@@ -4528,8 +4063,7 @@
   "max_texts": 1,
   "default_texts": [
    "亚托莉喜欢这个"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "azur_lane_cheshire_thumbs_up",
@@ -4541,9 +4075,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "baby",
@@ -4558,9 +4090,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "beg_foster_care",
@@ -4571,9 +4101,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "begged_me",
@@ -4584,9 +4112,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "behead",
@@ -4598,9 +4124,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "beloveds",
@@ -4611,9 +4135,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "big_do",
@@ -4624,9 +4146,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "bite",
@@ -4637,9 +4157,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "bluearchive",
@@ -4654,8 +4172,7 @@
   "default_texts": [
    "Blue",
    "Archive"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "bonfire_dance",
@@ -4667,9 +4184,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "buyaolian",
@@ -4684,8 +4199,7 @@
   "max_texts": 1,
   "default_texts": [
    "我就是不要脸\n 你来撕我啊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "can_can_need",
@@ -4696,9 +4210,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "caosini",
@@ -4709,9 +4221,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_fished_out",
@@ -4722,9 +4232,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_love",
@@ -4736,9 +4244,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_qunou",
@@ -4749,9 +4255,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_smash_egg",
@@ -4762,9 +4266,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_take_dump",
@@ -4775,9 +4277,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_take_sleep",
@@ -4789,9 +4289,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoo_take_smash",
@@ -4802,9 +4300,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capooplay",
@@ -4815,9 +4311,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "capoozhao",
@@ -4831,8 +4325,7 @@
   "max_texts": 1,
   "default_texts": [
    "美死了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "cat_lick",
@@ -4844,9 +4337,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "cat_scratch",
@@ -4858,9 +4349,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chiikawa",
@@ -4871,9 +4360,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chillet_deer",
@@ -4884,9 +4371,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chuai",
@@ -4897,9 +4382,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chuangfei",
@@ -4910,9 +4393,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "chuini",
@@ -4923,9 +4404,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "clownish",
@@ -4936,9 +4415,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "cockroaches",
@@ -4950,9 +4427,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "contract",
@@ -4965,9 +4440,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "cooking",
@@ -4978,9 +4451,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dafen",
@@ -4994,8 +4465,7 @@
   "max_texts": 1,
   "default_texts": [
    "满分"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "daxiaojiejiadao",
@@ -5009,8 +4479,7 @@
   "max_texts": 1,
   "default_texts": [
    "通通闪开，大小姐驾到！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "deer_help",
@@ -5022,9 +4491,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "deer_plan",
@@ -5035,9 +4502,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "deer_time",
@@ -5048,9 +4513,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dinosaur_head",
@@ -5061,9 +4524,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "diucat",
@@ -5074,23 +4535,21 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "do",
   "engine": "python",
   "keywords": [
    "撅",
-   "狠狠地撅"
+   "狠狠地撅",
+   "狠撅",
+   "猛撅"
   ],
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dog_ear_hat",
@@ -5102,9 +4561,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dog_girl",
@@ -5115,9 +4572,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_contact",
@@ -5132,9 +4587,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "doro_dear",
@@ -5149,9 +4602,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "doro_kiss",
@@ -5164,9 +4615,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_knight",
@@ -5180,9 +4629,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_lick",
@@ -5196,9 +4643,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_openlight",
@@ -5213,9 +4658,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_orange",
@@ -5231,9 +4674,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "doro_surrounding_photos",
@@ -5244,9 +4685,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "doro_thumbs_up",
@@ -5260,9 +4699,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "doro_trampoline",
@@ -5278,9 +4715,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doro_work_for_you",
@@ -5291,9 +4726,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "dorochou",
@@ -5304,9 +4737,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dorochui",
@@ -5317,9 +4748,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dorojupai",
@@ -5334,8 +4763,7 @@
   "max_texts": 1,
   "default_texts": [
    "我叫哦润吉"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "doroqi",
@@ -5346,9 +4774,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "doroti",
@@ -5359,9 +4785,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dorotuodi",
@@ -5372,9 +4796,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "dorowaimai",
@@ -5388,8 +4810,7 @@
   "max_texts": 1,
   "default_texts": [
    "doro"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "doroya",
@@ -5400,9 +4821,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "downban",
@@ -5414,7 +4833,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "user_infos",
    "time"
@@ -5429,9 +4847,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "drumstick",
@@ -5443,9 +4859,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "duidi",
@@ -5457,9 +4871,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "durian",
@@ -5470,9 +4882,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "electrify_you",
@@ -5486,8 +4896,7 @@
   "max_texts": 1,
   "default_texts": [
    "猪头"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "empathy",
@@ -5498,9 +4907,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "erciyuan",
@@ -5512,7 +4919,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "user_infos",
    "name"
@@ -5527,9 +4933,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "family_know",
@@ -5540,9 +4944,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fart",
@@ -5553,9 +4955,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "feizhaiking",
@@ -5571,8 +4971,7 @@
   "max_texts": 1,
   "default_texts": [
    "肥猪网络皇帝"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "fever",
@@ -5584,9 +4983,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fireworks_head",
@@ -5597,9 +4994,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fishing",
@@ -5610,9 +5005,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fleshlight",
@@ -5623,9 +5016,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fleshlight_air_play",
@@ -5636,9 +5027,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_angel",
@@ -5649,9 +5038,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_cleaning_liquid",
@@ -5662,9 +5049,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_commemorative_edition_saint_sister",
@@ -5675,9 +5060,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_hoshino_alice",
@@ -5689,9 +5072,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "fleshlight_idol_heartbeat",
@@ -5702,9 +5083,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_jissbon",
@@ -5715,9 +5094,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_kuileishushi",
@@ -5728,9 +5105,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_limited_edition_saint_sister",
@@ -5741,9 +5116,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_machinery",
@@ -5756,9 +5129,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_mengxin_packs",
@@ -5769,9 +5140,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_miyuko_kamimiya",
@@ -5782,9 +5151,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_mizuki_shiranui",
@@ -5795,9 +5162,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_nrn",
@@ -5808,9 +5173,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_pure_buttocks",
@@ -5821,9 +5184,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_purple_spirit",
@@ -5834,9 +5195,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_qiaobenyouxi",
@@ -5847,9 +5206,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_random",
@@ -5861,7 +5218,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 1,
-  "default_texts": [],
   "options": [
    "user_infos",
    "number"
@@ -5876,9 +5232,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_saki_haruna",
@@ -5889,9 +5243,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_selena",
@@ -5902,9 +5254,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_starter_pack",
@@ -5915,9 +5265,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_summer_liuli_zi",
@@ -5928,9 +5276,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_taimanin_asgi",
@@ -5941,9 +5287,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "fleshlight_xingnai",
@@ -5954,9 +5298,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "get_up",
@@ -5967,9 +5309,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "gongzei",
@@ -6002,8 +5342,7 @@
   "max_texts": 1,
   "default_texts": [
    "我叫小萌新"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "handwriting",
@@ -6017,8 +5356,7 @@
   "max_texts": 1,
   "default_texts": [
    "你好，世界！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "happy_mid_autumn_festival",
@@ -6030,9 +5368,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "happy_national_day",
@@ -6044,9 +5380,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "happy_new_year",
@@ -6057,9 +5391,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "heartbeat",
@@ -6070,9 +5402,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "heike",
@@ -6088,8 +5418,7 @@
   "max_texts": 1,
   "default_texts": [
    "嘿客"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "high_EQ",
@@ -6104,8 +5433,7 @@
   "default_texts": [
    "高情商",
    "低情商"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "hitachi_mako_together",
@@ -6116,9 +5444,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "horse_riding",
@@ -6129,9 +5455,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "houminghao",
@@ -6145,8 +5469,7 @@
   "max_texts": 1,
   "default_texts": [
    "姐姐不乖哦"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "huochailu",
@@ -6157,9 +5480,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ice_tea_head",
@@ -6170,9 +5491,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ignite",
@@ -6183,9 +5502,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ikun_basketball",
@@ -6197,9 +5514,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ikun_durian_head",
@@ -6210,9 +5525,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ikun_head",
@@ -6223,9 +5536,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "ikun_like",
@@ -6239,8 +5550,7 @@
   "max_texts": 1,
   "default_texts": [
    "坤坤喜欢这个"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "ikun_need_tv",
@@ -6251,9 +5561,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "ikun_why_are_you",
@@ -6265,9 +5573,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "interaction",
@@ -6278,9 +5584,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "izumi_sagiri_painting",
@@ -6291,9 +5595,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "jd_delivery_person",
@@ -6305,9 +5607,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "jd_takeout",
@@ -6318,9 +5618,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "jerk_off",
@@ -6331,9 +5629,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "jianpanxia",
@@ -6347,8 +5643,7 @@
   "max_texts": 1,
   "default_texts": [
    "来点涩图"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kawa",
@@ -6363,8 +5658,7 @@
   "max_texts": 1,
   "default_texts": [
    "卡哇伊"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "keliplay",
@@ -6375,9 +5669,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kfc",
@@ -6390,9 +5682,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kfc_thursday",
@@ -6404,9 +5694,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_eat",
@@ -6417,9 +5705,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_lift_high",
@@ -6430,9 +5716,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_rub",
@@ -6443,9 +5727,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_solace",
@@ -6457,9 +5739,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_weeping",
@@ -6470,9 +5750,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_abby_write",
@@ -6486,8 +5764,7 @@
   "max_texts": 1,
   "default_texts": [
    "用新鲜的肉烹饪出的沙丁布卡~\n我是比较老派的七丘口味\n这道菜可以添加适量的辣椒\n但不要学拉古那人加奇怪的酸味酱啊！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_camellya_holdsign",
@@ -6502,8 +5779,7 @@
   "max_texts": 1,
   "default_texts": [
    "尽情挣扎，别让我无聊！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_camellya_photo",
@@ -6515,9 +5791,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_carlotta_holdsign",
@@ -6531,8 +5805,7 @@
   "max_texts": 1,
   "default_texts": [
    "十连三金"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_carlotta_play",
@@ -6544,9 +5817,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_cartethyia_feetup",
@@ -6558,9 +5829,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_cartethyia_holdsign",
@@ -6576,8 +5845,7 @@
   "max_texts": 1,
   "default_texts": [
    "一份青枝月桂沙拉谢谢"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_cartethyia_say",
@@ -6592,8 +5860,7 @@
   "max_texts": 1,
   "default_texts": [
    "我不再是那个无力迷茫、只能等待你拯救的少女了，现在的我已能和你并肩而战，为你提供助益了。"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_changli_finger",
@@ -6604,9 +5871,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_changli_holdsign",
@@ -6638,8 +5903,7 @@
   "max_texts": 1,
   "default_texts": [
    "傻？我不傻"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_good_night",
@@ -6650,9 +5914,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_gugu_blowfish_small_classes",
@@ -6667,8 +5929,7 @@
   "max_texts": 1,
   "default_texts": [
    "松伦哥,不要再涩涩了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_iuno_holdsign",
@@ -6682,8 +5943,7 @@
   "max_texts": 1,
   "default_texts": [
    "月相轮转之间，我以我为锚点"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_iuno_kick",
@@ -6695,9 +5955,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_iuno_play",
@@ -6709,9 +5967,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_iuno_say",
@@ -6740,9 +5996,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_jinhsi_sit",
@@ -6753,9 +6007,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_jinhsi_steamed_buns",
@@ -6766,9 +6018,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_lingyang_holdsign",
@@ -6783,8 +6033,7 @@
   "max_texts": 1,
   "default_texts": [
    "我叫凌阳，比起我摘下狮头后的这幅模样，可能大家更习惯的，还是那位梅花桩上的“狮首”吧？希望相处之后，你能记住这个原原本本的我呀。"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_lupa_eat",
@@ -6795,9 +6044,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_lupa_holdsign",
@@ -6811,8 +6058,7 @@
   "max_texts": 1,
   "default_texts": [
    "用新鲜的肉烹饪出的沙丁布卡~我是比较老派的七丘口味，这道菜可以添加适量的辣椒，但不要学拉古那人加奇怪的酸味酱啊！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_lupa_photo",
@@ -6823,9 +6069,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_mortefi_holdsign",
@@ -6839,8 +6083,7 @@
   "max_texts": 1,
   "default_texts": [
    "今汐令尹万岁！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_mp",
@@ -6855,9 +6098,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_orang",
@@ -6868,9 +6109,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_phoebe_holdsign",
@@ -6884,8 +6123,7 @@
   "max_texts": 1,
   "default_texts": [
    "我是隐海修会的教士，菲比。岁主在上，愿你的旅途永远有爱与光明垂耀。"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_phoebe_say",
@@ -6915,9 +6153,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_phrolova_eat",
@@ -6928,9 +6164,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_phrolova_holdsign",
@@ -6944,8 +6178,7 @@
   "max_texts": 1,
   "default_texts": [
    "我是残星会会监弗洛洛，安静、忧郁，似乎靠近我就会坠入无尽的忧伤之中。在生死之间，我谱写了一篇又一篇曲谱，不断构筑着我心中完美的世界。让我们一起，完成这场万众期待的演奏。"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_phrolova_say",
@@ -6977,8 +6210,7 @@
   "max_texts": 1,
   "default_texts": [
    "佩洛肚皮空空，灵感快来快来"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_rover_cards",
@@ -6989,9 +6221,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_rover_head",
@@ -7002,9 +6232,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_rover_holdsign",
@@ -7018,8 +6246,7 @@
   "max_texts": 1,
   "default_texts": [
    "不可以色色"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_rover_lick",
@@ -7030,9 +6257,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_songlun_dinner",
@@ -7044,9 +6269,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_songlun_finger",
@@ -7058,9 +6281,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_songlun_holdsign",
@@ -7076,8 +6297,7 @@
   "max_texts": 1,
   "default_texts": [
    "你必歪雪豹"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_songlun_say",
@@ -7109,8 +6329,7 @@
   "max_texts": 1,
   "default_texts": [
    "松伦狗策划太坏了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_verina_finger",
@@ -7122,9 +6341,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_verina_group_photo",
@@ -7136,9 +6353,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_verina_holdsign",
@@ -7172,8 +6387,7 @@
   "max_texts": 1,
   "default_texts": [
    "希望你开心哦"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_yangyang_holdsign",
@@ -7187,8 +6401,7 @@
   "max_texts": 1,
   "default_texts": [
    "祝你鸣潮十连三金~"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "kurogames_yangyang_lover",
@@ -7199,9 +6412,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "kurogames_zani_aloft",
@@ -7212,9 +6423,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_zhezhi_draw",
@@ -7226,9 +6435,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "kurogames_zhezhi_holdsign",
@@ -7242,8 +6449,7 @@
   "max_texts": 1,
   "default_texts": [
    "祝你鸣潮玩的开心"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "lash",
@@ -7257,9 +6463,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "laughing",
@@ -7270,9 +6474,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "laydown_do",
@@ -7283,9 +6485,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "lemon",
@@ -7296,9 +6496,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "liedui",
@@ -7309,9 +6507,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "little_do",
@@ -7324,9 +6520,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "loading",
@@ -7337,9 +6531,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "lochi_mari_play",
@@ -7351,9 +6543,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "look_leg",
@@ -7365,9 +6555,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "louvre",
@@ -7379,7 +6567,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "user_infos",
    "number",
@@ -7405,9 +6592,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mahiro_fuck",
@@ -7420,9 +6605,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "masturbate",
@@ -7434,9 +6617,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "merry_christmas",
@@ -7448,9 +6629,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mi_leijun_holdsign",
@@ -7464,8 +6643,7 @@
   "max_texts": 1,
   "default_texts": [
    "Are you OK ?"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mi_monkey",
@@ -7478,9 +6656,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_amber_frame",
@@ -7491,9 +6667,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_bailu_kick",
@@ -7504,9 +6678,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_barbara_pegg_frame",
@@ -7517,9 +6689,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_barbatos_frame",
@@ -7531,9 +6701,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_caribert_alberich_frame",
@@ -7544,9 +6712,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_chasca_frame",
@@ -7557,9 +6723,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_citlali_frame",
@@ -7571,9 +6735,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_columbina_jade_feet",
@@ -7584,9 +6746,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_duantou",
@@ -7599,9 +6759,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_editorial_society_frame",
@@ -7612,9 +6770,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_elysia_come",
@@ -7625,9 +6781,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_funina_card",
@@ -7643,8 +6797,7 @@
   "max_texts": 1,
   "default_texts": [
    "曾经我是戴上假面的演员，只想要掩饰真相…"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_funina_death_penalty",
@@ -7655,9 +6808,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_funina_finger",
@@ -7670,9 +6821,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_funina_holdsign",
@@ -7688,8 +6837,7 @@
   "max_texts": 1,
   "default_texts": [
    "真是一派荒芜的景象，让我赐予你们水的恩泽吧！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_funina_round_head",
@@ -7701,9 +6849,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_funina_square_head",
@@ -7715,9 +6861,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_gemini_frame",
@@ -7728,9 +6872,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_genshin_impact_op",
@@ -7744,9 +6886,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_genshin_impact_players",
@@ -7758,9 +6898,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_guoba_frame",
@@ -7771,9 +6909,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_hilichurl_frame",
@@ -7784,9 +6920,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_hutao_frame",
@@ -7797,9 +6931,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_hutao_holdsign",
@@ -7813,8 +6945,7 @@
   "max_texts": 1,
   "default_texts": [
    "嗯哼，太阳出来我晒太阳，月亮出来我晒月亮嘞"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_ineffa_droid",
@@ -7825,9 +6956,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_kaveh_frame",
@@ -7838,9 +6967,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_keqing_pointo",
@@ -7851,9 +6978,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "mihoyo_klee_duduke_frame",
@@ -7865,9 +6990,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_klee_frame",
@@ -7878,9 +7001,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_klee_hat_frame",
@@ -7891,9 +7012,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_kujou_sara_frame",
@@ -7904,9 +7023,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_kuki_shinobu_frame",
@@ -7918,9 +7035,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_kuki_shinobu_who",
@@ -7928,15 +7043,12 @@
   "keywords": [
    "此人是谁",
    "是谁",
-   "是谁？",
    "是谁？"
   ],
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "mihoyo_lce_slime_frame",
@@ -7947,9 +7059,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_liuwei_dinner",
@@ -7962,9 +7072,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "mihoyo_liuwei_holdsign",
@@ -7980,8 +7088,7 @@
   "max_texts": 1,
   "default_texts": [
    "你的声音太尖锐了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_liuwei_say",
@@ -7997,8 +7104,7 @@
   "max_texts": 1,
   "default_texts": [
    "你的声音太尖锐了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_lynette_holdsign",
@@ -8012,8 +7118,7 @@
   "max_texts": 1,
   "default_texts": [
    "林尼大笨蛋"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "mihoyo_navia_caspar_persuade",
@@ -8024,9 +7129,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "mihoyo_outlander_frame",
@@ -8037,9 +7140,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_paimon_crown",
@@ -8052,9 +7153,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_paimon_emergency_food_frame",
@@ -8065,9 +7164,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_paimon_frame",
@@ -8078,9 +7175,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_qiqi_suck",
@@ -8091,9 +7186,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_sangonomiya_kokomi_love",
@@ -8104,9 +7197,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_senior_phone",
@@ -8117,9 +7208,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_shikanoin_heizou_frame",
@@ -8130,9 +7219,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_sigewinne_fingered",
@@ -8144,9 +7231,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "mihoyo_tartaglia_frame",
@@ -8159,9 +7244,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_tepetlisauri_frame",
@@ -8172,9 +7255,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_thunderbolt_slime_frame",
@@ -8186,9 +7267,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_traveler_frame",
@@ -8199,9 +7278,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mihoyo_wind_slime_frame",
@@ -8212,9 +7289,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "miss_in_my_sleep",
@@ -8225,9 +7300,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mix_dog",
@@ -8238,9 +7311,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mixue",
@@ -8251,9 +7322,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mixue_jasmine_milk_green",
@@ -8264,9 +7333,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "mixue_stick_beaten_fresh_orange",
@@ -8277,9 +7344,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "my_certificate",
@@ -8293,8 +7358,7 @@
   "max_texts": 1,
   "default_texts": [
    "牛马"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "my_friend",
@@ -8325,9 +7389,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "myplay",
@@ -8356,9 +7418,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nakano_ltsuki",
@@ -8369,9 +7429,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nakano_miku",
@@ -8382,9 +7440,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nakano_nino",
@@ -8395,9 +7451,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "nakano_yotsuba",
@@ -8408,9 +7462,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "naruro_resurrection",
@@ -8422,9 +7474,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "naruro_s_ninja",
@@ -8436,9 +7486,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "naruro_uzumaki_naruto_holdsign",
@@ -8453,8 +7501,7 @@
   "max_texts": 1,
   "default_texts": [
    "我才不要在这种时候放弃,即使当不成中忍,我也会通过其他的途径成为火影的,这就是我的忍道 "
-  ],
-  "options": []
+  ]
  },
  {
   "key": "national_day_plan",
@@ -8467,7 +7514,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 1,
-  "default_texts": [],
   "options": [
    "user_infos",
    "number"
@@ -8504,8 +7550,7 @@
   "max_texts": 1,
   "default_texts": [
    "你闭嘴！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "not_call_me",
@@ -8519,8 +7564,7 @@
   "max_texts": 1,
   "default_texts": [
    "开银趴不喊我是吧"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "ok",
@@ -8533,9 +7577,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "onepunch",
@@ -8546,9 +7588,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "oral_sex",
@@ -8559,9 +7599,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "orange_head",
@@ -8572,9 +7610,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "palworld_chillet",
@@ -8585,9 +7621,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "palworld_chillet_god_wealth",
@@ -8599,9 +7633,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pay_to_watch",
@@ -8612,9 +7644,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "peas",
@@ -8626,9 +7656,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "penshe",
@@ -8639,9 +7667,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "penshui",
@@ -8655,8 +7681,7 @@
   "max_texts": 1,
   "default_texts": [
    "龙王"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "piboss",
@@ -8667,9 +7692,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "picking_flowers",
@@ -8680,9 +7703,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pierrot_plus_head",
@@ -8693,9 +7714,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pigcar",
@@ -8706,9 +7725,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pinailong",
@@ -8719,9 +7736,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pineapple",
@@ -8733,9 +7748,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pineapples",
@@ -8747,9 +7760,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "play",
@@ -8760,9 +7771,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "police_car",
@@ -8773,9 +7782,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "potato_mines",
@@ -8786,9 +7793,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "pregnancy_test",
@@ -8799,9 +7804,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "qi",
@@ -8813,9 +7816,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "qiejupai",
@@ -8829,8 +7830,7 @@
   "max_texts": 1,
   "default_texts": [
    "男銅！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "qixi_festival",
@@ -8843,9 +7843,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "quilt",
@@ -8856,9 +7854,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "qunchao",
@@ -8870,9 +7866,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "qunyoujupai",
@@ -8906,9 +7900,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "read_love_letters",
@@ -8919,9 +7911,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "richu",
@@ -8932,9 +7922,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "rune",
@@ -8945,9 +7933,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "sayhi",
@@ -8961,8 +7947,7 @@
   "max_texts": 1,
   "default_texts": [
    "小奶龙"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "scissor_seven_head",
@@ -8974,9 +7959,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sending_love",
@@ -8987,9 +7970,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shadow_boxing",
@@ -9000,9 +7981,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shamate",
@@ -9013,9 +7992,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shikanoko_noko",
@@ -9027,9 +8004,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shipborne_laser_weapons",
@@ -9040,9 +8015,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shoot",
@@ -9054,9 +8027,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "shuai",
@@ -9067,9 +8038,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sikete",
@@ -9098,9 +8067,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "slacking_off",
@@ -9111,9 +8078,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "slipper",
@@ -9124,9 +8089,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sm",
@@ -9137,9 +8100,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "small_hands",
@@ -9150,9 +8111,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "spend_christmas",
@@ -9163,9 +8122,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "spike_spinebuster",
@@ -9176,9 +8133,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "spinner",
@@ -9189,9 +8144,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "stretch",
@@ -9203,9 +8156,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "sunflower",
@@ -9216,9 +8167,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "swimsuit_group_photo",
@@ -9230,9 +8179,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "throwing_poop",
@@ -9243,9 +8190,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "together_two",
@@ -9256,9 +8201,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "top_notch",
@@ -9272,8 +8215,7 @@
   "max_texts": 1,
   "default_texts": [
    "运营"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "torture_yourself",
@@ -9284,9 +8226,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "turtle_jue",
@@ -9297,9 +8237,7 @@
   "min_images": 2,
   "max_images": 2,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "vme50",
@@ -9311,9 +8249,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "vni50",
@@ -9327,8 +8263,7 @@
   "max_texts": 1,
   "default_texts": [
    "给你V50"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "what_I_want_to_do",
@@ -9339,9 +8274,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "whisper",
@@ -9352,9 +8285,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "widow",
@@ -9365,9 +8296,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "wuyingtui",
@@ -9378,9 +8307,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "xiatou",
@@ -9394,8 +8321,7 @@
   "max_texts": 1,
   "default_texts": [
    "这个群友，蒸丅亠！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "xile",
@@ -9409,8 +8335,7 @@
   "max_texts": 1,
   "default_texts": [
    "救我，我要洗了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "xiluo_disgust",
@@ -9422,9 +8347,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "xueli_say",
@@ -9440,8 +8363,7 @@
   "max_texts": 1,
   "default_texts": [
    "你是高手？"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "xueli_think",
@@ -9454,9 +8376,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yes",
@@ -9469,9 +8389,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yesirmiao",
@@ -9482,9 +8400,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yo_yo",
@@ -9495,9 +8411,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yuanshen",
@@ -9508,9 +8422,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yuzu_soft_ayachi_nene",
@@ -9522,9 +8434,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yuzu_soft_ciallo",
@@ -9539,9 +8449,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yuzu_soft_holdsign",
@@ -9555,8 +8463,7 @@
   "max_texts": 1,
   "default_texts": [
    "不要再涩涩了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_mako_hitachi_holdsign",
@@ -9572,8 +8479,7 @@
   "max_texts": 1,
   "default_texts": [
    "Ciallo～"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_murasame_blackboard",
@@ -9587,8 +8493,7 @@
   "max_texts": 1,
   "default_texts": [
    "不要再涩涩了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_murasame_clothes",
@@ -9600,9 +8505,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yuzu_soft_murasame_dislike",
@@ -9616,8 +8519,7 @@
   "max_texts": 1,
   "default_texts": [
    "丛雨讨厌这个"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_murasame_finger",
@@ -9629,9 +8531,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yuzu_soft_murasame_husband",
@@ -9642,9 +8542,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yuzu_soft_murasame_ipad",
@@ -9655,9 +8553,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "yuzu_soft_murasame_like",
@@ -9671,8 +8567,7 @@
   "max_texts": 1,
   "default_texts": [
    "丛雨喜欢这个"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_murasame_say",
@@ -9686,8 +8581,7 @@
   "max_texts": 1,
   "default_texts": [
    "非酋，不要再涩涩了"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yuzu_soft_shocked",
@@ -9698,9 +8592,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yuzu_soft_ticket",
@@ -9711,9 +8603,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 1,
-  "default_texts": [],
-  "options": []
+  "max_texts": 1
  },
  {
   "key": "yys_yuanjieshenjupai",
@@ -9727,8 +8617,7 @@
   "max_texts": 1,
   "default_texts": [
    "阴阳师，启动！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "yys_yuanjieshenpeng",
@@ -9743,8 +8632,7 @@
   "max_texts": 1,
   "default_texts": [
    "大宝贝！"
-  ],
-  "options": []
+  ]
  },
  {
   "key": "zhiyexuanshou",
@@ -9756,7 +8644,6 @@
   "max_images": 1,
   "min_texts": 0,
   "max_texts": 0,
-  "default_texts": [],
   "options": [
    "user_infos",
    "name"
@@ -9771,9 +8658,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "zuini",
@@ -9784,9 +8669,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "zuoyizuo",
@@ -9797,9 +8680,7 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
  },
  {
   "key": "zzdd",
@@ -9810,8 +8691,19 @@
   "min_images": 1,
   "max_images": 1,
   "min_texts": 0,
-  "max_texts": 0,
-  "default_texts": [],
-  "options": []
+  "max_texts": 0
+ },
+ {
+  "key": "whyatme",
+  "engine": "python",
+  "keywords": [
+   "为什么艾特我",
+   "为啥艾特我",
+   "whyatme"
+  ],
+  "min_images": 1,
+  "max_images": 1,
+  "min_texts": 0,
+  "max_texts": 0
  }
 ]

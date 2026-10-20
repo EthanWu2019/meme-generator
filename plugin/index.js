@@ -18,6 +18,7 @@ import { fileURLToPath } from "node:url"
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
+let _loaded = false                  // 进程级:词表只真正加载一次
 const PLUGIN_NAME = "自建表情包"
 const SERVICE = "http://127.0.0.1:8766"          // Rust 引擎 (meme-generator-rs)
 const LEGACY_SERVICE = "http://127.0.0.1:8767"  // Python 引擎 (earth-k 独占的那批表情)
@@ -267,8 +268,11 @@ export class MemePlugin extends plugin {
         { reg: "^#?表情包搜索\\s*(.+)$", fnc: "onSearch" }
       ]
     })
-    this.loadKeywordTable()
-    this.loadMemeMeta()
+    if (!_loaded) {                // 词表/元数据只在进程第一次实例化时加载,日志只发一次
+      _loaded = true
+      this.loadKeywordTable()
+      this.loadMemeMeta()
+    }
   }
 
   /** 加载本地关键词表 */
@@ -494,13 +498,21 @@ export class MemePlugin extends plugin {
       texts = []
     }
 
-    // 文字表情缺文字时补默认文字
-    if (texts.length === 0) {
+    // 兜底:如果声明的文字上限仍超(元数据陈旧 / 上游改了约束),
+    // 按上限裁掉,而不是把非法 token 送到服务端再报错。
+    if (textSpec.max > 0 && texts.length > textSpec.max) {
+      texts = texts.slice(0, textSpec.max)
+    }
+    if (texts.length < (textSpec.min ?? 0)) {
       const d = defaultTexts.get(item.key)
-      if (d?.length) {
-        const cap = textSpec.max > 0 ? textSpec.max : d.length
-        texts = d.slice(0, Math.min(d.length, cap))
-      }
+      if (d?.length) texts = d.slice(0, textSpec.min)
+    }
+
+    // 文字表情缺文字时补默认文字。
+    // max_texts === 0 的模板(纯头像/纯参数类)一律不补——补了必然超出上限。
+    if (texts.length === 0 && textSpec.max > 0) {
+      const d = defaultTexts.get(item.key)
+      if (d?.length) texts = d.slice(0, Math.min(d.length, textSpec.max))
     }
 
     // 用户输入的文字可能超长,服务端会直接拒。
